@@ -9,7 +9,7 @@ Ficheros
 --------
 
 - `galicia.csv`. Serie histórica básica de Galicia (casos totales, activos, altas y fallecimientos). Las columnas son:
-    - `Galicia.casos.acum`: Casos totales hasta la fecha.
+    - `Galicia.casos.acum`: Casos totales hasta la fecha. La Consellería de Sanidade publica los casos activos y no los casos totales como tal. Esta columna es la resultante de sumarle los fallecidos y las altas al dato de activos de la Consellería. Por tanto, los casos activos serían `Galicia.casos.acum` - `Galicia.altas.acum` - `Galicia.fallecidos.acum`.
     - `Galicia.altas.acum`: Altas totales hasta la fecha.
     - `Galicia.fallecidos.acum`: Fallecidos totales hasta la fecha.
 - `ourense.csv`. Serie histórica básica del área sanitaria de Ourense, Verín e O Barco de Valdeorras. Las columnas son:
