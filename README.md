@@ -81,3 +81,9 @@ Ficheros
     - `ferrol.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
     - `ferrol.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
     - `ferrol.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
+
+Por otra parte se incluye un fichero que contiene la correspondencia entre municipios y áreas sanitarias. Las columnas son:
+- `municipios-areas-csv`.
+    - `municipio`.
+    - `provincia`.
+    - `area_sanitaria`.
