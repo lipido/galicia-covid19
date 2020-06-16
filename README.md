@@ -4,6 +4,7 @@ Datos COVID-19 Galicia
 Este repositorio contiene datos del COVID-19 para la Comunidad Autónoma de Galicia. Las fuentes son:
 - Consellería de Sanidade (Xunta de Galicia). Proporciona datos a nivel global de la Comunidad Autónoma de Galicia y únicamente de casos activos por Área Sanitaria.
 - Xerencia da Área Sanitaria de Ourense, Verín e O Barco de Valdeorras (SERGAS). Proporciona datos de detallados de Ourense y del resto de Áreas Sanitarias.
+- Instituto de Salud Carlos III. Proporciona la serie de casos confirmados por PCR por fecha de inicio de síntomas a nivel provincial.
 
 Ficheros
 --------
@@ -87,3 +88,21 @@ Por otra parte se incluye un fichero que contiene la correspondencia entre munic
     - `municipio`.
     - `provincia`.
     - `area_sanitaria`.
+
+
+### Series de casos confirmados por PCR
+Estos ficheros contienen las series de casos *por fecha de inicio de síntomas o, en su defecto, de diagnóstico menos 6 días*. Los ficheros son:
+- `casos.coruna.csv`. Casos para la provincia de A Coruña.
+- `casos.lugo.csv`. Casos para la provincia de Lugo.
+- `casos.ourense.csv`. Casos para la provincia de Ourense.
+- `casos.pontevedra.csv`. Casos para la provincia de Pontevedra.
+
+Todos estos ficheros tienen las mismas columnas y se definen de la siguiente forma (fuente: ISCIII):
+- `num_casos`: el número de casos totales, confirmados o probables.
+- `num_casos_prueba_pcr`: el número de casos con prueba de laboratorio PCR o técnicas moleculares.
+- `num_casos_prueba_test_ac`: el número de casos con prueba de laboratorio de test rápido de anticuerpos.
+- `num_casos_prueba_otras`: el número de casos con otras pruebas de laboratorio, mayoritariamente por detección de antígeno o técnica Elisa.
+- `num_casos_prueba_desconocida`: el número de casos sin información sobre la prueba de laboratorio.
+
+
+
