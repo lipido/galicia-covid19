@@ -90,7 +90,7 @@ Por otra parte se incluye un fichero que contiene la correspondencia entre munic
     - `area_sanitaria`.
 
 
-### Series de casos confirmados por PCR
+### Series de casos confirmados en el ISCIII RENAVE
 Estos ficheros contienen las series de casos *por fecha de inicio de síntomas o, en su defecto, de diagnóstico menos 6 días*. Los ficheros son:
 - `casos.coruna.csv`. Casos para la provincia de A Coruña.
 - `casos.lugo.csv`. Casos para la provincia de Lugo.
