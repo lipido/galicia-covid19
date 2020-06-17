@@ -98,6 +98,7 @@ Estos ficheros contienen las series de casos *por fecha de inicio de síntomas o
 - `casos.pontevedra.csv`. Casos para la provincia de Pontevedra.
 
 Todos estos ficheros tienen las mismas columnas y se definen de la siguiente forma (fuente: ISCIII):
+- `fecha`: la fecha de inicio de síntomas o, en su defecto, la fecha de diagnóstico menos 6 días.
 - `num_casos`: el número de casos totales, confirmados o probables.
 - `num_casos_prueba_pcr`: el número de casos con prueba de laboratorio PCR o técnicas moleculares.
 - `num_casos_prueba_test_ac`: el número de casos con prueba de laboratorio de test rápido de anticuerpos.
