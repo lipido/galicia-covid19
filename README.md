@@ -4,7 +4,7 @@ Datos COVID-19 Galicia
 Este repositorio contiene datos del COVID-19 para la Comunidad Autónoma de Galicia. Las fuentes son:
 - Consellería de Sanidade (Xunta de Galicia). Proporciona datos a nivel global de la Comunidad Autónoma de Galicia y únicamente de casos activos por Área Sanitaria.
 - Xerencia da Área Sanitaria de Ourense, Verín e O Barco de Valdeorras (SERGAS). Proporciona datos de detallados de Ourense y del resto de Áreas Sanitarias.
-- Instituto de Salud Carlos III. Proporciona la serie de casos confirmados por PCR por fecha de inicio de síntomas a nivel provincial.
+- Instituto de Salud Carlos III. Proporciona la serie de casos por fecha de inicio de síntomas a nivel provincial.
 
 Ficheros
 --------
