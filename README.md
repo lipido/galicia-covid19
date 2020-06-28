@@ -6,8 +6,9 @@ Este repositorio contiene datos del COVID-19 para la Comunidad Autónoma de Gali
 - Xerencia da Área Sanitaria de Ourense, Verín e O Barco de Valdeorras (SERGAS). Proporciona datos de detallados de Ourense y del resto de Áreas Sanitarias.
 - Instituto de Salud Carlos III. Proporciona la serie de casos por fecha de inicio de síntomas a nivel provincial.
 
-Ficheros
---------
+Series históricas del SERGAS
+----------------------------
+Las series históricas proporcionadas por el SERGAS. Los ficheros son:
 
 - `galicia.csv`. Serie histórica básica de Galicia (casos totales, activos, altas y fallecimientos). Las columnas son:
     - `Galicia.casos.acum`: Casos totales hasta la fecha. La Consellería de Sanidade publica los casos activos y no los casos totales como tal. Esta columna es la resultante de sumarle los fallecidos y las altas al dato de activos de la Consellería. Por tanto, los casos activos serían `Galicia.casos.acum` - `Galicia.altas.acum` - `Galicia.fallecidos.acum`.
@@ -90,7 +91,8 @@ Por otra parte se incluye un fichero que contiene la correspondencia entre munic
     - `area_sanitaria`.
 
 
-### Series de casos confirmados en el ISCIII RENAVE
+Series de casos confirmados en el ISCIII RENAVE
+-----------------------------------------------
 Estos ficheros contienen las series de casos *por fecha de inicio de síntomas o, en su defecto, de diagnóstico menos 6 días*. Los ficheros son:
 - `casos.coruna.csv`. Casos para la provincia de A Coruña.
 - `casos.lugo.csv`. Casos para la provincia de Lugo.
@@ -105,5 +107,25 @@ Todos estos ficheros tienen las mismas columnas y se definen de la siguiente for
 - `num_casos_prueba_otras`: el número de casos con otras pruebas de laboratorio, mayoritariamente por detección de antígeno o técnica Elisa.
 - `num_casos_prueba_desconocida`: el número de casos sin información sobre la prueba de laboratorio.
 
+
+Serie historica de casos activos y fallecidos en centros residenciales
+------------------------------------------------------------
+
+El SERGAS reporta información sobre los *centros residenciales*, que son de dos tipos:
+- *Residencias*. Residencias públicas o privadas de personas de la tercera edad.
+- *Hospitales y residencias integradas*. Centros habilitados como combinación de hospital y residencia para tratar a pacientes de COVID19.
+
+Esta serie histórica contiene casos activos y fallecidos vinculados con centros residenciales (ambos tipos) proporcionados por el SERGAS. Concretamente contiene (i) casos activos de profesionales y usuarios de centros residenciales a nivel global de Galicia, (ii) fallecidos totales en estos los dos tipos de centros residenciales y (iii) fallecidos totales de cada una de las residencias gallegas donde ha habido algún fallecimiento por COVID19.
+
+La serie histórica comienza el 8 de Abril de 2020, cuando los informes diarios del SERGAS proporcionan información específica de los centros residenciales, indicando los nuevos fallecidos del día anterior en cada residencia. Para reconstruir la serie histórica de los fallecidos en cada residencia, se obtuvo el total de cada residencia en "El mapa y la evolución del coronavirus en Galicia" del Faro de Vigo (https://afondo.farodevigo.es/galicia/el-mapa-del-coronavirus-en-galicia.html) a día 26 de Junio de 2020 y, mediante los informes diarios del SERGAS, se fueron restando los nuevos fallecidos reportados ese día en cada residencia, hasta llegar al 8 de Abril del 2020. En este sentido, algunas residencias comienzan la serie histórica con varios fallecidos (sobre todo las que más fallecidos tuvieron).
+
+Los ficheros son:
+
+- `centros_residenciales.csv`. Contiene la serie histórica de casos activos y fallecimientos en centros residenciales. Las columnas son:
+    - `activos.residentes`. Casos activos de usuarios residentes en centros residenciales.
+    - `activos.profesionales`. Casos activos de profesionales en centros residenciales.
+    - `fallecidos.residencias.acum`. Total de fallecidos en residencias.
+    - `fallecidos.hospitales_residencias_integradas.acum`. Total de fallecidos en hospitales y residencias integradas.
+    - `fallecidos.residencia.<localidad>.<provincia>.<nombre>.acum`. Total de fallecidos en una residencia concreta. Estas columnas son únicamente referentes a residencias, no a hospitales y residencias integradas.
 
 
