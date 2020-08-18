@@ -6,6 +6,11 @@ Este repositorio contiene datos del COVID-19 para la Comunidad Autónoma de Gali
 - Xerencia da Área Sanitaria de Ourense, Verín e O Barco de Valdeorras (SERGAS). Proporciona datos de detallados de Ourense y del resto de Áreas Sanitarias.
 - Instituto de Salud Carlos III. Proporciona la serie de casos por fecha de inicio de síntomas a nivel provincial.
 
+Agradecimientos
+---------------
+- Servizo de Comunicación da Área Sanitaria do Sergas de Ourense, Verín e O Barco de Valdeorras ([@Com_CHUO](https://twitter.com/Com_CHUO)), por haber hecho posible este proyecto facilitando los datos detallados por Área Sanitaria.
+- Ana Blasco ([@_ablasco](https://twitter.com/_ablasco)), periodista del Faro de Vigo, por facilitar datos históricos del Área Sanitaria de Vigo que faltaban.
+
 Series históricas del SERGAS
 ----------------------------
 Las series históricas proporcionadas por el SERGAS. Los ficheros son:
