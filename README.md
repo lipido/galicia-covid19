@@ -20,7 +20,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Galicia.altas.acum`: Altas totales hasta la fecha.
     - `Galicia.fallecidos.acum`: Fallecidos totales hasta la fecha.
 - `ourense.csv`. Serie histórica básica del área sanitaria de Ourense, Verín e O Barco de Valdeorras. Las columnas son:
-    - `Ourense.casos.acum`: Casos totales hasta la fecha. Los casos son con PCR positiva a partir del 25 de mayo con total seguridad. Antes de esta fecha se incluían casos diagnosticados clínicamente con posterior test positivo de anticuerpos. Podrían ser unos 200 casos y concentrados al principio de la serie.
+    - `Ourense.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `Ourense.altas.acum`: Altas totales hasta la fecha. 
     - `Ourense.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
 - `ourense.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Ourense, Verín e O Barco de Valdeorras. Las columnas son:
@@ -34,7 +34,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Ourense.uci_COSAGA`: Pacientes en UCI en la clínica el hospital CO.SA.GA (privado).
     - `Ourense.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en Ourense. Algunas pruebas PCR a pacientes de Ourense se hicieron en Vigo y no están contabilizadas aquí.
 - `lugo.csv`. Serie histórica básica del área sanitaria de Lugo, Cervo e Monforte de Lemos. Las columnas son:
-    - `lugo.casos.acum`: Casos totales hasta la fecha. Los casos son con PCR positiva a partir del 25 de mayo con total seguridad. Antes de esta fecha se incluían casos diagnosticados clínicamente con posterior test positivo de anticuerpos. Podrían ser unos 200 casos y concentrados al principio de la serie.
+    - `lugo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `lugo.altas.acum`: Altas totales hasta la fecha. 
     - `lugo.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
 - `lugo.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Lugo, Cervo e Monforte de Lemos. Las columnas son. Las columnas son:
@@ -43,7 +43,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Lugo.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
     - `Lugo.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
 - `vigo.csv`. Serie histórica básica del área sanitaria de Vigo. Las columnas son:
-    - `vigo.casos.acum`: Casos totales hasta la fecha. Los casos son con PCR positiva a partir del 25 de mayo con total seguridad. Antes de esta fecha se incluían casos diagnosticados clínicamente con posterior test positivo de anticuerpos. Podrían ser unos 200 casos y concentrados al principio de la serie.
+    - `vigo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `vigo.altas.acum`: Altas totales hasta la fecha. 
     - `vigo.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
 - `vigo.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Vigo. Las columnas son. Las columnas son:
@@ -52,7 +52,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `vigo.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
     - `vigo.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
 - `pontevedra.csv`. Serie histórica básica del área sanitaria de Pontevedra e O Salnés. Las columnas son:
-    - `pontevedra.casos.acum`: Casos totales hasta la fecha. Los casos son con PCR positiva a partir del 25 de mayo con total seguridad. Antes de esta fecha se incluían casos diagnosticados clínicamente con posterior test positivo de anticuerpos. Podrían ser unos 200 casos y concentrados al principio de la serie.
+    - `pontevedra.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `pontevedra.altas.acum`: Altas totales hasta la fecha. 
     - `pontevedra.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
 - `pontevedra.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Pontevedra e O Salnés. Las columnas son. Las columnas son:
@@ -62,7 +62,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `pontevedra.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
 
 - `santiago.csv`. Serie histórica básica del área sanitaria de Santiago de Compostela. Las columnas son:
-    - `santiago.casos.acum`: Casos totales hasta la fecha. Los casos son con PCR positiva a partir del 25 de mayo con total seguridad. Antes de esta fecha se incluían casos diagnosticados clínicamente con posterior test positivo de anticuerpos. Podrían ser unos 200 casos y concentrados al principio de la serie.
+    - `santiago.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `santiago.altas.acum`: Altas totales hasta la fecha. 
     - `santiago.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
 - `santiago.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Santiago de Compostela. Las columnas son. Las columnas son:
@@ -71,7 +71,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `santiago.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
     - `santiago.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
 - `coruna.csv`. Serie histórica básica del área sanitaria de A Coruña. Las columnas son:
-    - `coruna.casos.acum`: Casos totales hasta la fecha. Los casos son con PCR positiva a partir del 25 de mayo con total seguridad. Antes de esta fecha se incluían casos diagnosticados clínicamente con posterior test positivo de anticuerpos. Podrían ser unos 200 casos y concentrados al principio de la serie.
+    - `coruna.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `coruna.altas.acum`: Altas totales hasta la fecha. 
     - `coruna.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
 - `coruna.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de A Coruña. Las columnas son. Las columnas son:
@@ -80,7 +80,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `coruna.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
     - `coruna.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
 - `ferrol.csv`. Serie histórica básica del área sanitaria de Ferrol. Las columnas son:
-    - `ferrol.casos.acum`: Casos totales hasta la fecha. Los casos son con PCR positiva a partir del 25 de mayo con total seguridad. Antes de esta fecha se incluían casos diagnosticados clínicamente con posterior test positivo de anticuerpos. Podrían ser unos 200 casos y concentrados al principio de la serie.
+    - `ferrol.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `ferrol.altas.acum`: Altas totales hasta la fecha. 
     - `ferrol.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
 - `ferrol.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Ferrol. Las columnas son. Las columnas son:
