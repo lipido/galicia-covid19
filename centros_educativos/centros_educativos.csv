@@ -1,74 +1,74 @@
 Fecha,area_sanitaria,concello,tipo_centro,nombre_centro,positivos,aulas_cerradas,centro_cerrado
-2020-09-19,CORUÑA,A CORUÑA,E.I.,Mariñas,1,0,no
-2020-09-19,CORUÑA,A CORUÑA,E.I.,Kid's Garden,2,0,no
-2020-09-19,CORUÑA,OLEIROS,E.I.,Mera,1,0,no
-2020-09-19,CORUÑA,ARTEIXO,CEIP,Ponte dos Brozos,1,0,no
-2020-09-19,CORUÑA,A CORUÑA,CPR,Plurilingüe Karbo,1,0,no
-2020-09-19,CORUÑA,A CORUÑA,CPR,Plurilingüe Cristo Rey,1,0,no
-2020-09-19,CORUÑA,A CORUÑA,CEIP,Alborada,1,1,no
-2020-09-19,CORUÑA,A CORUÑA,CPR,Obradoiro,1,0,no
-2020-09-19,CORUÑA,A CORUÑA,CEIP,Ramón de la Sagra,2,2,no
-2020-09-19,CORUÑA,A CORUÑA,CEIP,Fernández Latorre,3,1,no
-2020-09-19,CORUÑA,A CORUÑA,CEIP,Rosalía de Castro,1,1,no
-2020-09-19,CORUÑA,AMES,IES,do Milladoiro,1,0,no
-2020-09-19,CORUÑA,BRIÓN,CEIP,Plurilingüe de Pedrouzos,2,0,no
-2020-09-19,CORUÑA,CAMBRE,CEIP,Wenceslao Fernández Flórez,1,0,no
-2020-09-19,CORUÑA,CARBALLO,CEIP,Plurilingüe A Cristina,1,0,no
-2020-09-19,CORUÑA,CARBALLO,CEIP,Netoma-Razo,1,1,no
-2020-09-19,CORUÑA,CEE,CPR,Rial,1,0,no
-2020-09-19,CORUÑA,CULLEREDO,CPR,Andaina,1,0,no
-2020-09-19,FERROL,NARÓN,CPR,Ayala,1,0,no
-2020-09-19,SANTIAGO,BOIRO,E.I.,Praia Xardín,1,0,no
-2020-09-19,SANTIAGO,LALÍN,E.I.,Pontiñas,1,0,no
-2020-09-19,SANTIAGO,SANTIAGO,E.I.,Cativos Conxo,1,0,no
-2020-09-19,SANTIAGO,SANTIAGO,E.I.,Salgueiriño,2,1,no
-2020-09-19,SANTIAGO,ARZÚA,CEIP,Arzúa,1,1,no
-2020-09-19,SANTIAGO,DODRO,EEI,Laíño (CRA Dodro),1,1,no
-2020-09-19,SANTIAGO,PADRÓN,CEIP,Rosalía de Castro,3,1,no
-2020-09-19,SANTIAGO,RIANXO,CEIP,Castelao,1,0,no
-2020-09-19,SANTIAGO,SANTIAGO,CEIP,Vite,1,0,no
-2020-09-19,SANTIAGO,SANTIAGO,EEI,Gaioso,2,1,no
-2020-09-19,SANTIAGO,SANTIAGO,CEEPR,ASPANAES Duques de Lugo,1,0,no
-2020-09-19,SANTIAGO,SANTIAGO,CEIP,Plurilingüe Emma,1,0,no
-2020-09-19,SANTIAGO,TEO,CEIP,A Igrexa-Calo,1,0,no
-2020-09-19,LUGO,CHANTADA,CEIP,Xoán de Requeixo,1,0,no
-2020-09-19,LUGO,FRIOL,CPR,San José,1,1,no
-2020-09-19,LUGO,FRIOL,CPI,DR. López Suárez,1,0,no
-2020-09-19,LUGO,O INCIO,CEIP,Ricardo Gasset,1,0,no
-2020-09-19,LUGO,RIBADEO,CPR,Sagrado Corazón,1,1,no
-2020-09-19,LUGO,LUGO,CPR,Plurilingüe La Inmaculada,2,0,no
-2020-09-19,LUGO,LUGO,CEIP,As Gándaras,3,0,no
-2020-09-19,OURENSE,OURENSE,CEIP,Mestre Vide,1,0,no
-2020-09-19,OURENSE,OURENSE,CPR,Santa María,1,0,no
-2020-09-19,OURENSE,OURENSE,CPR,Santo Ángel,2,1,no
-2020-09-19,OURENSE,OURENSE,CEIP,Irmáns Villar,1,0,no
-2020-09-19,OURENSE,OURENSE,CPR,Plurilingüe San José,1,0,no
-2020-09-19,OURENSE,OURENSE,CPR,Divina Pastora,1,0,no
-2020-09-19,OURENSE,OURENSE,CPR,Plurilingüe Padre Feijoo Zorelle,1,0,no
-2020-09-19,OURENSE,PADRENDA,CPI,Padrenda-Crespos,1,1,no
-2020-09-19,OURENSE,VERÍN,CPR,María Inmaculada,1,0,no
-2020-09-19,OURENSE,MARÍN,E.I.,Dalila,1,1,no
-2020-09-19,OURENSE,MARÍN,E.I.,Casa do Mar,1,0,no
-2020-09-19,OURENSE,POIO,E.I.,Sek Atlántico,1,0,no
-2020-09-19,OURENSE,PONTEVEDRA,E.I.,A Parda,1,1,no
-2020-09-19,OURENSE,VILABOA,E.I.,Vilaboa,1,1,no
-2020-09-19,OURENSE,SANXENXO,CEIP,Magaláns-Dorrón,1,1,no
-2020-09-19,OURENSE,SANXENXO,CEIP,Cruceiro,1,0,no
-2020-09-19,OURENSE,PONTEVEDRA,CPR,Calasancio,8,Todas,si
-2020-09-19,OURENSE,PONTEVEDRA,CPR,Sagrado Corazón,1,1,no
-2020-09-19,OURENSE,PONTEVEDRA,CEIP,Barcelos,2,2,no
-2020-09-19,OURENSE,PONTEVEDRA,CEIP,de Marcón,1,0,no
-2020-09-19,OURENSE,PONTEVEDRA,IES,Frei Martín Sarmiento,1,0,no
-2020-09-19,OURENSE,PONTEVEDRA,CEIP,A Xunqueira Nº 1,1,0,no
-2020-09-19,OURENSE,PONTEVEDRA,CEIP,de Cabanas,1,0,no
-2020-09-19,OURENSE,PORTAS,CPI,Domingo Fontán,1,0,no
-2020-09-19,OURENSE,VILAGARCIA DE AROUSA,CPR,San Francisco,1,1,no
-2020-09-19,OURENSE,VIGO,E.I.,Lacaba,1,1,no
-2020-09-19,OURENSE,MOS,CPR,Lar,1,1,no
-2020-09-19,OURENSE,REDONDELA,CEIP,Outeiro das Penas,2,2,no
-2020-09-19,OURENSE,VIGO,CPR,Plurilingüe Alba,1,0,no
-2020-09-19,OURENSE,VIGO,CPR,María Auxiliadora,2,0,no
-2020-09-19,OURENSE,VIGO,CEIP,Plurilingüe Lope de Vega,1,0,no
-2020-09-19,OURENSE,NIGRAN,CPR,Estudio,1,0,no
-2020-09-19,OURENSE,TOMIÑO,CEIP,de Sobrada,1,0,no
-2020-09-19,OURENSE,O PORRIÑO,CEEPR,Aceesca,1,0,no
+2020-09-19,Coruña,A CORUÑA,E.I.,Mariñas,1,0,no
+2020-09-19,Coruña,A CORUÑA,E.I.,Kid's Garden,2,0,no
+2020-09-19,Coruña,OLEIROS,E.I.,Mera,1,0,no
+2020-09-19,Coruña,ARTEIXO,CEIP,Ponte dos Brozos,1,0,no
+2020-09-19,Coruña,A CORUÑA,CPR,Plurilingüe Karbo,1,0,no
+2020-09-19,Coruña,A CORUÑA,CPR,Plurilingüe Cristo Rey,1,0,no
+2020-09-19,Coruña,A CORUÑA,CEIP,Alborada,1,1,no
+2020-09-19,Coruña,A CORUÑA,CPR,Obradoiro,1,0,no
+2020-09-19,Coruña,A CORUÑA,CEIP,Ramón de la Sagra,2,2,no
+2020-09-19,Coruña,A CORUÑA,CEIP,Fernández Latorre,3,1,no
+2020-09-19,Coruña,A CORUÑA,CEIP,Rosalía de Castro,1,1,no
+2020-09-19,Coruña,AMES,IES,do Milladoiro,1,0,no
+2020-09-19,Coruña,BRIÓN,CEIP,Plurilingüe de Pedrouzos,2,0,no
+2020-09-19,Coruña,CAMBRE,CEIP,Wenceslao Fernández Flórez,1,0,no
+2020-09-19,Coruña,CARBALLO,CEIP,Plurilingüe A Cristina,1,0,no
+2020-09-19,Coruña,CARBALLO,CEIP,Netoma-Razo,1,1,no
+2020-09-19,Coruña,CEE,CPR,Rial,1,0,no
+2020-09-19,Coruña,CULLEREDO,CPR,Andaina,1,0,no
+2020-09-19,Ferrol,NARÓN,CPR,Ayala,1,0,no
+2020-09-19,Santiago,BOIRO,E.I.,Praia Xardín,1,0,no
+2020-09-19,Santiago,LALÍN,E.I.,Pontiñas,1,0,no
+2020-09-19,Santiago,SANTIAGO,E.I.,Cativos Conxo,1,0,no
+2020-09-19,Santiago,SANTIAGO,E.I.,Salgueiriño,2,1,no
+2020-09-19,Santiago,ARZÚA,CEIP,Arzúa,1,1,no
+2020-09-19,Santiago,DODRO,EEI,Laíño (CRA Dodro),1,1,no
+2020-09-19,Santiago,PADRÓN,CEIP,Rosalía de Castro,3,1,no
+2020-09-19,Santiago,RIANXO,CEIP,Castelao,1,0,no
+2020-09-19,Santiago,SANTIAGO,CEIP,Vite,1,0,no
+2020-09-19,Santiago,SANTIAGO,EEI,Gaioso,2,1,no
+2020-09-19,Santiago,SANTIAGO,CEEPR,ASPANAES Duques de Lugo,1,0,no
+2020-09-19,Santiago,SANTIAGO,CEIP,Plurilingüe Emma,1,0,no
+2020-09-19,Santiago,TEO,CEIP,A Igrexa-Calo,1,0,no
+2020-09-19,Lugo,CHANTADA,CEIP,Xoán de Requeixo,1,0,no
+2020-09-19,Lugo,FRIOL,CPR,San José,1,1,no
+2020-09-19,Lugo,FRIOL,CPI,DR. López Suárez,1,0,no
+2020-09-19,Lugo,O INCIO,CEIP,Ricardo Gasset,1,0,no
+2020-09-19,Lugo,RIBADEO,CPR,Sagrado Corazón,1,1,no
+2020-09-19,Lugo,LUGO,CPR,Plurilingüe La Inmaculada,2,0,no
+2020-09-19,Lugo,LUGO,CEIP,As Gándaras,3,0,no
+2020-09-19,Ourense,OURENSE,CEIP,Mestre Vide,1,0,no
+2020-09-19,Ourense,OURENSE,CPR,Santa María,1,0,no
+2020-09-19,Ourense,OURENSE,CPR,Santo Ángel,2,1,no
+2020-09-19,Ourense,OURENSE,CEIP,Irmáns Villar,1,0,no
+2020-09-19,Ourense,OURENSE,CPR,Plurilingüe San José,1,0,no
+2020-09-19,Ourense,OURENSE,CPR,Divina Pastora,1,0,no
+2020-09-19,Ourense,OURENSE,CPR,Plurilingüe Padre Feijoo Zorelle,1,0,no
+2020-09-19,Ourense,PADRENDA,CPI,Padrenda-Crespos,1,1,no
+2020-09-19,Ourense,VERÍN,CPR,María Inmaculada,1,0,no
+2020-09-19,Pontevedra,MARÍN,E.I.,Dalila,1,1,no
+2020-09-19,Pontevedra,MARÍN,E.I.,Casa do Mar,1,0,no
+2020-09-19,Pontevedra,POIO,E.I.,Sek Atlántico,1,0,no
+2020-09-19,Pontevedra,PONTEVEDRA,E.I.,A Parda,1,1,no
+2020-09-19,Pontevedra,VILABOA,E.I.,Vilaboa,1,1,no
+2020-09-19,Pontevedra,SANXENXO,CEIP,Magaláns-Dorrón,1,1,no
+2020-09-19,Pontevedra,SANXENXO,CEIP,Cruceiro,1,0,no
+2020-09-19,Pontevedra,PONTEVEDRA,CPR,Calasancio,8,Todas,si
+2020-09-19,Pontevedra,PONTEVEDRA,CPR,Sagrado Corazón,1,1,no
+2020-09-19,Pontevedra,PONTEVEDRA,CEIP,Barcelos,2,2,no
+2020-09-19,Pontevedra,PONTEVEDRA,CEIP,de Marcón,1,0,no
+2020-09-19,Pontevedra,PONTEVEDRA,IES,Frei Martín Sarmiento,1,0,no
+2020-09-19,Pontevedra,PONTEVEDRA,CEIP,A Xunqueira Nº 1,1,0,no
+2020-09-19,Pontevedra,PONTEVEDRA,CEIP,de Cabanas,1,0,no
+2020-09-19,Pontevedra,PORTAS,CPI,Domingo Fontán,1,0,no
+2020-09-19,Pontevedra,VILAGARCIA DE AROUSA,CPR,San Francisco,1,1,no
+2020-09-19,Vigo,VIGO,E.I.,Lacaba,1,1,no
+2020-09-19,Vigo,MOS,CPR,Lar,1,1,no
+2020-09-19,Vigo,REDONDELA,CEIP,Outeiro das Penas,2,2,no
+2020-09-19,Vigo,VIGO,CPR,Plurilingüe Alba,1,0,no
+2020-09-19,Vigo,VIGO,CPR,María Auxiliadora,2,0,no
+2020-09-19,Vigo,VIGO,CEIP,Plurilingüe Lope de Vega,1,0,no
+2020-09-19,Vigo,NIGRAN,CPR,Estudio,1,0,no
+2020-09-19,Vigo,TOMIÑO,CEIP,de Sobrada,1,0,no
+2020-09-19,Vigo,O PORRIÑO,CEEPR,Aceesca,1,0,no

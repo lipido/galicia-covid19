@@ -113,7 +113,7 @@ Todos estos ficheros tienen las mismas columnas y se definen de la siguiente for
 - `num_casos_prueba_desconocida`: el número de casos sin información sobre la prueba de laboratorio.
 
 
-Serie historica de casos activos y fallecidos en centros residenciales
+Serie histórica de casos activos y fallecidos en centros residenciales
 ------------------------------------------------------------
 
 El SERGAS reporta información sobre los *centros residenciales*, que son de dos tipos:
@@ -132,5 +132,22 @@ Los ficheros son:
     - `fallecidos.residencias.acum`. Total de fallecidos en residencias.
     - `fallecidos.hospitales_residencias_integradas.acum`. Total de fallecidos en hospitales y residencias integradas.
     - `fallecidos.residencia.<localidad>.<provincia>.<nombre>.acum`. Total de fallecidos en una residencia concreta. Estas columnas son únicamente referentes a residencias, no a hospitales y residencias integradas.
+
+
+Serie histórica de positivos y cierre de aulas y centros educativos
+-------------------------------------------------------------------
+Esta serie contiene información que la Xunta publica desde el 19 de Septiembre de
+2020 acerca de los positivos y cierre de aulas/centros educativos públicos donde haya habido al menos un positivo.
+
+El fichero es:
+- `centros_educativos/centros_educativos.csv`. Contiene la serie histórica de centros educativos. Las columnas son:
+    - `fecha`. Fecha de la situación.
+    - `area_sanitaria`. Área sanitaria.
+    - `concello`. Ayuntamiento.
+    - `tipo_centro`. E.I.=Escuela Infantil, CEIP=Centro de enseñanza infantil y primaria (mayor de 4 años), CPR=Centro plurilingüe, IES=Instituto de Enseñanza Secundaria, CEEPR=Centro Educación Especial
+    - `nombre_centro`. Nombre del centro.
+    - `positivos`. Casos positivos SARS-CoV-2 detectados.
+    - `aulas_cerradas`. Número de aulas cerradas. O "Todas" si está el centro cerrado.
+    - `centro_cerrado`. Si el centro está cerrado (si/no)
 
 
