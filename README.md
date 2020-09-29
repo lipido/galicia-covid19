@@ -32,7 +32,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Ourense.hospitalizados_HPVerin`: Hospitalizados totales (UCI + planta) en el hospital de Verín (público).
     - `Ourense.uci_HPCHUO`: Pacientes en UCI en el hospital CHUO (Complexo Hospitalario Universitario de Ourense) (público).
     - `Ourense.uci_COSAGA`: Pacientes en UCI en la clínica el hospital CO.SA.GA (privado).
-    - `Ourense.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en Ourense. Algunas pruebas PCR a pacientes de Ourense se hicieron en Vigo y no están contabilizadas aquí.
+    - `Ourense.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en Ourense. Algunas pruebas PCR a pacientes de Ourense se hicieron en Vigo y no están contabilizadas aquí (*).
 - `lugo.csv`. Serie histórica básica del área sanitaria de Lugo, Cervo e Monforte de Lemos. Las columnas son:
     - `lugo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `lugo.altas.acum`: Altas totales hasta la fecha. 
@@ -41,7 +41,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Lugo.domicilio`: Casos activos con seguimiento a domicilio.
     - `Lugo.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
     - `Lugo.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `Lugo.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
+    - `Lugo.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
 - `vigo.csv`. Serie histórica básica del área sanitaria de Vigo. Las columnas son:
     - `vigo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `vigo.altas.acum`: Altas totales hasta la fecha. 
@@ -50,7 +50,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `vigo.domicilio`: Casos activos con seguimiento a domicilio.
     - `vigo.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
     - `vigo.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `vigo.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
+    - `vigo.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
 - `pontevedra.csv`. Serie histórica básica del área sanitaria de Pontevedra e O Salnés. Las columnas son:
     - `pontevedra.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `pontevedra.altas.acum`: Altas totales hasta la fecha. 
@@ -59,7 +59,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `pontevedra.domicilio`: Casos activos con seguimiento a domicilio.
     - `pontevedra.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
     - `pontevedra.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `pontevedra.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
+    - `pontevedra.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
 
 - `santiago.csv`. Serie histórica básica del área sanitaria de Santiago de Compostela. Las columnas son:
     - `santiago.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
@@ -69,7 +69,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `santiago.domicilio`: Casos activos con seguimiento a domicilio.
     - `santiago.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
     - `santiago.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `santiago.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
+    - `santiago.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
 - `coruna.csv`. Serie histórica básica del área sanitaria de A Coruña. Las columnas son:
     - `coruna.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `coruna.altas.acum`: Altas totales hasta la fecha. 
@@ -78,7 +78,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `coruna.domicilio`: Casos activos con seguimiento a domicilio.
     - `coruna.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
     - `coruna.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `coruna.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
+    - `coruna.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
 - `ferrol.csv`. Serie histórica básica del área sanitaria de Ferrol. Las columnas son:
     - `ferrol.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `ferrol.altas.acum`: Altas totales hasta la fecha. 
@@ -87,7 +87,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `ferrol.domicilio`: Casos activos con seguimiento a domicilio.
     - `ferrol.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
     - `ferrol.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `ferrol.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria.
+    - `ferrol.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
 
 Por otra parte se incluye un fichero que contiene la correspondencia entre municipios y áreas sanitarias. Las columnas son:
 - `municipios-areas-csv`.
@@ -95,6 +95,7 @@ Por otra parte se incluye un fichero que contiene la correspondencia entre munic
     - `provincia`.
     - `area_sanitaria`.
 
+(*) Hasta el 29/09/2020, las PCR en un área sanitaria eran las PCR que se hacían en laboratorios de dicha área, independientemente del área sanitaria del paciente donde se originó la solicitud. Por ejemplo: Ourense solicitó un gran número de PCR a Vigo. **A partir del 29/09/2020** el acumulado de PCR comienza a registrar las PCR *solicitadas* para pacientes de dicha área, independientemente de la ubicación del laboratorio donde se realice la PCR. Esto mejora la estimación de la positividad por área sanitaria si se calculase como casos/PCR. Nota: No se hace una corrección retroactiva del acumulado, sino que a partir de esta fecha los acumulados se incrementan siguiendo este nuevo protocolo.
 
 Series de casos confirmados en el ISCIII RENAVE
 -----------------------------------------------
