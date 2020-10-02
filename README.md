@@ -32,6 +32,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Ourense.hospitalizados_HPVerin`: Hospitalizados totales (UCI + planta) en el hospital de Verín (público).
     - `Ourense.uci_HPCHUO`: Pacientes en UCI en el hospital CHUO (Complexo Hospitalario Universitario de Ourense) (público).
     - `Ourense.uci_COSAGA`: Pacientes en UCI en la clínica el hospital CO.SA.GA (privado).
+    - `Ourense.uci_Carmen`: Pacientes en UCI en la clínica El Carmen (privado).
     - `Ourense.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en Ourense. Algunas pruebas PCR a pacientes de Ourense se hicieron en Vigo y no están contabilizadas aquí (*).
 - `lugo.csv`. Serie histórica básica del área sanitaria de Lugo, Cervo e Monforte de Lemos. Las columnas son:
     - `lugo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
