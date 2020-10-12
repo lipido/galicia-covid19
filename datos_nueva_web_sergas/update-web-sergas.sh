@@ -35,7 +35,7 @@ wget -O - "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_Infe
 
 # acumulado
 if [ -z $NOAPPEND ]; then
-wget -O -  "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_Fallecidos.csv" | tr -d '\r' | awk -v fecha="\"${DATA_DATE}\"" -e 'BEGIN{OFS=","; FS=","; FPAT = "([^,]+)|(\"[^\"]+\")"; _fecha=fecha}{print _fecha,$1,$2,$3,$4}' >> Fallecidos.csv
+wget -O -  "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_Fallecidos.csv" | tail -n +2 | tr -d '\r' | awk -v fecha="\"${DATA_DATE}\"" -e 'BEGIN{OFS=","; FS=","; FPAT = "([^,]+)|(\"[^\"]+\")"; _fecha=fecha}{print _fecha,$1,$2,$3,$4}' >> Fallecidos.csv
 else
 wget -O -  "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_Fallecidos.csv" | tr -d '\r' | awk -v fecha="\"${DATA_DATE}\"" -e 'BEGIN{OFS=","; FS=","; FPAT = "([^,]+)|(\"[^\"]+\")"; _fecha=fecha}{if (NR==1) {_fecha="Fecha"} else {_fecha=fecha} print _fecha,$1,$2,$3,$4}' > Fallecidos.csv
 fi
@@ -46,7 +46,7 @@ wget -O - "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_Porc
 
 # acumulado 
 if [ -z $NOAPPEND ]; then
-wget -O -  "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_PorcentajeInfectadosPorGenero.csv" | tr -d '\r' | awk -v fecha="\"${DATA_DATE}\"" -e 'BEGIN{OFS=","; FS=","; FPAT = "([^,]+)|(\"[^\"]+\")"; _fecha=fecha}{print _fecha,$1,$2,$3,$4}' >> PorcentajeInfectadosPorGenero.csv
+wget -O -  "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_PorcentajeInfectadosPorGenero.csv" |tail -n +2 | tr -d '\r' | awk -v fecha="\"${DATA_DATE}\"" -e 'BEGIN{OFS=","; FS=","; FPAT = "([^,]+)|(\"[^\"]+\")"; _fecha=fecha}{print _fecha,$1,$2,$3,$4}' >> PorcentajeInfectadosPorGenero.csv
 else
 wget -O -  "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_PorcentajeInfectadosPorGenero.csv" | tr -d '\r' | awk -v fecha="\"${DATA_DATE}\"" -e 'BEGIN{OFS=","; FS=","; FPAT = "([^,]+)|(\"[^\"]+\")"; _fecha=fecha}{if (NR==1) {_fecha="Fecha"} else {_fecha=fecha} print _fecha,$1,$2,$3,$4}' > PorcentajeInfectadosPorGenero.csv
 fi
