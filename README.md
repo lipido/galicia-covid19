@@ -2,8 +2,8 @@ Datos COVID-19 Galicia
 ======================
 
 Este repositorio contiene datos del COVID-19 para la Comunidad Autónoma de Galicia. Las fuentes son:
-- Consellería de Sanidade (Xunta de Galicia). Proporciona datos a nivel global de la Comunidad Autónoma de Galicia y únicamente de casos activos por Área Sanitaria.
-- Xerencia da Área Sanitaria de Ourense, Verín e O Barco de Valdeorras (SERGAS). Proporciona datos de detallados de Ourense y del resto de Áreas Sanitarias.
+- Consellería de Sanidade (Xunta de Galicia). Proporciona datos a nivel global de la Comunidad Autónoma de Galicia y únicamente de casos activos por Área Sanitaria. A partir del 8/10/2020 con la [nueva web del SERGAS](https://coronavirus.sergas.es/datos), se extraen de la misma la mayoría de datos.
+- Xerencia da Área Sanitaria de Ourense, Verín e O Barco de Valdeorras (SERGAS). Proporciona datos de detallados de Ourense y del resto de Áreas Sanitarias hasta el 7/10/2020.
 - Instituto de Salud Carlos III. Proporciona la serie de casos por fecha de inicio de síntomas a nivel provincial.
 
 Agradecimientos
@@ -19,10 +19,12 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Galicia.casos.acum`: Casos totales hasta la fecha. La Consellería de Sanidade publica los casos activos y no los casos totales como tal. Esta columna es la resultante de sumarle los fallecidos y las altas al dato de activos de la Consellería. Por tanto, los casos activos serían `Galicia.casos.acum` - `Galicia.altas.acum` - `Galicia.fallecidos.acum`.
     - `Galicia.altas.acum`: Altas totales hasta la fecha.
     - `Galicia.fallecidos.acum`: Fallecidos totales hasta la fecha.
+    - `Galicia.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `ourense.csv`. Serie histórica básica del área sanitaria de Ourense, Verín e O Barco de Valdeorras. Las columnas son:
     - `Ourense.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `Ourense.altas.acum`: Altas totales hasta la fecha. 
     - `Ourense.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `Ourense.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `ourense.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Ourense, Verín e O Barco de Valdeorras. Las columnas son:
     - `Ourense.domicilio`: Casos activos con seguimiento a domicilio.
     - `Ourense.hospitalizados_HPCHUO`: Hospitalizados totales (UCI + planta) en el hospital CHUO (Complexo Hospitalario Universitario de Ourense) (público).
@@ -38,6 +40,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `lugo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `lugo.altas.acum`: Altas totales hasta la fecha. 
     - `lugo.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `lugo.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `lugo.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Lugo, Cervo e Monforte de Lemos. Las columnas son. Las columnas son:
     - `Lugo.domicilio`: Casos activos con seguimiento a domicilio.
     - `Lugo.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
@@ -47,6 +50,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `vigo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `vigo.altas.acum`: Altas totales hasta la fecha. 
     - `vigo.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `vigo.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `vigo.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Vigo. Las columnas son. Las columnas son:
     - `vigo.domicilio`: Casos activos con seguimiento a domicilio.
     - `vigo.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
@@ -56,6 +60,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `pontevedra.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `pontevedra.altas.acum`: Altas totales hasta la fecha. 
     - `pontevedra.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `pontevedra.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `pontevedra.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Pontevedra e O Salnés. Las columnas son. Las columnas son:
     - `pontevedra.domicilio`: Casos activos con seguimiento a domicilio.
     - `pontevedra.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
@@ -66,6 +71,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `santiago.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `santiago.altas.acum`: Altas totales hasta la fecha. 
     - `santiago.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `santiago.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `santiago.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Santiago de Compostela. Las columnas son. Las columnas son:
     - `santiago.domicilio`: Casos activos con seguimiento a domicilio.
     - `santiago.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
@@ -75,6 +81,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `coruna.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `coruna.altas.acum`: Altas totales hasta la fecha. 
     - `coruna.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `coruna.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `coruna.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de A Coruña. Las columnas son. Las columnas son:
     - `coruna.domicilio`: Casos activos con seguimiento a domicilio.
     - `coruna.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
@@ -84,6 +91,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `ferrol.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
     - `ferrol.altas.acum`: Altas totales hasta la fecha. 
     - `ferrol.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `ferrol.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `ferrol.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Ferrol. Las columnas son. Las columnas son:
     - `ferrol.domicilio`: Casos activos con seguimiento a domicilio.
     - `ferrol.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
