@@ -20,5 +20,5 @@ done
 
 
 for i in 7 14; do
-  cat /tmp/mapa-covid-${i}.html | grep chartData| sed -e 's/.*chartData\\":\\"\(.*\)\\".*isPreview.*/\1/g' | sed -e 's/\\n/\n/g' | sed -e 's/\\r/\r/g' | tr -d '\r' |tr -d '\' | grep -v "^\",$" | sed -e 's/u00D1/Ñ/g' > ${DATE}_mapa-concellos-${i}dias.csv
+  cat /tmp/mapa-covid-${i}.html | grep chartData| sed -e 's/.*chartData\\":\\"\(.*\)\\".*isPreview.*/\1/g' | sed -e 's/\\n/\n/g' | sed -e 's/\\r/\r/g' | tr -d '\r' |tr -d '\' | grep -v "^\",$" | sed -e 's/u00D1/Ñ/g' | sed -e 's/u00E1/á/g'> ${DATE}_mapa-concellos-${i}dias.csv
 done
