@@ -16,7 +16,7 @@ casos <- read.csv(file=sprintf("../datos_nueva_web_sergas/mapas_concellos/%s_map
 for (i in 1:nrow(habitantes)) {
   
   habitantes[i, "fecha"] <- format(as.Date(fecha, format = "%Y%m%d"), "%Y-%m-%d")
-  habitantes[i,"CASOS"]=casos[casos[,"ID"]==habitantes[i,"codigo"],"CASOS"] 
+  habitantes[i,"CASOS"]=as.character(gsub("\\.", "", casos[casos[,"ID"]==habitantes[i,"codigo"],"CASOS"]))
   
   habitantes[i, "casos_14d"] <- as.integer(str_match(habitantes[i, "CASOS"], "no concello: ([0-9]+)")[1,2])
   habitantes[i, "casos_14d_min"] <- as.integer(str_match(habitantes[i, "CASOS"], "entre ([0-9]+) e")[1,2])
