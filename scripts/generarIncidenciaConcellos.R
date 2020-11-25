@@ -17,6 +17,7 @@ for (i in 1:nrow(habitantes)) {
   
   habitantes[i, "fecha"] <- format(as.Date(fecha, format = "%Y%m%d"), "%Y-%m-%d")
   habitantes[i,"CASOS"]=as.character(gsub("\\.", "", casos[casos[,"ID"]==habitantes[i,"codigo"],"CASOS"]))
+  habitantes[i, "codigo_municipio"]=substr(habitantes[i, "codigo"], nchar(habitantes[i, "codigo"])-5+1, nchar(habitantes[i, "codigo"]))
   
   if (grepl("Sen", habitantes[i, "CASOS"])) {
     habitantes[i, "casos_14d"] <- 0
@@ -34,5 +35,5 @@ for (i in 1:nrow(habitantes)) {
   
 }
 
-incidencia <- habitantes[, c("fecha", "municipio", "habitantes", "casos_14d", "casos_14d_min", "casos_14d_max", "IA14", "IA14_min", "IA14_max")]
+incidencia <- habitantes[, c("fecha", "codigo_municipio", "municipio", "habitantes", "casos_14d", "casos_14d_min", "casos_14d_max", "IA14", "IA14_min", "IA14_max")]
 write.csv(file=sprintf("../incidencia-municipios/%s_incidencia_14d_municipios.csv", fecha), incidencia, row.names=FALSE)
