@@ -18,9 +18,15 @@ for (i in 1:nrow(habitantes)) {
   habitantes[i, "fecha"] <- format(as.Date(fecha, format = "%Y%m%d"), "%Y-%m-%d")
   habitantes[i,"CASOS"]=as.character(gsub("\\.", "", casos[casos[,"ID"]==habitantes[i,"codigo"],"CASOS"]))
   
-  habitantes[i, "casos_14d"] <- as.integer(str_match(habitantes[i, "CASOS"], "no concello: ([0-9]+)")[1,2])
+  if (grepl("Sen", habitantes[i, "CASOS"])) {
+    habitantes[i, "casos_14d"] <- 0
+  } else {
+    habitantes[i, "casos_14d"] <- as.integer(str_match(habitantes[i, "CASOS"], "no concello: ([0-9]+)")[1,2])
+  }
+  
   habitantes[i, "casos_14d_min"] <- as.integer(str_match(habitantes[i, "CASOS"], "entre ([0-9]+) e")[1,2])
   habitantes[i, "casos_14d_max"] <- as.integer(str_match(habitantes[i, "CASOS"], "entre [0-9]+ e ([0-9]+)")[1,2])
+  
   
   habitantes[i, "IA14"] <- habitantes[i, "casos_14d"] / habitantes[i,"habitantes"] * 100000
   habitantes[i, "IA14_min"] <- habitantes[i, "casos_14d_min"] / habitantes[i,"habitantes"] * 100000
