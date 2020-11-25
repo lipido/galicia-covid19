@@ -174,6 +174,7 @@ Desde el 21/11/2020 el SERGAS proporciona el número de nuevos casos detectados 
 Los ficheros son:
 - `incidencia-municipios/[fecha]_incidencia_14d_municipios.csv`. Contiene la incidencia acumulada a 14 días por municipio en la fecha `[fecha]`. Las columnas son:
     - `fecha`. Fecha de publicación del dato. Los datos se refieren a las 24h anteriores a las 18.00h del día anterior.
+    - `codigo_municipio`. Código INE del municipio.
     - `municipio`. Nombre del municipio.
     - `habitantes`. Número de habitantes según el INE 2019.
     - `casos_14d`. Número de positivos por PDIA en los últimos 14 días. Valor exacto.
