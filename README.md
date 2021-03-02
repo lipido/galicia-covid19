@@ -167,11 +167,30 @@ El fichero es:
     - `aulas_cerradas`. Número de aulas cerradas. O "Todas" si está el centro cerrado.
     - `centro_cerrado`. Si el centro está cerrado (si/no)
 
-Serie histórica de incidencia acumulada a 14 días por municipios
-----------------------------------------------------------------
-Desde el 21/11/2020 el SERGAS proporciona el número de nuevos casos detectados por PDIA en los últimos 14 días. Para municipios pequeños aporta un intervalo de casos.
+Serie histórica de incidencia acumulada a 7 y 14 días por municipios
+--------------------------------------------------------------------
+Desde el 21/11/2020 el SERGAS proporciona el número de nuevos casos detectados por PDIA en los últimos 14 días y, a partir del 2/3/2021, también en los últimos 7 días. Para municipios pequeños aporta un intervalo de casos.
 
-Los ficheros son:
+A partir del 2/3/2021, los ficheros son:
+- `incidencia-municipios/[fecha]_incidencia_14d_7d_municipios.csv`. Contiene la incidencia acumulada a 14 días por municipio en la fecha `[fecha]`. Las columnas son:
+    - `fecha`. Fecha de publicación del dato. Los datos se refieren a las 24h anteriores a las 18.00h del día anterior.
+    - `codigo_municipio`. Código INE del municipio.
+    - `municipio`. Nombre del municipio.
+    - `habitantes`. Número de habitantes según el INE 2019.
+    - `casos_14d`. Número de positivos por PDIA en los últimos 14 días. Valor exacto.
+    - `casos_14d_min`. Número mínimo de positivos por PDIA en los últimos 14 días. Tiene valor si no hay valor en `casos_14d`.
+    - `casos_14d_max`. Número máximo de positivos por PDIA en los últimos 14 días. Tiene valor si no hay valor en `casos_14d`.
+    - `IA14`. Incidencia acumulada a 14 días por 100.000 habitantes. Valor exacto.
+    - `IA14_min`. Incidencia mínima acumulada a 14 días por 100.000 habitantes. Tiene valor si no hay valor en `IA14`.
+    - `IA14_max`. Incidencia máxima acumulada a 14 días por 100.000 habitantes. Tiene valor si no hay valor en `IA14`.
+    - `casos_7d`. Número de positivos por PDIA en los últimos 7 días. Valor exacto.
+    - `casos_7d_min`. Número mínimo de positivos por PDIA en los últimos 7 días. Tiene valor si no hay valor en `casos_7d`.
+    - `casos_7d_max`. Número máximo de positivos por PDIA en los últimos 7 días. Tiene valor si no hay valor en `casos_7d`.
+    - `IA7`. Incidencia acumulada a 7 días por 100.000 habitantes. Valor exacto.
+    - `IA7_min`. Incidencia mínima acumulada a 7 días por 100.000 habitantes. Tiene valor si no hay valor en `IA7`.
+    - `IA7_max`. Incidencia máxima acumulada a 7 días por 100.000 habitantes. Tiene valor si no hay valor en `IA7`.
+
+Hasta el 1/3/2021, los ficheros son:
 - `incidencia-municipios/[fecha]_incidencia_14d_municipios.csv`. Contiene la incidencia acumulada a 14 días por municipio en la fecha `[fecha]`. Las columnas son:
     - `fecha`. Fecha de publicación del dato. Los datos se refieren a las 24h anteriores a las 18.00h del día anterior.
     - `codigo_municipio`. Código INE del municipio.
