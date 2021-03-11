@@ -11,7 +11,7 @@ if (length(args) < 1) {
 fecha <- args[1]
 
 habitantes <- read.csv(file="municipios-habitantes.csv", sep=",", header=TRUE)
-casos <- read.csv(file=sprintf("../datos_nueva_web_sergas/mapas_concellos/%s_mapa-concellos-incidencia-7dias-14dias.csv", fecha), sep=",", header=TRUE)
+casos <- read.csv(file=sprintf("../datos_nueva_web_sergas/mapas_concellos/%s_mapa-concellos-incidencia-7dias-14dias.csv", fecha), sep=";", header=TRUE)
 
 for (i in 1:nrow(habitantes)) {
   
