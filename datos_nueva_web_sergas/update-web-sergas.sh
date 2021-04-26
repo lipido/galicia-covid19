@@ -50,3 +50,8 @@ wget -O -  "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_Por
 else
 wget -O -  "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_PorcentajeInfectadosPorGenero.csv" | tr -d '\r' | grep -v "^$" | awk -v fecha="\"${DATA_DATE}\"" -e 'BEGIN{OFS=","; FS=","; FPAT = "([^,]+)|(\"[^\"]+\")"; _fecha=fecha}{if (NR==1) {_fecha="Fecha"} else {_fecha=fecha} print _fecha,$1,$2,$3,$4}' > PorcentajeInfectadosPorGenero.csv
 fi
+
+# vacunas
+wget -O - "https://coronavirus.sergas.gal/infovacinacion/${PUBDATE}_VACINAS_vacinacion_por_grupo_de_risco.csv" > vacunacion/$(date --date "$PUBDATE" "+%Y%m%d")_vacunacion_por_grupo_de_riesgo.csv
+wget -O - "https://coronavirus.sergas.gal/infovacinacion/${PUBDATE}_VACINAS_cronometro.csv" > vacunacion/$(date --date "$PUBDATE" "+%Y%m%d")_vacunacion_situacion_general.csv
+wget -O - "https://coronavirus.sergas.gal/infovacinacion/${PUBDATE}_VACINAS_vacinacion_por_sexo_e_idade.csv" > vacunacion/$(date --date "$PUBDATE" "+%Y%m%d")_vacunacion_sexo_edad.csv
