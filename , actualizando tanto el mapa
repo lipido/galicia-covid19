@@ -1,0 +1,5851 @@
+[33mcommit f704906707cc0981c14750213f6d4600c5bf0d34[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat May 8 11:28:40 2021 +0200
+
+    Incorpora datos a día 7/05/2021 a serie historica de centros educativos
+
+[33mcommit d894faf0226967939068d46fd9f6d0a3a43cd20f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat May 8 11:27:45 2021 +0200
+
+    Actualiza datos a 8/05/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 4716c5e1f1c19fd1739d795c79e300437ff1b7da[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri May 7 12:51:45 2021 +0200
+
+    Incorpora datos a día 6/05/2021 a serie historica de centros educativos
+
+[33mcommit 3c62e74c78661cc6af8d4b9dcd53ffe6bd288602[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri May 7 12:50:48 2021 +0200
+
+    Actualiza datos a 7/05/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit d57460c8e60238c4b2a4b522bdf1d318280811b2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu May 6 12:50:46 2021 +0200
+
+    Actualiza datos a 6/05/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 41112ef6b588013b9f56043d27faf93c718d90fe[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed May 5 16:01:27 2021 +0200
+
+    Actualiza datos a 5/05/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 7ff8f9dfcb24f8c14d7a62154c26482bbd87c454[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed May 5 15:57:51 2021 +0200
+
+    Incorpora datos a día 5/05/2021 a serie historica de centros educativos
+
+[33mcommit 0ca33f96ff8d2fa8086073a3d9c10e05c12ba5f4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue May 4 10:14:05 2021 +0200
+
+    Actualiza datos a 4/05/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit df9407490e85fca6b5a05b7834dc5766528dcd79[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue May 4 10:09:27 2021 +0200
+
+    Incorpora datos a día 1/05/2021 a serie historica de centros educativos
+
+[33mcommit 9ba05323862076518ee5cf019a4855dfab3e2ef3[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon May 3 14:28:31 2021 +0200
+
+    Actualiza datos a 3/05/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 841bd89431cbe7ba983f478d5f0b09e79197db7d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun May 2 17:55:17 2021 +0200
+
+    Actualiza datos a 2/05/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 85c2a9e5c6e5941326febe737d83078a7593ae8e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat May 1 12:08:20 2021 +0200
+
+    Actualiza datos a 1/05/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit ca30a09c60cea0359468c7e549a99a2e517775ed[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Apr 30 15:34:08 2021 +0200
+
+    Incorpora datos a día 30/04/2021 a serie historica de centros educativos
+
+[33mcommit 1cc638e315ccea5668ce3fe104a8109d71847d93[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Apr 30 15:33:18 2021 +0200
+
+    Actualiza datos a 30/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 14b4fe4416ac04a29b2092b77ba332a5991e59bb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Apr 29 13:17:16 2021 +0200
+
+    Incorpora datos a día 29/04/2021 a serie historica de centros educativos
+
+[33mcommit cc47150715281ac536e7ac827f18f9f6e63ac800[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Apr 29 10:08:39 2021 +0200
+
+    Actualiza datos a 29/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 5c85da0eed57e2533997f825867329813090e004[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Apr 28 11:13:57 2021 +0200
+
+    Actualiza datos a 28/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 6db1d8351e2ba72886ef8abdd76d5e09b6d6ff70[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Apr 27 18:13:40 2021 +0200
+
+    Actualiza datos a 27/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 8d7fcb2f66f2cd5e168b34d0e49c644c639716c3[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Apr 26 20:26:05 2021 +0200
+
+    Añade scripts de descarga de informacion de vacunas de la nueva web del SERGAS
+    
+    También añade datos de vacunación desde el 22 al 25 de abril.
+
+[33mcommit e328ad808827a8cbbc0412bebc828ca1a6da837c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Apr 26 14:31:09 2021 +0200
+
+    Actualiza datos a 26/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 86083872366098b3bf42a37f1cffae67f1a34151[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Apr 26 14:23:50 2021 +0200
+
+    Incorpora datos del día 24/04/2021 a serie historica de centros educativos
+
+[33mcommit 02e1277758adde8a96507d821a2f456f12f806a7[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Apr 25 11:08:33 2021 +0200
+
+    Actualiza datos a 25/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit b83a421ebf06c50e123ed8db12929a75e87a1661[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Apr 24 12:45:26 2021 +0200
+
+    Actualiza datos a 24/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 7322fc6bb53e5fffa6acd8ea70fb873ea891276b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Apr 24 12:24:42 2021 +0200
+
+    Incorpora datos del día 23/04/2021 a serie historica de centros educativos
+
+[33mcommit ab79213136fac81477128b35d88878b8dcd48d92[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Apr 23 11:43:35 2021 +0200
+
+    Actualiza datos a 23/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 1b02470af10b798071f4b0d88734821ece3cb708[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Apr 22 10:23:50 2021 +0200
+
+    Actualiza datos a 22/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit cf4a351f3c3c5c245c7c5aee53da7be5f6ef22d8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Apr 22 10:22:11 2021 +0200
+
+    Incorpora datos del día 21/04/2021 a serie historica de centros educativos
+
+[33mcommit f5da6aca3409f116b86de681a9c2f44ad40c5642[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Apr 21 11:41:16 2021 +0200
+
+    Incorpora datos del día 20/04/2021 a serie historica de centros educativos
+
+[33mcommit 3446aff9dbb35d0bcb2cd471a1ee4efbd3a958e1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Apr 21 11:28:34 2021 +0200
+
+    Actualiza datos a 21/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit a883e1b930b4a06595a1eee4a1f56d898820cc0b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Apr 20 12:34:41 2021 +0200
+
+    Actualiza datos a 20/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 654831b993f81d95b09200faa093cc07c15a4b4b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Apr 19 11:08:09 2021 +0200
+
+    Actualiza datos a 19/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 6ad6a6638880b40e611b0bd438208871f0dabc93[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Apr 19 11:00:28 2021 +0200
+
+    Actualiza datos a 18/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 7f7f4c1655e480dc8594c5f1ef1b5ff24e7a80e8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Apr 18 11:07:46 2021 +0200
+
+    Incorpora datos del día 17/04/2021 a serie historica de centros educativos
+
+[33mcommit fdcf74f40b5bc6fc3aeaf6018698caef442c99cc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Apr 17 11:25:18 2021 +0200
+
+    Actualiza datos a 17/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit adda4d2152b45070f8f9b099c692431cfb98459f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Apr 17 11:05:42 2021 +0200
+
+    Incorpora datos del día 16/04/2021 a serie historica de centros educativos
+
+[33mcommit e618955fbb16711c0cdd62608f307eaf21635fa6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Apr 17 10:50:56 2021 +0200
+
+    Actualiza datos a 16/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit ebfcd89040c2fd8366c7ae637db4a53f2cf6d910[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Apr 15 17:36:20 2021 +0200
+
+    Actualiza datos a 15/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit b4ad0da015ddcda23b92d5a16478f6da3f1a88a7[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Apr 15 17:28:17 2021 +0200
+
+    Actualiza datos a 14/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 0e484bc1ec365eddd4e7e1c66a1fb305fb29b833[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Apr 14 12:29:32 2021 +0200
+
+    Incorpora datos del día 13/04/2021 a serie historica de centros educativos
+
+[33mcommit 84bbcaef96474630218c0ea157c5b7e1fb5db7ca[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Apr 13 10:30:37 2021 +0200
+
+    Actualiza datos a 13/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit dec40c0dfb92ff1e8d5dd2d51d466f539dcd5c46[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Apr 12 11:44:24 2021 +0200
+
+    Actualiza datos a 12/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 07c2e6dea383ba1dcfb671d260cbe45dec6973e5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Apr 11 10:24:47 2021 +0200
+
+    Actualiza datos a 11/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 105ebdc87e4faf747eb403bc95a40d6f80419ba2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Apr 11 10:23:29 2021 +0200
+
+    Incorpora datos del día 10/04/2021 a serie historica de centros educativos
+
+[33mcommit f5779eaeadc34e3d852cd08fa90e7306cd26cf00[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Apr 10 10:57:22 2021 +0200
+
+    Actualiza datos a 10/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit c7ff8a5c4c1e729b68ec022c019d249052fd8a39[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Apr 10 10:54:38 2021 +0200
+
+    Incorpora datos del día 9/04/2021 a serie historica de centros educativos
+
+[33mcommit 865c6ed19f5d14bfc3d5c1d33429eff0c485f658[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Apr 9 10:57:01 2021 +0200
+
+    Actualiza datos a 9/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit b4acb1dbbb665ac6063736ee8508706c1e28d032[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Apr 8 15:40:12 2021 +0200
+
+    Actualiza datos a 8/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 64bd53e79f7184054e0ab5e62029142197a93c51[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Apr 8 15:31:11 2021 +0200
+
+    Incorpora datos del día 7/04/2021 a serie historica de centros educativos
+
+[33mcommit dcd300b057558d66fe72742b07dcc62accc8a998[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Apr 7 10:15:43 2021 +0200
+
+    Actualiza datos a 7/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 9033382dc2b95daf932adbab062020386fe6c2bf[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Apr 6 10:07:55 2021 +0200
+
+    Actualiza datos a 6/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit ca48de1b250b00628bada9384f51bb221558473f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Apr 5 11:08:58 2021 +0200
+
+    Actualiza datos a 5/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit edc5645b7305df209b3f68c7e2229fdc57eeec27[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Apr 4 10:35:33 2021 +0200
+
+    Actualiza datos a 4/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 9ac83b1eb2078e7937edd7b651f8e55b70e414fb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Apr 3 10:22:05 2021 +0200
+
+    Actualiza datos a 3/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 7075ea3605060205d5cd899ca1a6d591f769e0db[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Apr 2 10:46:14 2021 +0200
+
+    Actualiza datos a 2/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 961bfabc1712ad42a813d1ceff051c1de4b0e6d9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Apr 1 15:42:10 2021 +0200
+
+    Actualiza datos a 1/04/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 05798ecbc70e950ddc29b6d8f8e29bb6af03bb94[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Mar 31 14:21:38 2021 +0200
+
+    Actualiza datos a 31/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 2e1e74a493ebd00350cb87eb986206e4e93f1f90[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 30 12:38:18 2021 +0200
+
+    Actualiza datos a 30/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit a0bfa6dca209f9a6bf11bb3d5b4edb16bc4af7b9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Mar 29 11:14:55 2021 +0200
+
+    Actualiza datos a 29/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit d413905d1caded0a7be2ac286ce44b72eebb99ff[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Mar 28 22:48:05 2021 +0200
+
+    Actualiza datos a 28/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 13d68c9b857df0aaf77100752ff41439aeb20950[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Mar 28 22:07:26 2021 +0200
+
+    Actualiza serie historica de centros educativos a 27/03/2021
+
+[33mcommit 1f65c1437d338356952a81ec88a45433be38398a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Mar 27 12:01:07 2021 +0100
+
+    Incorpora datos del día 26/03/2021 a serie historica de centros educativos
+
+[33mcommit 10670c53e5fdb2283faa17ec4a17e6487a488acc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Mar 27 10:32:48 2021 +0100
+
+    Actualiza datos a 27/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 6d628f9d94c19d2c716e9c9feed4049503c21c05[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Mar 26 15:08:44 2021 +0100
+
+    Actualiza datos a 26/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 471670d7f7e8781bdf74248e5819c206556e6d39[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Mar 26 14:41:28 2021 +0100
+
+    Incorpora datos del día 24/03/2021 a serie historica de centros educativos
+
+[33mcommit 2785cd23bd6fadf476eaa72a07b42928ab59bf6e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Mar 25 21:36:54 2021 +0100
+
+    Actualiza serie historica de centros educativos a 25/03/2021
+    
+    Falta el día anterior (24/03/2021), porque no me llegaron los datos.
+    Si me llegan, los incluyo en la serie.
+
+[33mcommit 5fbbdbb32b1544e7526e552596042a1967cdab32[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Mar 25 12:36:37 2021 +0100
+
+    Actualiza datos a 25/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 2fc4d088026c24b811e057e868dc177afa641f67[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Mar 24 14:10:48 2021 +0100
+
+    Actualiza datos a 24/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit c0e73b4071c5aba3515080b909a1d1356cdfadc6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Mar 24 13:55:08 2021 +0100
+
+    Actualiza serie historica de centros educativos a 23/03/2021
+
+[33mcommit 9eda0f1051b5b073449476af24e84cb754966c2e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 23 11:48:21 2021 +0100
+
+    Actualiza datos a 23/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit f512cbc999778f50807483e477cd15a224cf6287[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Mar 22 12:00:42 2021 +0100
+
+    Actualiza datos a 22/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 13816c2aa13b80c6d4dd36f620f08fc0164d1f8f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Mar 21 16:08:18 2021 +0100
+
+    Actualiza datos a 21/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit a0a906292d96ac7b5acde3af25c177ae16f1b2a0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Mar 20 10:45:06 2021 +0100
+
+    Actualiza datos a 20/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 4ad89877eb5cf3f1690f7671e9b85024d24e851f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Mar 19 21:20:16 2021 +0100
+
+    Actualiza serie historica de centros educativos a 19/03/2021
+
+[33mcommit c477d6bba2378cfcb27bba769390ee2dcb0d16df[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Mar 19 10:49:29 2021 +0100
+
+    Actualiza datos a 19/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit d5570dfd456bc61a6de365d32cdc0630b16ccf84[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Mar 18 22:44:13 2021 +0100
+
+    Actualiza serie historica de centros educativos a 18/03/2021
+
+[33mcommit b6551d5e0c1cad3bf7b3cb1cbbfa84e48e9dd5b8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Mar 18 10:51:45 2021 +0100
+
+    Actualiza datos a 18/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 907b0c303dd99b228b0b406cfb4a04c58fbf83d4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Mar 17 19:13:52 2021 +0100
+
+    Actualiza serie historica de centros educativos a 17/03/2021
+
+[33mcommit efa9c50710fa09c789f8b8fedc1b04baa257a81c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Mar 17 10:31:37 2021 +0100
+
+    Actualiza datos a 17/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 8e7d36305b820cd3ce9e690423959d55a6644436[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Mar 17 09:00:28 2021 +0100
+
+    Actualiza serie historica de centros educativos a 16/03/2021
+
+[33mcommit da75ac4739ce1b8b0dc549eda8bcbc7d4246c959[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 16 10:33:15 2021 +0100
+
+    Actualiza datos a 16/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 8a3872b71f88bee17580dfc7f99090c2cfaef947[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Mar 15 10:20:55 2021 +0100
+
+    Actualiza datos a 15/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit cc2bb4da0c1943c8862b189510338ff5dd589240[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Mar 14 16:18:54 2021 +0100
+
+    Actualiza datos a 14/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 935d38987b309e0fb4bfa0c774228916ac14e56e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Mar 14 16:13:07 2021 +0100
+
+    Actualiza serie historica de centros educativos a 13/03/2021
+
+[33mcommit f9be48f31a7bdb4b4543130476485d0da4413845[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Mar 13 10:14:00 2021 +0100
+
+    Actualiza datos a 13/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 46dd25bf532e0d8950ea99304100af8415025530[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Mar 13 09:59:07 2021 +0100
+
+    Actualiza serie historica de centros educativos a 12/03/2021
+
+[33mcommit 2d770bfe8af8b0242b92021e2a288c1494a7865a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Mar 12 11:47:32 2021 +0100
+
+    Actualiza datos a 12/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 03baadec91d2d55839b57ecfdaec1ccf160487a6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Mar 12 11:47:19 2021 +0100
+
+    Vuelve a ',' como separador del mapa de incidencia
+
+[33mcommit 424505e09238b12752395a6e46572668d455c539[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Mar 11 21:46:25 2021 +0100
+
+    Actualiza serie historica de centros educativos a 11/03/2021
+
+[33mcommit c55623e6d7bff23eae931590581e1a32f211ea80[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Mar 11 11:49:31 2021 +0100
+
+    Actualiza datos a 11/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 4b7104bfe236a2d94f1b927b7d354a830804abc4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Mar 11 11:49:17 2021 +0100
+
+    Vuelve a poner ';' como separador para procesar el mapa de incidencia
+
+[33mcommit 5e242418bd4316f0046f0f05e86d04e5e0f6e59b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Mar 11 09:40:45 2021 +0100
+
+    Actualiza serie historica de centros educativos a 10/03/2021
+
+[33mcommit caba5ef45abc689422e7383855a224548a22847a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Mar 10 13:04:46 2021 +0100
+
+    Actualiza datos a 10/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 4987e00a9fb3f962d9d51d378e2b964eae0c6019[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 9 20:46:06 2021 +0100
+
+    Actualiza serie historica de centros educativos a 09/03/2021
+
+[33mcommit 2bcdecae06a7496c8ec7cccd5d97c8e285967306[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 9 11:19:17 2021 +0100
+
+    Actualiza datos a 09/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit b1b7a213f3d7257d26c519ec69ef6ca7e8eb7919[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Mar 8 11:11:54 2021 +0100
+
+    Actualiza datos a 08/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit b6e3de693e45d5a6211ee435be2b4be5ebcf8d26[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Mar 7 11:17:56 2021 +0100
+
+    Actualiza datos a 07/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 035cf94b75f8f03b5f248f9ea3e963453eb95cf1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Mar 7 10:44:18 2021 +0100
+
+    Actualiza serie historica de centros educativos a 06/03/2021
+
+[33mcommit 193589881c2637d3bfc6b7e8d29d37dc90d92b9e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Mar 6 11:07:53 2021 +0100
+
+    Actualiza datos a 06/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 2a100998822e4c448e43616de85d74cd90850572[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Mar 6 10:33:23 2021 +0100
+
+    Actualiza serie historica de centros educativos a 05/03/2021
+
+[33mcommit 90d940886cb3a514400b1be92c644e0c733f1002[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Mar 5 12:52:03 2021 +0100
+
+    Actualiza datos a 05/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 64f8555adea19ba5109b181e200e648086d6379a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Mar 5 09:57:57 2021 +0100
+
+    Actualiza serie historica de centros educativos a 04/03/2021
+
+[33mcommit a8277980bba95dd86823fee9bfbf1d8f4fb24711[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Mar 4 10:41:45 2021 +0100
+
+    Actualiza datos a 04/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 648f30c4ff7d5e1fa528ac576d411ba841ad06d9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Mar 3 21:32:46 2021 +0100
+
+    Actualiza serie historica de centros educativos a 03/03/2021
+
+[33mcommit 361720c530e1229fb97d1dc8b5548bbcdcae515d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Mar 3 10:24:38 2021 +0100
+
+    Actualiza datos a 03/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 447761d2105225909920e35ffd6c81e9c1fc910d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Mar 3 10:09:31 2021 +0100
+
+    Vuelve a usar separador de ',' tras un único día donde el DW de la Xunta usó ';' de separador
+
+[33mcommit 68f54290a021adc0097b348e066491a8dcd14023[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 2 22:31:53 2021 +0100
+
+    Actualiza serie historica de centros educativos a 02/03/2021
+
+[33mcommit 748b024889be1a777aea66304846acba1f01f226[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 2 11:37:15 2021 +0100
+
+    Actualiza datos a 02/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia. Hoy trae como
+    novedad la incidencia a 7 días.
+
+[33mcommit d57b6782e8d077294a437549074e7c691ab673ea[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 2 11:25:15 2021 +0100
+
+    Corrige título de mapa de incidencia
+
+[33mcommit 7a4b59831b1a56eafd95e3e18d2ac419701ac257[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 2 11:20:22 2021 +0100
+
+    Ajusta tamaño de tabla de datos
+
+[33mcommit 396424fbd49a3e801c6e859d75e8f877b0dc7fda[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 2 11:02:51 2021 +0100
+
+    Actualiza descripción de serie histórica de incidencia por municipios
+
+[33mcommit 3bb3e334639f3fb9ebc2759f815b279abefa2aad[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Mar 2 10:59:07 2021 +0100
+
+    Adapta los scripts al nuevo mapa de incidencia por municipios con incidencia a 7 dias
+
+[33mcommit 3d955be044d8ccfe08e1fbb4c0db8cc9690a08e1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Mar 1 10:34:17 2021 +0100
+
+    Actualiza datos a 01/03/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 0fe7f47045ab67255b6c47474b16a64cd19782e4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Mar 1 10:29:22 2021 +0100
+
+    Corrige fecha actual, apuntando a la celda de sheets correcta
+
+[33mcommit 52a6bd14858e136602f946b3245afb18b696dde7[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Mar 1 10:19:32 2021 +0100
+
+    Añade hospitalizados y UCI por 100k habs a la tabla de datos
+
+[33mcommit 2a089d9962826db0cad2bbc0441d101084be8cf0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Feb 28 13:31:56 2021 +0100
+
+    Actualiza serie historica de centros educativos a 27/02/2021
+
+[33mcommit 6cd13479b677e60d91a650d7c82fffd8746e5074[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Feb 28 10:39:25 2021 +0100
+
+    Actualiza datos a 28/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit eef66cb8b938c824c42d5dfa04243a4896fa7c59[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Feb 27 11:09:37 2021 +0100
+
+    Actualiza datos a 27/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 11919d40749a490eb5202c2489e6873e1a5f6713[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Feb 26 22:03:21 2021 +0100
+
+    Actualiza serie historica de centros educativos a 26/02/2021
+
+[33mcommit 42a0895d5f99f84144d5bf20d1c263f87028b358[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Feb 26 11:17:21 2021 +0100
+
+    Corrige truncado vertical del mapa de movilidad en moviles
+
+[33mcommit 9b36e07efb0a61631f10e740ded70a84bdbe4986[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Feb 26 10:31:32 2021 +0100
+
+    Actualiza datos a 26/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 6cc4e617824a7a36c2d4b12a5555b4934f983ac4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Feb 25 21:30:40 2021 +0100
+
+    Actualiza serie historica de centros educativos a 25/02/2021
+
+[33mcommit 1f83e2f5b1930b5c3ec652741ae7f949accaf2a9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Feb 25 21:26:12 2021 +0100
+
+    Añade mapa de movilidad propio
+
+[33mcommit 485367e28ca18d42d18f36f2310019c351517a7e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Feb 25 13:04:19 2021 +0100
+
+    Actualiza datos a 25/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+    
+    - Corrige un dato puntual erróneo de casos acumulados en el área de Vigo,
+    el cual se modificó por error recientemente.
+
+[33mcommit b36147e0c568df46c7920164c7c9c4164dd9afd0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 24 21:07:09 2021 +0100
+
+    Elimina datos de fallecidos en vigo que se habían metido por error
+
+[33mcommit 36be726e276fbd737d0425f903453420cda42d47[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 24 21:06:29 2021 +0100
+
+    Corrige dato de fallecidos que aparece como fecha
+
+[33mcommit 7e9c6bad9fd3cc004deb6128149a527a13810731[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 24 21:03:32 2021 +0100
+
+    Actualiza serie historica de centros educativos a 24/02/2021
+
+[33mcommit 9cb139e5e665e2a5cd3e34e00c3e260329b8b1e3[m
+Author: Daniel Glez-Peña <lipido@gmail.com>
+Date:   Wed Feb 24 13:31:24 2021 +0100
+
+    Licencia el repositorio bajo Creative Commons
+    
+    Añade licencia CC 4.0.
+    
+    Se otorgan los siguientes permisos:
+    
+    1. Compartir - copiar y redistribuir el contenido en cualquier medio o formato
+    
+    2. Adaptar - remezclar, transformar, y crear a partir de este material para cualquier
+    propósito, incluso comercial
+    
+    Bajo las siguientes condiciones:
+    
+    1. Atribución - Se debe dar crédito de forma adecuada, proporcionar un enlace a la
+    licencia, e indicar si se han hecho cambios. hecho cambios. Se puede hacer de
+    cualquier forma razonable, pero nunca de forma que se sugiera que el licenciador
+    apoya a quien lo usa o el uso que se hace del material.
+    
+    2. Sin restricciones adicionales - No se pueden aplicar términos legales o medidas
+    tecnológicas que restringan a otros de hacer lo que permite esta licencia.
+    
+    Avisos:
+    1. No es necesario cumplir con la licencia para elementos del material que ya son de
+    dominio público o donde su uso está ya permitido por una excepción o limitación aplicable.
+    
+    2. No se dan garantías. La licencia no da todos los permisos necesarios para el uso que se
+    vaya a hacer del material. Por ejemplo, otros derechos como publicidad, privacidad,
+    o derechos morales pueden limitar el uso del material.
+
+[33mcommit 0aa5228b11b51918c8cc7cddee34fcd86226019e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 24 11:34:19 2021 +0100
+
+    Actualiza datos a 24/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 05e65b49fbd3a39ce98bc2fb425e694aefa53013[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 24 11:27:30 2021 +0100
+
+    Retira provisionalmente el mapa de Praza.gal porque van a hacer uno nuevo.
+
+[33mcommit 79207b2283be60eda67acb1a0f53f675834f1c35[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Feb 23 21:21:53 2021 +0100
+
+    Actualiza serie historica de centros educativos a 23/02/2021
+
+[33mcommit fa63d3ae662606cb19ecf14833bca79dab6fdd6f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Feb 23 10:48:55 2021 +0100
+
+    Añade de nuevo mapa de restricciones de Praza.gal
+
+[33mcommit 0961de248db3598c8d7c04cba1696f9505a19ca9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Feb 23 10:42:55 2021 +0100
+
+    Actualiza datos a 23/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 9cca0e0770afa25c378946c2e5220bdaccd28627[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Feb 22 10:20:06 2021 +0100
+
+    Actualiza datos a 22/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 927040b1c07e9ccccb9493af425f56efc44bc50f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Feb 21 10:51:54 2021 +0100
+
+    Actualiza datos a 21/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 4d693a24c9e0e1596cfa46f1b398759ee892c137[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Feb 20 17:04:08 2021 +0100
+
+    Actualiza serie historica de centros educativos a 20/02/2021
+
+[33mcommit 5af8c4d73b0d975042ac40058fc7760860dbb56c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Feb 20 10:59:36 2021 +0100
+
+    Actualiza datos a 20/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit e784fcde356a72e94a1d7ddad7a85c955eb1da01[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Feb 20 10:38:07 2021 +0100
+
+    Actualiza serie historica de centros educativos a 19/02/2021
+
+[33mcommit 679c050670fe1894fd34cc698d72796c8adb566c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Feb 19 10:34:13 2021 +0100
+
+    Actualiza datos a 19/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 45be8668efa21f951aa30d917cb20963aa9437c2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Feb 18 10:46:14 2021 +0100
+
+    Actualiza datos a 18/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 68e5894ac5ef83c9c938a8d8eccea652c134638a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 17 10:59:07 2021 +0100
+
+    Actualiza datos a 17/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit abb16329dcb19a107b58db41324ec4a0507d2aeb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Feb 16 10:41:52 2021 +0100
+
+    Actualiza datos a 16/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit d9677655c707f71332b660ab2eccbc0965619993[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Feb 15 10:19:06 2021 +0100
+
+    Actualiza datos a 15/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit c8ee79d003a6a2b730fbcad7c6f5f99d67de81fd[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Feb 14 11:06:48 2021 +0100
+
+    Actualiza datos a 14/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 296fa02de95aef9ca595058a78570a1543780d56[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Feb 13 21:44:42 2021 +0100
+
+    Actualiza serie historica de centros educativos a 13/02/2021
+
+[33mcommit f2e5128e05ef0493cf06f4f2599356b06561fa43[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Feb 13 10:56:30 2021 +0100
+
+    Actualiza datos a 13/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 4d02e803903fe07bfadb9e9619b4f48d5ae210e5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Feb 12 16:25:08 2021 +0100
+
+    Actualiza serie historica de centros educativos a 12/02/2021
+
+[33mcommit a99335300538e95f8f7bf673610157644b60ad85[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Feb 12 13:30:00 2021 +0100
+
+    Actualiza datos a 12/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 1f346c1f39678783c56e2d2db016499374c1614c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Feb 11 20:57:13 2021 +0100
+
+    Actualiza serie historica de centros educativos a 11/02/2021
+
+[33mcommit 55e32c2eb7b88a70d798b15f91ab5f6b3af75045[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Feb 11 10:36:25 2021 +0100
+
+    Actualiza datos a 11/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit e1a827b6b3bbdb85fdf1446169e57b9aaf0957e2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 10 21:51:25 2021 +0100
+
+    Actualiza serie historica de centros educativos a 10/02/2021
+
+[33mcommit 1e160b0bfb89b32c3379d738cb0cf7f5acc8f8cd[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 10 10:34:43 2021 +0100
+
+    Actualiza datos a 10/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit fa26da07f9bffbef46322e39be36a1cd6b5f9478[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Feb 9 21:49:45 2021 +0100
+
+    Actualiza serie historica de centros educativos a 09/02/2021
+
+[33mcommit 571056383606eb4a2a4bc49d45b82543d0f3bb1b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Feb 9 11:27:41 2021 +0100
+
+    Actualiza datos a 9/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 0a1478bcec6ea6081e4382c01c53b99e0a71607e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Feb 8 13:03:14 2021 +0100
+
+    Actualiza datos a 8/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit e796f261d0d43e198dc092983998a2c289be879c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Feb 7 10:08:40 2021 +0100
+
+    Actualiza datos a 7/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit d21d4d407bc407fa414a304baaa3d434e71d831d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Feb 6 19:35:08 2021 +0100
+
+    Actualiza serie historica de centros educativos a 06/02/2021
+
+[33mcommit 1f9db7fa2984827a4421c0b7b56850673298d8d0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Feb 6 10:21:56 2021 +0100
+
+    Actualiza datos a 6/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit ba622856eb333eee71530b8a48f4ba45384644a8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Feb 5 19:44:48 2021 +0100
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 05/02/2021
+
+[33mcommit 2b42c7d0ab1c130a73b8472b5247dd358b08e074[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Feb 5 19:43:49 2021 +0100
+
+    Actualiza serie historica de centros educativos a 05/02/2021
+
+[33mcommit b4eed1218ed74ce3796b7e9b47c9895f0e1cef93[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Feb 5 10:23:00 2021 +0100
+
+    Actualiza datos a 5/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 30546bbd0fdfe0185ee84464802401c19342ec43[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Feb 4 21:58:50 2021 +0100
+
+    Actualiza serie historica de centros educativos a 04/02/2021
+
+[33mcommit 6079ad837561f812f1bcbf2ea6e83062a2a5e35b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Feb 4 10:24:36 2021 +0100
+
+    Actualiza datos a 4/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 406f4e5a8260c05168895a3fda98862c0dcb4f6c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 3 22:07:38 2021 +0100
+
+    Actualiza serie historica de centros educativos a 03/02/2021
+
+[33mcommit d1746dda72fb4e7aa2315a12d9cdd64734ed347d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 3 10:38:25 2021 +0100
+
+    Actualiza datos a 3/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 9c448e6f9dd9fa46cf442c1d98186a4e64b8f063[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Feb 3 00:01:04 2021 +0100
+
+    Actualiza serie historica de centros educativos a 02/02/2021
+
+[33mcommit 6c3d18cdd06462bac7fde1a3ce95b5b968a00644[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Feb 2 10:20:56 2021 +0100
+
+    Actualiza datos a 1/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 1210e85b9eaadba74f32635b77c60a7c113149d5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Feb 1 11:09:43 2021 +0100
+
+    Actualiza datos a 1/02/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 8a402dfb6bb2681466ce669671c99f3bbbf67c6a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Feb 1 11:08:10 2021 +0100
+
+    Elimina mapa de restricciones de Praza.gal al no actualizarse
+    tras tener toda Galicia el mismo nivel de restricciones.
+
+[33mcommit 41d9fd27057a6512ecae0809be63e99298604644[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Jan 31 10:30:54 2021 +0100
+
+    Actualiza datos a 31/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 43acc0f7e854375e0eb0983be300493483112c6a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Jan 30 19:01:54 2021 +0100
+
+    Actualiza serie historica de centros educativos a 30/01/2021
+
+[33mcommit d8be1854df1a4474fbdbccfd6f1f68f90dbdaf91[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Jan 30 10:06:14 2021 +0100
+
+    Actualiza datos a 30/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 28af323288fa4945a7399a471e10e693d5f48e07[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jan 29 21:15:30 2021 +0100
+
+    Actualiza serie historica de centros educativos a 29/01/2021
+
+[33mcommit 315c4534f0c156573c090b2409ec98f9357c7bf8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jan 29 10:11:38 2021 +0100
+
+    Actualiza datos a 29/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 0bea0f8b44c89d99edfcb10c79b632bdc8766c89[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jan 28 18:27:28 2021 +0100
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 28/01/2021
+
+[33mcommit 0681fecf93c92f137aaff94bfda7ef5c591f10af[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jan 28 18:19:58 2021 +0100
+
+    Actualiza serie historica de centros educativos a 28/01/2021
+
+[33mcommit f1e8dc68117174e903a7feacb130f3f534ffafea[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jan 28 10:16:45 2021 +0100
+
+    Actualiza datos a 28/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit d54a031ada18af7c257227293ebfccab6d63ceef[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jan 27 17:37:29 2021 +0100
+
+    Actualiza serie historica de centros educativos a 27/01/2021
+
+[33mcommit 2fccd56c2997d9228ba4ce4b7abf3b84c1a96e02[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jan 27 10:18:57 2021 +0100
+
+    Actualiza datos a 27/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 341f6bc77d6406964028972327ac75d6c3a6c4f2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jan 26 17:02:38 2021 +0100
+
+    Actualiza datos a 26/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit deeae9bb7116e79e77f21eae3b79ca3b94ed72f8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jan 26 17:02:17 2021 +0100
+
+    Actualiza serie historica de centros educativos a 26/01/2021
+
+[33mcommit 3c9fd280cedfe252772c87e202d46df6441f6d8b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jan 25 21:23:19 2021 +0100
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 25/01/2021
+
+[33mcommit 50f9fffa3dec0625b0afdc0e827d31ebc6190c84[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jan 25 10:29:10 2021 +0100
+
+    Actualiza datos a 25/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 291ff46390d9332b4545f90dbe3576613b2aa5f5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Jan 24 10:48:05 2021 +0100
+
+    Actualiza datos a 24/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 0af44e2cc66200bfbeb8dccaf09efac509de2926[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Jan 23 21:44:16 2021 +0100
+
+    Actualiza serie historica de centros educativos a 23/01/2021
+
+[33mcommit 00cc2f0332d9fe37f6590f5707c50e75d0bfe3f8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Jan 23 10:23:02 2021 +0100
+
+    Actualiza datos a 23/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 78557e4f5f8c1e47bfffc69195f5fc2014947e8d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jan 22 19:08:38 2021 +0100
+
+    Actualiza serie historica de centros educativos a 22/01/2021
+
+[33mcommit 9b211515fb29dc05ac1431d8a7bf318c745bcc3d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jan 22 10:40:34 2021 +0100
+
+    Actualiza datos a 22/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit a4331e78f45dd19b9fc97e1e2b852339591b86f4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jan 21 15:11:24 2021 +0100
+
+    Actualiza serie historica de centros educativos a 21/01/2021
+
+[33mcommit 4e6e41c67856e7779e407755d34c15561165372c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jan 21 10:21:41 2021 +0100
+
+    Actualiza datos a 21/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 6182b6eb21141ea1d1a3acebb6d57594b4335c30[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jan 20 19:11:55 2021 +0100
+
+    Actualiza serie historica de centros educativos a 20/01/2021
+
+[33mcommit 83d9931003ed10b1cd4b99d16fd69d8e26aa5a1b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jan 20 14:25:55 2021 +0100
+
+    Actualiza datos a 20/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit d354df0dc313013dbcbfa2d4fa07713db49da365[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jan 19 21:42:13 2021 +0100
+
+    Actualiza serie historica de centros educativos a 19/01/2021
+
+[33mcommit 852f0ced3434597e99ead55ce6e08cb3146d1d92[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jan 19 10:34:55 2021 +0100
+
+    Actualiza datos a 19/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 458943e765b9c7f16f5ed42dc6f042e97f8959e1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jan 18 10:43:14 2021 +0100
+
+    Actualiza datos a 18/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit d6fe493a15ca00525d254acea839a48e277ef4d9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Jan 17 19:29:43 2021 +0100
+
+    Actualiza datos a 17/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 5827bdd7bf827940711a3dc82415539e1730f924[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Jan 17 19:12:07 2021 +0100
+
+    Actualiza serie historica de centros educativos a 16/01/2021
+
+[33mcommit da370ec829ce68626f7f1564ef2dedd5da05d9b0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Jan 16 10:51:46 2021 +0100
+
+    Actualiza datos a 16/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit aa84224125da16df62c2c5900b4e5fe87454c52e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jan 15 15:59:48 2021 +0100
+
+    Actualiza serie historica de centros educativos a 15/01/2021
+
+[33mcommit c47f46225bfb7dcb93e8feda8887941c708887da[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jan 15 10:54:49 2021 +0100
+
+    Actualiza datos a 15/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 0ef8fe6ee7333d66840af8c7b428bedb33e574b8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jan 14 20:06:31 2021 +0100
+
+    Actualiza serie historica de centros educativos a 14/01/2021
+
+[33mcommit 57b358f86b64827304f75c43c2c4cfacafadcb4a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jan 14 13:44:32 2021 +0100
+
+    Actualiza datos a 14/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit cfd46f73644e4b81472c4a8ba1853814306d52b2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jan 13 19:52:41 2021 +0100
+
+    Actualiza serie historica de centros educativos a 13/01/2021
+
+[33mcommit 1e5224443a4c37490e885b0f161be97c7516c322[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jan 13 14:24:49 2021 +0100
+
+    Actualiza mapa de Praza.gal para las nuevas restricciones del 15/1/2021
+
+[33mcommit ffb6dbf665fed2007c1c80522bae53b32262b7aa[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jan 13 11:04:49 2021 +0100
+
+    Actualiza datos a 13/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 322ee99da381ad1ea022ec6cb414db0c3546984f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jan 13 09:02:26 2021 +0100
+
+    Actualiza serie historica de centros educativos a 12/01/2021
+
+[33mcommit 7c6dd391172675cccddef5f65223f1aa3fa8f63d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jan 12 15:21:32 2021 +0100
+
+    Actualiza datos a 12/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 201892360f0dcfd471f0e7d257204a90b5533244[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jan 11 20:00:29 2021 +0100
+
+    Actualiza serie historica de centros educativos a 09/01/2021
+
+[33mcommit 295bc8a2b1be374cd8fa7dd42b5df51ab7285be5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jan 11 19:55:35 2021 +0100
+
+    Actualiza datos a 11/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit dec7ce8530eaae453d692d48e363e0483d4d010b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Jan 10 10:35:35 2021 +0100
+
+    Actualiza datos a 10/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit a5235d01b6947a8209c53d0c7caf9c7fe1b3f384[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Jan 9 10:29:11 2021 +0100
+
+    Actualiza datos a 09/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 230452c75ddf75983b96e17ea6b21391ca5e15ec[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jan 8 20:01:54 2021 +0100
+
+    Actualiza datos a 08/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit fabcffcf207e482777ad8868826464f4b5765550[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jan 7 13:11:44 2021 +0100
+
+    Actualiza datos a 07/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 202eab37ac4c0fddd4945c9bf61ce389ea654ec8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jan 6 10:18:04 2021 +0100
+
+    Actualiza datos a 06/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 7c76a70ce619211b069f84ba3df1591169a1ddd0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jan 5 11:05:39 2021 +0100
+
+    Actualiza datos a 05/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit ab15455f21e16804b4cdb6bd35983821f12d2681[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jan 4 10:15:02 2021 +0100
+
+    Actualiza datos a 04/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 4108e0ad8f1868173c7e6169094e7222b480097a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Jan 3 11:57:28 2021 +0100
+
+    Actualiza datos a 03/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+    crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit b13641d1f0b28bd6f568915b9de407e53d134060[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Jan 2 11:30:37 2021 +0100
+
+    Actualiza datos a 02/01/2021
+    
+    - Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    
+    - Añade información cruda de la nueva Web del SERGAS
+    
+    - Actualiza incidencia por municipios, actualizando tanto el mapa
+      crudo del SERGAS como el csv con la incidencia.
+
+[33mcommit 120dcd486593427f3938a3b10dbb2d7e670b4179[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jan 1 12:59:08 2021 +0100
+
+    Actualiza incidencia por municipios a 01/01/2021
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit bed12a164277699055824fabf7e2e444487381df[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jan 1 12:58:36 2021 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 01/01/2021
+
+[33mcommit 6a348f184c208ceb0a25dfa4dcc197feeaefcfc6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jan 1 12:58:17 2021 +0100
+
+    Añade datos actualizados a 01/01/2021
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 0db8a6a085b6694a91ef9d646437363c81077a11[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 31 10:41:05 2020 +0100
+
+    Actualiza incidencia por municipios a 31/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit b12643c140efcb4afa897f3c704671439af986a7[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 31 10:40:42 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 31/12/2020
+
+[33mcommit 0f7c11e7e1586989e8fb2c75cbe503c83ec269b4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 31 10:40:24 2020 +0100
+
+    Añade datos actualizados a 31/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 3d1cbd0b55c2b3465e7b144f0e81e921030f67ab[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 30 20:54:52 2020 +0100
+
+    Actualiza incidencia por municipios a 30/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit a9c82bbf192795c07dba54e481d34d557b0a3db5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 30 20:54:29 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 30/12/2020
+
+[33mcommit 470427386148c71a0c0c109867d4682c425b10da[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 30 20:54:09 2020 +0100
+
+    Añade datos actualizados a 30/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 8abd62a738c7f70e00ba20de11e0ed89ee656fe2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 29 20:12:49 2020 +0100
+
+    Actualiza incidencia por municipios a 29/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 84c8fb72606b4e2fc84f1c0b68af7977123f59f2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 29 20:12:25 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 29/12/2020
+
+[33mcommit cfb7e21177411a6d96beca6d417a3e9e7bd77fbe[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 29 20:12:09 2020 +0100
+
+    Añade datos actualizados a 29/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit c5e38583721d2347ce3de2a5cc8ff1a7d054d2cc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 28 14:24:01 2020 +0100
+
+    Actualiza incidencia por municipios a 28/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 9fd911bafb94c4da8d90241484230730896d012e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 28 14:23:34 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 28/12/2020
+
+[33mcommit 9c15bd6e3e7ea4d80c653c511ac23e4fed76ca78[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 28 14:23:17 2020 +0100
+
+    Añade datos actualizados a 28/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 258e81e24da85dc28dda58bdc6e604119fcc2412[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Dec 27 10:53:47 2020 +0100
+
+    Actualiza incidencia por municipios a 27/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit dd87dbd53e98ceed95414feadeec95aa49f697fd[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Dec 27 10:53:27 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 27/12/2020
+
+[33mcommit 3ac6caa07164f2dfc89c3c43293955cbfc36df00[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Dec 27 10:53:07 2020 +0100
+
+    Añade datos actualizados a 27/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 1f5e2202b5e9745086264f6b60118541aac41ad8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 26 22:23:18 2020 +0100
+
+    Actualiza incidencia por municipios a 26/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 364a3e57ad91e2680ce1b1f025cbc0f45cec5d78[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 26 22:22:44 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 26/12/2020
+
+[33mcommit 2c45b784876d848b102a8452d08922550f18c300[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 26 22:22:26 2020 +0100
+
+    Añade datos actualizados a 26/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 8c3661623821b4d3ad21459a9172cc3e5f2c25ff[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 26 20:08:26 2020 +0100
+
+    Actualiza incidencia por municipios a 25/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 272475f5249d8335ba39309978e9c1a7f43c6099[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 26 20:08:03 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 25/12/2020
+
+[33mcommit 7024624d59d82f6cbdc41f5f75631e13d4cec365[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 24 11:43:28 2020 +0100
+
+    Actualiza incidencia por municipios a 24/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 7b5aeebb8440bcaa4c3c69714e68ee1a95eafbe8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 24 11:43:02 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 24/12/2020
+
+[33mcommit c17415cac32206da71c8c427cb2c4c0c35b80b5e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 24 11:42:41 2020 +0100
+
+    Añade datos actualizados a 24/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 6926632c538b6d90d6283a907a3b791909028e50[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 23 20:31:01 2020 +0100
+
+    Actualiza incidencia por municipios a 23/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 88306b5392ccc936a913748e33de146aabb4a082[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 23 20:30:36 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 23/12/2020
+
+[33mcommit f79bc318f3af7d081d60c7abab51f4411d8165cb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 23 20:30:11 2020 +0100
+
+    Actualiza serie historica de centros educativos a 23/12/2020
+
+[33mcommit 52b272f578c0464d89dfe293cbed3bd5b5213ca6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 23 20:29:47 2020 +0100
+
+    Añade datos actualizados a 23/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit b566e221620c2c514b002846609f7f62cdb71948[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 22 16:53:46 2020 +0100
+
+    Actualiza incidencia por municipios a 22/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 11a9573c4227b9e6da34ce45219c4098fb427edc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 22 16:53:17 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 22/12/2020
+
+[33mcommit af2ef92eb3950a2e060c95cfacd8a3459f3df77f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 22 16:53:03 2020 +0100
+
+    Actualiza serie historica de centros educativos a 22/12/2020
+
+[33mcommit d50d55419ef53f5eb21400a1ef920d7f01071ea5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 22 16:52:49 2020 +0100
+
+    Añade datos actualizados a 22/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit e03b0dcabd2e8ef068398181e33de18299a9c0c7[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 21 21:05:38 2020 +0100
+
+    Actualiza incidencia por municipios a 21/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 7c5cd849cde69e3de525577057151fe04e5664ce[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 21 21:05:05 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 21/12/2020
+
+[33mcommit 0f08650fc74d2eb9ede54896b0e31a59ada98f73[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 21 21:04:49 2020 +0100
+
+    Añade datos actualizados a 21/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 5d8ed0b1c5ca4182b05c2fc11af917b4b87e4484[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Dec 20 10:57:42 2020 +0100
+
+    Actualiza incidencia por municipios a 20/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 1cb06a1060e45ac16700111bcd828a782ccb0707[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Dec 20 10:57:18 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 20/12/2020
+
+[33mcommit 0662a5f080f7757f99ec239ee670c001c2e7bfd2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Dec 20 10:56:58 2020 +0100
+
+    Añade datos actualizados a 20/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit bba56b4c7660b6c9db3eeb5169f1eb25e03723e2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 19 14:34:18 2020 +0100
+
+    Actualiza serie historica de centros educativos a 19/12/2020
+
+[33mcommit e21588fca9c8b3da9312e8096d766669d618acb6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 19 14:19:57 2020 +0100
+
+    Actualiza incidencia por municipios a 19/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 093bc5cc67c261c7344c7c69bee83f0e78e794fb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 19 14:19:35 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 19/12/2020
+
+[33mcommit 2b532e5552d2551fadf55b16e51681c83ee2bea5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 19 14:19:12 2020 +0100
+
+    Añade datos actualizados a 19/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 7d4ff341e26e0bbdf02bdd8943abcc7ebde5b129[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 18 20:29:11 2020 +0100
+
+    Actualiza incidencia por municipios a 18/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 36e2a51df14fd82eaa37385775baf2f7bf3761b8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 18 20:28:40 2020 +0100
+
+    Actualiza serie historica de centros educativos a 18/12/2020
+
+[33mcommit e9c2a5a9c4c2898bea612532e90d5b62e9ab178d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 18 20:28:21 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 18/12/2020
+
+[33mcommit 4c354333b01923d077dbc827e7dedb2c1365d1a4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 18 20:28:03 2020 +0100
+
+    Añade datos actualizados a 18/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 0614a1a017427c45c4fe0f950f854da3577053dc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 17 18:18:11 2020 +0100
+
+    Actualiza incidencia por municipios a 17/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit db23cfe219db0075941967286cbc667515768b2c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 17 18:17:38 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 17/12/2020
+
+[33mcommit 218d38076501a93e7cede7c922e787c662a1af2f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 17 18:17:12 2020 +0100
+
+    Actualiza serie historica de centros educativos a 17/12/2020
+
+[33mcommit 44957eeec58214e4fc11932fe3906ea547d62341[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 17 18:16:54 2020 +0100
+
+    Añade datos actualizados a 17/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit f33451b5631b6cd08d9be14f4fac0fccb0e0abae[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 16 20:23:51 2020 +0100
+
+    Actualiza serie historica de centros educativos a 16/12/2020
+
+[33mcommit 427a40d7843d4741a65de9fd06d2e2b9d36de034[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 16 20:23:28 2020 +0100
+
+    Actualiza incidencia por municipios a 16/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit f40e25e59e82abb88d49f17e7d28e13cc923bf55[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 16 20:22:51 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 16/12/2020
+
+[33mcommit d5f76b536c5c13bc8bdfd551f79d737382b169b4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 16 20:22:35 2020 +0100
+
+    Añade datos actualizados a 16/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit ce543454c07450404a390ad3b21894b7937c0b65[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 15 18:43:01 2020 +0100
+
+    Actualiza serie historica de centros educativos a 15/12/2020
+
+[33mcommit 20ed539525fc1f59b1d85fbf6fd505727e3db5fb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 15 11:37:19 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 15/12/2020
+
+[33mcommit a04a5e46f9b491bc00abf6aa111ec5869546e48f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 15 11:36:58 2020 +0100
+
+    Actualiza incidencia por municipios a 15/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 04a74c1dbdea74626c2af68160b965cc0465e8ca[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 15 11:36:16 2020 +0100
+
+    Añade datos actualizados a 15/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 3b080c9e4e3c343a6dcb83ebbb47bdc0b25e20df[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 14 14:32:02 2020 +0100
+
+    Actualiza incidencia por municipios a 14/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit a5660e281b265e3b1e8f9117bb113a094c7dfb8b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 14 14:31:41 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 14/12/2020
+
+[33mcommit 2163353b176c59449dc90274b8a194dc93bdfae8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 14 14:31:24 2020 +0100
+
+    Añade datos actualizados a 14/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit d7fe16735dfaec51093e616783b35f3fc60a4cab[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 14 09:24:53 2020 +0100
+
+    Actualiza incidencia por municipios a 13/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 2870a6bf64d2c684314cde0ad54bffdb8096486a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 14 09:10:43 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 13/12/2020
+
+[33mcommit b60d4124b1c47cbd6bccc032287d3880e163e8e5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 12 21:15:10 2020 +0100
+
+    Actualiza serie historica de centros educativos a 12/12/2020
+
+[33mcommit fe1219ecd79dbf967e9c212e2195c0a908a51851[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 12 10:48:48 2020 +0100
+
+    Actualiza incidencia por municipios a 12/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit cc0adc4046a430aa3bdc6b4019c31b49b539c6ce[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 12 10:48:06 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 12/12/2020
+
+[33mcommit f61d9b47b635509e8138beee37668d8dc67fab17[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 12 10:46:35 2020 +0100
+
+    Añade datos actualizados a 12/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit f005603ae44ea720acb34e878b8e4e7e7c9fd416[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 11 17:05:14 2020 +0100
+
+    Actualiza incidencia por municipios a 11/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 327446e53a4ce3126e02cb5dff78f21216706e08[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 11 17:04:54 2020 +0100
+
+    Actualiza serie historica de centros educativos a 11/12/2020
+
+[33mcommit 6873a3b9eadd4916df7e1aebf7c4123ebe536d3d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 11 17:04:37 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 11/12/2020
+
+[33mcommit acb7eaa226ae1fa0f32bd6a164dd3c8bdd6e1647[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 11 17:04:18 2020 +0100
+
+    Añade datos actualizados a 11/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 65da60481b90f059258cf15d406a506f4016f484[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 10 18:04:06 2020 +0100
+
+    Actualiza serie historica de centros educativos a 10/12/2020
+
+[33mcommit b6f3c29d1afe3186275bfb8eac1cca2592306585[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 10 18:03:43 2020 +0100
+
+    Añade datos actualizados a 10/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit bb290f265d551e8aa26b8011b5a70757fcab91c5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 10 11:46:47 2020 +0100
+
+    Actualiza incidencia por municipios a 10/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 5dff15ec06ab120e95e773ec7c5fca770108cefb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 10 11:46:27 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 10/12/2020
+
+[33mcommit efa4917810cd33415943f8a175650a72b9cc9231[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 9 10:11:11 2020 +0100
+
+    Actualiza incidencia por municipios a 09/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 2d70c10b8187ce3fa2c8d753ef2070551b0c0a60[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 9 10:10:52 2020 +0100
+
+    Actualiza incidencia por municipios a 08/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 2859c38095657d291cdb16cfa0c86057d5461aaa[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 9 10:10:16 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 09/12/2020
+
+[33mcommit bd84c7a85653454c7ecdfa64cd4da5dc1fdfd5a4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 9 10:09:59 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 08/12/2020
+
+[33mcommit 05c2091c24b5bfda978483208f85a66dbf870ef2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 7 20:31:22 2020 +0100
+
+    Sustituye el mapa de restriccioones del SERGAS por el nuevo
+
+[33mcommit 44961401d3fd918b412b295a76c2c7be4f59d404[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 7 18:26:30 2020 +0100
+
+    Actualiza incidencia por municipios a 07/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit b355982fa85563428619ae11f638694a8ed900b9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 7 18:25:54 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 07/12/2020
+
+[33mcommit e584d33f8d7a74b445c75771adbb0420640ff5d0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Dec 7 18:24:52 2020 +0100
+
+    Añade datos actualizados a 07/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit dcadd7eb0d0789ce9b84b2192b097d87144e188e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Dec 6 11:02:28 2020 +0100
+
+    Actualiza incidencia por municipios a 06/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 85a9d9a85fc14d2af06c893ef7f8b4788dbba566[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Dec 6 11:01:56 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 06/12/2020
+
+[33mcommit 95467e51b028830a949d94ff0435ffcfb28e867e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Dec 6 11:01:34 2020 +0100
+
+    Añade datos actualizados a 06/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 0f4d830e5d1c17d3bbe79b4903e0fdbb2b1d6f0e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 5 19:44:01 2020 +0100
+
+    Añade datos actualizados a 05/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 4517310253dd807e64dfa5378c2972b644bd8e2f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 5 19:42:57 2020 +0100
+
+    Actualiza serie historica de centros educativos a 5/12/2020
+
+[33mcommit 53660080e404911e65425a3e189f1df1238c465e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 5 19:42:29 2020 +0100
+
+    Actualiza incidencia por municipios a 05/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit db961c9e269549790906ca4b38362365c1d61517[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 5 19:42:01 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 05/12/2020
+
+[33mcommit 234453b7a7cc575daf0b0a6dfb06ed12d87775f8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Dec 5 10:27:05 2020 +0100
+
+    Añade semaforo de ciudades y carga hospitalaria por área sanitaria
+
+[33mcommit 79e75dbb06d7f52f61f6010359f3c8138aea4a39[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 4 19:28:50 2020 +0100
+
+    Actualiza serie historica de centros educativos a 4/12/2020
+
+[33mcommit ab380f0d7c2888e89866793cf6a7fa63160d9dc4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 4 12:36:34 2020 +0100
+
+    Actualiza incidencia por municipios a 04/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 4f6b522ca3eac3b5fcb2a1568400efee9a603d38[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 4 12:36:08 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 04/12/2020
+
+[33mcommit ec94b20408c710b82673a458949cd90a43a135dd[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Dec 4 12:35:51 2020 +0100
+
+    Añade datos actualizados a 04/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 0d3142200b652d5ef9ef98cc28197b21b739d80c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 3 16:10:51 2020 +0100
+
+    Actualiza serie historica de centros educativos a 3/12/2020
+
+[33mcommit fdac83a01047b08c5631524ab61e1d2c7325f39e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 3 11:00:37 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 03/12/2020
+
+[33mcommit 9132b2b295aa1c59ba79d1ce8f0dff4999ea4b78[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 3 10:59:44 2020 +0100
+
+    Actualiza incidencia por municipios a 03/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 26c7cad8c852c40f75e1f3b0ae5c5c22129f2c2f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Dec 3 10:59:00 2020 +0100
+
+    Añade datos actualizados a 03/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 8ea13b7fccb32afb986ac3caa49888240b9a903a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 2 19:05:27 2020 +0100
+
+    Actualiza el mapa de restricciones de Praza.gal
+
+[33mcommit 36039e0bbdd6f256f2e8a332fe489cd519d6b727[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 2 19:03:34 2020 +0100
+
+    Añade datos actualizados a 02/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 40049068d626ec865058744e001c9662c2ca063b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 2 19:02:36 2020 +0100
+
+    Actualiza serie historica de centros educativos a 2/12/2020
+
+[33mcommit e4853f137a55d07ef017e76e556437a47305d845[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 2 10:17:48 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 02/12/2020
+
+[33mcommit 14f3db97d34131f366d617025f88c2f8b594a32b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 2 10:17:07 2020 +0100
+
+    Actualiza incidencia por municipios a 02/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit d753602fe975c350e93aa0f84ce4929f01ed09ec[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Dec 2 10:15:52 2020 +0100
+
+    Corrige URLs
+
+[33mcommit eadd9eecdd4b1cea9dd05f982b52b54e6ee9a12e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 1 16:22:05 2020 +0100
+
+    Actualiza serie historica de centros educativos a 1/12/2020
+
+[33mcommit f1cc03e52158cb8d5a7fd2dd4ac9e9ea59056582[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 1 13:22:31 2020 +0100
+
+    Actualiza incidencia por municipios a 01/12/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 9e6ec72f416a6bdfd16307a8a6150c05ce0298cb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 1 13:22:08 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 01/12/2020
+
+[33mcommit 4012540bc8c7a495ca10498e114770b078d6daf8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Dec 1 13:21:47 2020 +0100
+
+    Añade datos actualizados a 01/12/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 806f59f362520fac67a12ea27614b795d726a79d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 30 12:01:06 2020 +0100
+
+    Añade datos actualizados a 30/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit acb8d9114aeb76aae34346d61dc4c26c55382d42[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 30 11:58:02 2020 +0100
+
+    Actualiza incidencia por municipios a 30/11/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 43954bd82ce551454079e0a1a634b493279eb69c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 30 11:57:27 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 30/11/2020
+
+[33mcommit ed23809a4e64720b3c6c57645e98cfb9d806e402[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 29 10:21:30 2020 +0100
+
+    Actualiza incidencia por municipios a 29/11/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 8c5117ee0c77a6f47ee56e2e77a376bd31207e2a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 29 10:20:59 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 29/11/2020
+
+[33mcommit e9b8892ba4e721e3b8033dfffae09dd746ed6920[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 28 16:47:59 2020 +0100
+
+    Actualiza serie historica de centros educativos a 28/11/2020
+
+[33mcommit 52386b1f0be9b75e191e930e98f7d7c5138960ff[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 28 10:04:54 2020 +0100
+
+    Actualiza incidencia por municipios a 28/11/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 3a1f5e9db5143e76d56571d245a358dd54bce19f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 28 10:04:25 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 28/11/2020
+
+[33mcommit 24389799fde49429293142e2d1239e4dda330f32[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 28 10:02:04 2020 +0100
+
+    Actualiza serie historica de centros educativos a 27/11/2020
+
+[33mcommit 03247e271099db5d142a151380c53de2ce51a0ea[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 27 11:35:45 2020 +0100
+
+    Añade datos actualizados a 27/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit be1b6753b5c5a6afaa44883d21de786cac311589[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 27 10:59:13 2020 +0100
+
+    Actualiza incidencia por municipios a 27/11/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit cfabf188e2be06b2951bbb505521947479c71a4c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 27 10:58:16 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 27/11/2020
+
+[33mcommit d7271695484ebc770b56b8924768a0dc140fa5cc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 26 16:18:49 2020 +0100
+
+    Añade datos actualizados a 26/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit f2f4c8b0c593e255aa65dc7a67da644a1e9b473a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 26 16:17:39 2020 +0100
+
+    Actualiza serie historica de centros educativos a 26/11/2020
+
+[33mcommit 0b8f546eee45c26a766d3bffa7747ebb15f8b296[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 26 13:20:39 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 26/11/2020
+
+[33mcommit 3149201787d2b5af0acc717a7f8ce70a3991e011[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 26 13:20:14 2020 +0100
+
+    Actualiza incidencia por municipios a 26/11/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit 986b993488be187fb59e1a1106717b726ed1eb83[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 25 19:37:00 2020 +0100
+
+    Describe nueva columna con código de municipio
+
+[33mcommit 59b35627c11774695527c18bc443437d1e8881a9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 25 19:33:41 2020 +0100
+
+    Añade codigo INE del municipio
+
+[33mcommit 909174d1600456b1feeb6cde566b5542583191ea[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 25 19:25:48 2020 +0100
+
+    Corrige símbolo unicode menor-igual
+
+[33mcommit 2f9cef8acd50c882451a94c582d491a2e68be093[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 25 19:05:37 2020 +0100
+
+    Establece incidencia y casos a 0 cuando se indica 'Sen casos'
+
+[33mcommit 6a505ec7e5ddff865d022bcdecdb4488fc16170f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 25 18:59:50 2020 +0100
+
+    Unifica Cerdedo y Cotobade así como Oza dos Ríos y Oza-Cesuras
+
+[33mcommit ba851add8e5e8fb231ab17290654121a6449994a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 25 18:54:44 2020 +0100
+
+    Elminina el duplicado 'Sobrado'
+
+[33mcommit 4b3c30120492ada6782310f26346465d62e9dd93[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 25 18:51:08 2020 +0100
+
+    Actualiza serie historica de centros educativos a 25/11/2020
+
+[33mcommit e8ec1ea406d7392f65ad06ca80db03bee89af393[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 25 11:17:52 2020 +0100
+
+    Añade datos actualizados a 25/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit cb3d02895844be1cd554d1d9b267fc64ac4e541d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 25 10:08:08 2020 +0100
+
+    Actualiza incidencia por municipios a 25/11/20
+    
+    Actualiza tanto el mapa crudo del SERGAS como el csv con la
+    incidencia.
+
+[33mcommit e44f651d10452a145a68731861f07e4b947f61b8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 25 10:07:33 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 25/11/2020
+
+[33mcommit 91956b9eaffbbcf3bbd00d9212752cf3a9d0854e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 24 20:30:23 2020 +0100
+
+    Elimina duplicidad de Sada
+
+[33mcommit 1691d9d506c7cfd86e0c83fd7a13474d51693027[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 24 20:06:58 2020 +0100
+
+    Actualiza serie historica de centros educativos a 24/11/2020
+
+[33mcommit 94d4fbb06b31356e9a83ab2133034fbf4ca92b84[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 24 14:02:42 2020 +0100
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 22/11/2020
+
+[33mcommit 14f0a78a6e83768e58a32d0bffc1bf385c6fd47b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 24 14:00:51 2020 +0100
+
+    Añade datos actualizados a 24/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit c4c9b8e932452c810f1ab9edeb95f2159107ea91[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 24 13:59:56 2020 +0100
+
+    Actualiza mapa de incidencia a 14 días por Concellos del SERGAS a 24/11/20
+
+[33mcommit 62b81b395955b1d2b1470b553f317de9a0849c9f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 24 13:59:34 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 24/11/2020
+
+[33mcommit 891f9785e45e17d0f0b77fa98d65db6394f4d59d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 24 13:59:19 2020 +0100
+
+    Actualiza serie historica de incidencia por municipios a 24/11/20
+
+[33mcommit cfc079818f7e59d4072438d017eb3fb01a49aec8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 23 16:55:38 2020 +0100
+
+    Añade datos actualizados a 23/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 12207b77157622ed37b47f057aece87ceafa6cd2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 23 16:54:51 2020 +0100
+
+    Actualiza mapa de incidencia a 14 días por Concellos del SERGAS a 23/11/20
+
+[33mcommit ac8eb49b62bb02ba5535c12d3ec162d80bf8740a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 23 16:54:04 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 23/11/2020
+
+[33mcommit dc79d7fbdcf52b19f31f92c55866ddca88944752[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 23 16:46:15 2020 +0100
+
+    Corrige incidencia en el municipio de Vigo
+
+[33mcommit 75ec072cf2fcf391f31958df67bcf12ce22a5b82[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 23 10:36:04 2020 +0100
+
+    Actualiza serie historica de incidencia por municipios a 23/11/20
+
+[33mcommit 381751dad8d7cbe14bb96e4c06c5173d72520934[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 22 11:45:29 2020 +0100
+
+    Actualiza serie historica de centros educativos a 21/11/2020
+
+[33mcommit f010cf8378f29b0bc878657d154d8703f29fee8b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 22 11:04:06 2020 +0100
+
+    Añade nueva serie historica de incidencia por municipios
+    
+    A partir del 21/11/2020 el SERGAS proporciona número de casos por
+    municipios en los últimos 14 días. Se añade un nuevo fichero con
+    esta incidencia acumulada. Ver README.md
+
+[33mcommit 51ca21b9f2f6d023ba05c27cd428b6111f4a1b1b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 22 10:16:55 2020 +0100
+
+    Elimina script de descarga de mapas antiguos y añade nuevo
+
+[33mcommit 8a78e8668e8d28e6c6e8d1ec482c43fc1c2180bf[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 22 10:16:07 2020 +0100
+
+    Actualiza mapa de incidencia a 14 días por Concellos del SERGAS a 22/11/20
+
+[33mcommit 64e14bd9fb96d2d1dfb5a3157b1055a6e9d8457c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 22 10:09:42 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 22/11/2020
+
+[33mcommit 3c033157abbcb15edf95412c5ebaf1ed01f882d9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 22 10:09:14 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 21/11/2020
+
+[33mcommit 04f193036be66d2502076d6c09da8b6e0a58f8e8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 21 12:11:40 2020 +0100
+
+    Añade nuevo mapa de incidencia a 14 días por Concellos del SERGAS
+
+[33mcommit 69d3912c0d08fda7218fa07e306a6727ed26d5a2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 21 11:20:47 2020 +0100
+
+    Elimina mapas de alerta y de incidencia
+    
+    A partir del 21/11/2020 la web del SERGAS deja de publicar sus
+    mapas de alerta y aporta un nuevo mapa de incidencia. Este commit
+    elimina por tanto dichos mapas e incluye el nuevo en el HTML
+    del #SemaforoCOVIDGalicia
+
+[33mcommit fd1d6867fa87a10eff90ecd7c15b125296b6b46d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 21 10:59:01 2020 +0100
+
+    Actualiza serie historica de centros educativos a 20/11/2020
+
+[33mcommit 9e996e0fd6bdf73045e6eb412f6a76a733f6274b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 21 10:58:42 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 20/11/2020
+
+[33mcommit 0f4eed759261eb1e15f14a8b404d465f2d4bbf7b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 21 10:58:18 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 20/11/2020
+
+[33mcommit adbb4099e914eb95d6ac053e023af56bb95eab18[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 21 10:57:57 2020 +0100
+
+    Añade datos actualizados a 20/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit e752078f4d49e076b5eb3acf49061ae05694e077[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 19 16:34:31 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 19/11/2020
+
+[33mcommit a4457fa9191bc11261f4245c0c89684c38523b1a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 19 16:34:07 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 19/11/2020
+
+[33mcommit 88762cd8f53fc767ba37be755d2cdab65a67f6b2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 19 16:33:48 2020 +0100
+
+    Actualiza serie historica de centros educativos a 19/11/2020
+
+[33mcommit 868fc1e00b1fc5b0bc84abeb62e4775842200452[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 19 16:33:31 2020 +0100
+
+    Añade datos actualizados a 19/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 092798795c598bf5c9b9b16ee20be9051d598243[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 18 20:56:47 2020 +0100
+
+    Actualiza serie historica de centros educativos a 18/11/2020
+
+[33mcommit 42842d0f1aa931e074e57b5e89e99227366d396c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 18 20:51:02 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 18/11/2020
+
+[33mcommit fc8eb798a80fe25027558b6ff3e471270a671508[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 18 20:50:36 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 18/11/2020
+
+[33mcommit f5409045fcc49dd9533d34e1a9c90f6ef158044c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 18 20:50:08 2020 +0100
+
+    Añade datos actualizados a 18/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 166c6e2ed1ebfbbc0fe560ff7370aaf1a6200ece[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 17 16:57:50 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 17/11/2020
+
+[33mcommit 224e416396d540af5ead3d367844ac614f058d3a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 17 16:57:32 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 17/11/2020
+
+[33mcommit f58bbb95c65da29142a2be83794798a12721fb4b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 17 16:57:07 2020 +0100
+
+    Añade datos actualizados a 17/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit b1128126958a5921577002bdd6360734f460384b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 17 16:55:52 2020 +0100
+
+    Actualiza serie historica de centros educativos a 17/11/2020
+
+[33mcommit 258c5a82907aac0160942108edb1a70869e0ef5d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 16 11:26:26 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 16/11/2020
+
+[33mcommit 219a1569b0577010d08529db25f2e13dc9292217[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 16 11:25:10 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 16/11/2020
+
+[33mcommit 9c98cea43866794658f8077a3d4f4bf87a662089[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 16 11:23:49 2020 +0100
+
+    Añade datos actualizados a 16/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 851b75610bc53e3559902c2a452c0eb3b103e9d9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 15 11:13:29 2020 +0100
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 14/11/2020
+
+[33mcommit 46751a3bbe9554978fd6177bb1750f64d33f9819[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 15 10:55:52 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 15/11/2020
+
+[33mcommit 5a719dcbc79731cbfd5cee9ef68abcdf5759739a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 15 10:55:35 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 15/11/2020
+
+[33mcommit bfd96065601430163d01c4fad4e47ce8cf90017f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 15 10:54:12 2020 +0100
+
+    Añade datos actualizados a 15/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 1ad01aae47d263f1ef8559d08fb770a5ea36bb16[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 14 17:19:12 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 14/11/2020
+
+[33mcommit f852ea5ccf9359cdc8f22a191634b0d7e6c5512b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 14 17:18:55 2020 +0100
+
+    Actualiza serie historica de centros educativos a 14/11/2020
+
+[33mcommit e4bb4c4cf25a0677ba817dc54ecf5f8059e40af7[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 14 17:18:38 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 14/11/2020
+
+[33mcommit b3033b5fdeeb599a606ecae5cdf84120d9e84446[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 14 17:18:17 2020 +0100
+
+    Añade datos actualizados a 14/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 84c40008342fec52f5b2502a95adc5c9b0c255f8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 13 17:03:19 2020 +0100
+
+    Actualiza serie historica de centros educativos a 13/11/2020
+
+[33mcommit 07b6b84fbc5c45b0b110dba2e2d9f76e8e397c96[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 13 17:03:04 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 13/11/2020
+
+[33mcommit 4b9123142b6a645ccabd5a86f4952e6ee1663bdf[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 13 17:02:47 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 13/11/2020
+
+[33mcommit 74acc09696a6428c2cd997e0e26acdc856f8dedd[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 13 17:02:23 2020 +0100
+
+    Añade datos actualizados a 13/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 9e82ba34c23b60b4ed2bf55dbec3013be31325d2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 12 17:11:21 2020 +0100
+
+    Actualiza serie historica de centros educativos a 12/11/2020
+
+[33mcommit 87d9e8568dd1b0f7158ed154672614b6ebd77f4b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 12 10:29:32 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 12/11/2020
+
+[33mcommit 24bf12575a82dfcaf914504b5c7ab66d7dfb5b5e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 12 10:29:05 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 12/11/2020
+
+[33mcommit a169c535e283cc790a816d87aaca39a1fce613df[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 12 10:28:45 2020 +0100
+
+    Añade datos actualizados a 12/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 9ce557e35107d7ef9ab58616bbc7149997f29687[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 11 20:32:41 2020 +0100
+
+    Actualiza serie historica de centros educativos a 11/11/2020
+
+[33mcommit 72e6fbf403991316414e5df7f468961f56dd8010[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 11 12:15:04 2020 +0100
+
+    Corrige la descarga de mapas del SERGAS
+
+[33mcommit 3d8984f376eedd0cbb1183ce454f652c8aefb119[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 11 12:14:35 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 11/11/2020
+
+[33mcommit c0662da7b7d819a0b7defa38c26dd67999f17ec4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 11 12:14:01 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 11/11/2020
+
+[33mcommit 67fdbcdaef626ac75b9182da7fc89cc59eada2ed[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 11 12:13:44 2020 +0100
+
+    Añade datos actualizados a 11/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 7b25a3d38b10760808083cb245ce6704284c0b3b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 10 18:44:33 2020 +0100
+
+    Actualiza serie historica de centros educativos a 10/11/2020
+
+[33mcommit e4ee090609f91defa1a2589e0ad258d8ba66b33d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 10 12:04:44 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 10/11/2020
+
+[33mcommit f5a469d4710c47b3e3741633c4533566ec0e50b0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 10 12:04:01 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 10/11/2020
+
+[33mcommit 9a4f079371663a520f792a0072fa337958a2933b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 10 12:02:33 2020 +0100
+
+    Añade datos actualizados a 10/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit aa30afb7de4afe027397797335a7db3f8b000f45[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 9 12:39:43 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 9/11/2020
+
+[33mcommit f6c23a33103a36869f2c0249c3fea48a26b4d2cf[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 9 12:39:25 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 9/11/2020
+
+[33mcommit dd20fad316b025ea78a98c57332df0f07b972611[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 9 12:39:08 2020 +0100
+
+    Añade datos actualizados a 09/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit c1c72bb0d7b6eb8a48a52fb5abe1a1e1d5d2970f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 8 10:29:11 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 8/11/2020
+
+[33mcommit 95ac926f267d912345acdc69325d6ef27befe043[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 8 10:28:53 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 8/11/2020
+
+[33mcommit a8f824b9e094f2cff9d01519de3f3a8804346ec9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 8 10:28:31 2020 +0100
+
+    Añade datos actualizados a 08/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 5bc0677a8b48aa147378c6c11a4a0796d594f376[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 7 18:54:40 2020 +0100
+
+    Actualiza serie historica de centros educativos a 7/11/2020
+
+[33mcommit eb296ff03010b3f85b575014158cb328f60feeab[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 7 10:26:11 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 7/11/2020
+
+[33mcommit 6606ec78fda3c1eef0a2d8661c15837f803acdea[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 7 10:25:50 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 7/11/2020
+
+[33mcommit 3873693df4c9a6fb251406fdb5e50e393aef9022[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Nov 7 10:25:25 2020 +0100
+
+    Añade datos actualizados a 07/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 0a3e60d66fb817a0746e9732486111c3bc4f572b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 6 20:04:34 2020 +0100
+
+    Actualiza serie historica de centros educativos a 6/11/2020
+
+[33mcommit c6a05f59debe10d4969a704ec7afab906896373d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 6 11:12:44 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 6/11/2020
+
+[33mcommit bf51170197d69dd5659a6874677770868ac5a5b5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 6 11:12:26 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 6/11/2020
+
+[33mcommit 963b5faea6e967c9f7e8810a8f1d66a5d7b935dc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Nov 6 11:11:44 2020 +0100
+
+    Añade datos actualizados a 06/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit abc7b31edceb3b168ffea220b560dda221bd53ef[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 5 18:42:59 2020 +0100
+
+    Corrige centros educativos del día 5/11/2020
+
+[33mcommit e30be5ef272c31338c39481da0263bb7f5c078a2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 5 16:28:29 2020 +0100
+
+    Actualiza serie historica de centros educativos a 5/11/2020
+
+[33mcommit ad31a7eedfd0cc804b44835cc0cc48f0053ee3cc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 5 11:18:54 2020 +0100
+
+    Actualiza mapa de restricciones de Praza.gal
+
+[33mcommit 2822aabb3f46e89667c67319a1299aca5474f7f7[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 5 11:15:30 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 5/11/2020
+
+[33mcommit 43a50863159260cf5a7f7f92255668c808f50597[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 5 11:15:02 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 5/11/2020
+
+[33mcommit af51ffbb63029383c36df48e7501e20b26953c78[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 5 11:14:33 2020 +0100
+
+    Añade datos actualizados a 05/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit a4f7195fc1f2f7558ac67b14cc8d858a1496429a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Nov 5 11:12:11 2020 +0100
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 4/11/2020
+
+[33mcommit 75a7acb757de3b84fd902eeaaac046aba4500b65[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 4 16:55:11 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 4/11/2020
+
+[33mcommit d9a7d27593ead388f4d67e5dfefebf468622884c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 4 16:54:53 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 4/11/2020
+
+[33mcommit 0985156271abed2c3ab1ef6950ea764edd1012a2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 4 16:54:35 2020 +0100
+
+    Añade datos actualizados a 04/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 7155128dd855c6e610db57b47c2c072a5252d7cd[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Nov 4 16:54:24 2020 +0100
+
+    Actualiza serie historica de centros educativos a 4/11/2020
+
+[33mcommit 92dc185eb06096d6c93aba9055daa8e4e5ec07a0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 3 16:53:42 2020 +0100
+
+    Actualiza serie historica de centros educativos a 3/11/2020
+
+[33mcommit dca4b3c1cbd5ff0b5e93a7d4f3fe19cde8ae4a91[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 3 12:28:05 2020 +0100
+
+    Añade datos actualizados a 03/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 2e8e4ab4f77f8896aea9aab5015561690afaa809[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 3 12:26:47 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 3/11/2020
+
+[33mcommit 6b502479a3009488e14f4478c46673fec9ace4fe[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Nov 3 12:26:24 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 3/11/2020
+
+[33mcommit 326b3cb0150b7fd91fbe0fad6d54b697525ed3a3[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 2 10:20:44 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 2/11/2020
+
+[33mcommit e7b81b1f00de81592f2c4c22a1b39dff50bbadcd[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 2 10:20:20 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 2/11/2020
+
+[33mcommit 779e852ef1407d5d9a07145f766a6a6d33edaefd[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Nov 2 10:19:56 2020 +0100
+
+    Añade datos actualizados a 02/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 0318b9ccd39844109e395d198fd53948fcc37e9d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 1 11:25:07 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 1/11/2020
+
+[33mcommit 602b2afce34e431c2462a1ff1989325c438fd790[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 1 11:24:48 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 1/11/2020
+
+[33mcommit 1488bdca4c846e7c5345e8e2fc43b7aadb60344c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Nov 1 11:24:18 2020 +0100
+
+    Añade datos actualizados a 01/11/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit de47b8d29931cb67622a57e3ee8d83a5420238d0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 31 20:21:10 2020 +0100
+
+    Corrige centros educativos a dia 31/10/2020
+
+[33mcommit 30be26114566d96b980c253ad7083f8be1a00252[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 31 17:03:10 2020 +0100
+
+    Actualiza serie historica de centros educativos a 31/10/2020
+
+[33mcommit d7fb195ae303ada52a2e70d5fef5de415ea75c5a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 31 10:07:56 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 31/10/2020
+
+[33mcommit 0891063c20f751679f3edc9ca8837bcd71b1453e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 31 10:07:28 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 31/10/2020
+
+[33mcommit 5e41c0c29944276d6824953a582d66a4919ab984[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 31 10:06:53 2020 +0100
+
+    Añade datos actualizados a 31/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 9c50712b834fc0840350d01cff01db34443adc7a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 30 16:34:18 2020 +0100
+
+    Actualiza serie historica de centros educativos a 30/10/2020
+
+[33mcommit 7ef0e0f228e9ad9d2be643e073cdf86c333773cc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 30 16:19:33 2020 +0100
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 30/10/2020
+
+[33mcommit f5363e16d6e7339c39824596bd4a4fdf0c19efbf[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 30 16:14:56 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 30/10/2020
+
+[33mcommit eb8b88de00d5fd963289145ccd2d6e1ec94af991[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 30 16:14:24 2020 +0100
+
+    Actualiza mapas de alertas y de incidencia a 30/10/2020.
+
+[33mcommit 5192cc65c9ad37e36dec0d2da568142d34750750[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 30 16:13:32 2020 +0100
+
+    Añade datos actualizados a 30/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 04fa38882c964f218920909508a1d9695a4f6392[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 29 18:05:09 2020 +0100
+
+    Actualiza serie historica de centros educativos a 29/10/2020
+
+[33mcommit 1881d65312be477d2a1aa1ed5d795ec748e8aeb1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 29 11:34:59 2020 +0100
+
+    Añade mapa de incidencia a día 29/10/2020
+
+[33mcommit 29ae0b4104380531f8f91b022bd04a5722a34e56[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 29 11:33:50 2020 +0100
+
+    Añade los mapas de nivel de alerta por concellos a 29/10/2020
+
+[33mcommit 7b6b8841676e5585b02d00f97d710dd7f47a1bcc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 29 11:33:22 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 29/10/2020
+
+[33mcommit 923811b967904e9f923a8e1b661b301f07f02e68[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 29 11:33:01 2020 +0100
+
+    Añade datos actualizados a 29/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit 3818013d766b0fc577b6ed110c3530f56a696956[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 28 16:54:10 2020 +0100
+
+    Actualiza serie historica de centros educativos a 28/10/2020
+
+[33mcommit 89beba0536019bb7ec0eb1443e74e7ab8687e828[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 28 11:22:42 2020 +0100
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 27/10/2020
+
+[33mcommit a44511e8fdca32f318d5970e091c31874da8adbb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 28 11:01:11 2020 +0100
+
+    Añade mapa de incidencia a día 28/10/2020
+
+[33mcommit fcb90c301e318515315d49ff14cd9a05b5ce125b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 28 11:00:44 2020 +0100
+
+    Añade los mapas de nivel de alerta por concellos a 28/10/2020
+
+[33mcommit de13df6abe4815c98460d0a0420323cfd89108f0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 28 11:00:22 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 28/10/2020
+
+[33mcommit 36879eb109b4e86a701b3b9cc8e372f95480906d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 28 11:00:03 2020 +0100
+
+    Añade datos actualizados a 28/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+
+[33mcommit f2cb0dc5bd5ca18ab1bc36f97b168c6b9ca5198c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 28 09:14:29 2020 +0100
+
+    Añade los mapas de nivel de alerta por concellos a 27/10/2020
+
+[33mcommit 481082197601fc684ca1d030887b65a7e1d12743[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 27 18:14:04 2020 +0100
+
+    Actualiza serie historica de centros educativos a 27/10/2020
+
+[33mcommit dbfa99acf8ea3115a651a77490f32459bfee512e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 27 10:06:06 2020 +0100
+
+    Añade datos actualizados a 27/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias.
+    También incorpora datos de tests serológicos desde el 8/10/2020 hasta
+    25/10/2020
+
+[33mcommit 100d624512290cb33c8483c44bec137e84af6242[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 27 10:03:54 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 27/10/2020
+
+[33mcommit bec2daa5b1a8ffd8bed8875a2bbdaaa4219fed31[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 26 12:30:37 2020 +0100
+
+    Añade mapa de incidencia a día 26/10/2020
+
+[33mcommit 54b1a3936d57697ed32870eda40eba173f0faec8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 26 12:25:53 2020 +0100
+
+    Añade los mapas de nivel de alerta por concellos a 26/10/2020
+
+[33mcommit 8a32f5facf624cadd64d2932b46a3514a37269fa[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 26 12:25:25 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 26/10/2020
+
+[33mcommit d8c27e33b9aee442578f73c42d4ae1e3a9885d12[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 26 12:24:48 2020 +0100
+
+    Añade mapa de incidencia a día 25/10/2020
+
+[33mcommit b30dcf8b2739d5dbace0a30ae5490160f0b975fb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Oct 25 11:46:53 2020 +0100
+
+    Añade datos actualizados a 25/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+    
+    Añade una nueva columna: tests serológicos totales por área
+
+[33mcommit 077ef6c59fb6689adbd04e94f3210fd800730f09[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Oct 25 10:14:20 2020 +0100
+
+    Añade los mapas de nivel de alerta por concellos a 25/10/2020
+
+[33mcommit 525e3d3d0ef327ffad6ca432329a0db0ca556ed4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Oct 25 10:13:57 2020 +0100
+
+    Añade información cruda de la nueva Web del SERGAS a 25/10/2020
+
+[33mcommit 7a29ebf8a411619210ce376139f453508864cf6f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 24 18:36:55 2020 +0200
+
+    Actualiza serie historica de centros educativos a 24/10/2020
+
+[33mcommit a6c593ea233e8659bea0759e9a133c166e7326ac[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 24 11:28:22 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 24/10/2020
+
+[33mcommit 3b4ccb18139e7b9d63479c2b19cd146390c03132[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 24 11:27:52 2020 +0200
+
+    Añade scripts y ficheros del mapa de incidencia
+
+[33mcommit b4bf73b7d0d2ecc63e1ef1c396c24fad27741195[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 24 10:59:04 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 24/10/2020
+
+[33mcommit a20eaa1f6087ebf54950dcf2dd767b2c40555fa8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 23 20:40:32 2020 +0200
+
+    Actualiza serie historica de centros educativos a 23/10/2020
+
+[33mcommit bbae3d12e63eca03840582527148c7da7e8c93f8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 23 20:40:10 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 23/10/2020
+
+[33mcommit af4e28f7c27bad04ff36475184632c21c70c65f4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 23 20:39:28 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 23/10/2020
+
+[33mcommit 4158f141f98cbcacabf1675e4a00267d0067d87b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 23 12:17:14 2020 +0200
+
+    Añade mapa de restricciones del SERGAS
+
+[33mcommit 55b958870465c0308cab33a64c51271c05812f6b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 23 11:55:46 2020 +0200
+
+    Añade marcadores
+
+[33mcommit dcbf2845cb609c607a4d78e8bdc3e5ab3b576c64[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 23 11:40:43 2020 +0200
+
+    Reduce el alto del mapa de incidencia
+
+[33mcommit 05064603243fe7ec06b89f115839e755108c564c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 23 11:19:16 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 22/10/2020
+
+[33mcommit 2027997772a1f0066e012c0b124b1ce8b8176782[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 23 10:57:43 2020 +0200
+
+    Añade mapas por concellos del SERGAS, de incidencia y de restricciones de Praza.gal
+
+[33mcommit dd651206e7944a094b10ad6a179c47a84f80e36f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 22 16:56:37 2020 +0200
+
+    Añade datos actualizados a 22/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit da091a159fd8a9e59d566aca0389d6b2a647d9f8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 22 16:55:35 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 22/10/2020
+
+[33mcommit dbe0a63534999c404a3ad130cc35c21c5786f8fe[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 22 16:55:08 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 22/10/2020
+
+[33mcommit 370e1ee1bc8044548711d81e1ced878d27940a68[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 22 16:54:22 2020 +0200
+
+    Actualiza serie historica de centros educativos a 22/10/2020
+
+[33mcommit b508fcea21c1a6a7dba67b4460a756568d8e4473[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 21 14:40:48 2020 +0200
+
+    Actualiza serie historica de centros educativos a 21/10/2020
+
+[33mcommit 6347ff7a57a1f46c79d618b88ff434e9f66fadb3[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 21 11:30:42 2020 +0200
+
+    Añade datos actualizados a 21/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit d09aa2ecfd843f8b014cc72cd89ed0cd0faaaa6d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 21 11:25:33 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 21/10/2020
+
+[33mcommit 110be787cf5ec9ad9d5c2ca43b2f312776227df0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 21 11:25:14 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 21/10/2020
+
+[33mcommit 558b7dd83a488376219a7d88210b04c6bb941647[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 20 22:04:47 2020 +0200
+
+    Actualiza serie historica de centros educativos a 20/10/2020
+
+[33mcommit 0316bfbdb4e933723725b002c864b055abef129f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 20 12:57:16 2020 +0200
+
+    Corrige el caracter "á"
+
+[33mcommit 020035a80c6046d54771900e3ffecab64e6cb02f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 20 10:16:38 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 19/10/2020
+
+[33mcommit 4ea969fe93c0aa553483510bebcadbeed1b754b6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 20 10:10:14 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 20/10/2020
+
+[33mcommit b5c3e337fe6c6c10ea3ea3667f37bcece0cc244c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 20 10:09:47 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 20/10/2020
+
+[33mcommit de16aba9adf3aedaa31c77730e791080efcd1a5e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 20 10:09:10 2020 +0200
+
+    Añade datos actualizados a 20/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit ee967c77976236fd10aa53980bf3ca4ab5bad443[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 19 15:20:35 2020 +0200
+
+    Añade datos actualizados a 19/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 820b908a89693a81cc187c540a11dde9d32de6cd[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 19 12:41:24 2020 +0200
+
+    Añade emojies para diferenciar los que suben de los que bajan
+    
+    Gracias a @cmcarquitecto por la idea
+
+[33mcommit a32eea46f17115308f82107b73525df617fef4df[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 19 12:17:29 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 19/10/2020
+
+[33mcommit d2bcafaa5fb548e56a3a1be9aec7669c94964d44[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 19 12:15:55 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 19/10/2020
+
+[33mcommit edcfbb544f048251adfe86288dbbbe3990f6e2c9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Oct 18 10:59:31 2020 +0200
+
+    Añade datos actualizados a 18/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 2e8c97a744bf57e8537ef5efaf1fe5d3ce507406[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Oct 18 10:56:26 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 18/10/2020
+
+[33mcommit 33df8faa9c408d0ee4e420bf451e4394f280b82b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Oct 18 10:55:24 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 18/10/2020
+
+[33mcommit 552b07ff30e3de6e6b8b24df34113a5d9e9aa2f0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 17 18:45:03 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 17/10/2020
+
+[33mcommit 5ba854b8a477e0bdc0e4cd9df92e93f12c553124[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 17 18:39:56 2020 +0200
+
+    Actualiza serie historica de centros educativos a 17/10/2020
+
+[33mcommit e400787bf9b858ae684c4c2c536e6ac60c77b220[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 17 14:10:55 2020 +0200
+
+    Añade datos actualizados a 17/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 432c03bac2dc5604e4779083ed30b5529506abfe[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 17 13:39:45 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 17/10/2020
+
+[33mcommit bde1a2f2eb566fe9d07174c1e195b74ca1f75d38[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 17 13:32:50 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 17/10/2020
+
+[33mcommit 2a395e16fc41684124ea826f52aa0269615c8916[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 16 17:57:15 2020 +0200
+
+    Actualiza serie historica de centros educativos a 16/10/2020
+
+[33mcommit bc31ad266e3654923435b4eb54d68fe9f931fa4c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 16 10:17:46 2020 +0200
+
+    Añade datos actualizados a 16/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 798552832acccc7ba8edaf75a32119fb0faad67b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 16 10:14:35 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 15/10/2020
+
+[33mcommit a801c97a45db7148775a2883b2d759d20bb2367c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 16 10:13:48 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 16/10/2020
+
+[33mcommit 2157d4448d590b1f187069ce4f22bf49efa18257[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 16 10:12:54 2020 +0200
+
+    Mejora el script para hacerlo más robusto
+
+[33mcommit 6583e0bf4008a644d668442c3e505ef14a2352e4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 15 19:12:31 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 15/10/2020
+
+[33mcommit 56c675e87938b95c4f0bdc8cc2d32b34508ad7d0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 15 18:58:07 2020 +0200
+
+    Actualiza serie historica de centros educativos a 15/10/2020
+
+[33mcommit c83fd5adc28a99f9f032621cb98b8b2904577945[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 15 11:55:10 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 15/10/2020
+
+[33mcommit 1f9b64a320b6b098779a81620e23d4502a544141[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 15 11:54:28 2020 +0200
+
+    Añade datos actualizados a 15/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 5770887048394573a2c1b5c667f8096d91b8ebce[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 15 11:54:01 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 15/10/2020
+
+[33mcommit 4922973edaed3b57696c3e3287c15f8841b62d07[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 14 16:27:54 2020 +0200
+
+    Actualiza serie historica de centros educativos a 14/10/2020
+
+[33mcommit f8e9692706059e61465295a514efa093e9af7cc8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 14 11:51:33 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 13/10/2020
+
+[33mcommit b4ff0ff5ae1d4956e083debabb6979a2f609a57b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 14 11:47:30 2020 +0200
+
+    Corrige script de búsqueda de cambios
+    
+    El script fallaba cuando dos ayuntamientos contiguos en el listado
+    habían cambiado. Esta nueva versión emplea otra estrategia que
+    es más robusta.
+
+[33mcommit 78ae1720dc7bbf2a20caee77f035146d7e24ceb4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 14 11:08:41 2020 +0200
+
+    Añade datos actualizados a 14/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 72daa7c1cdfe47fb96e4894d4530e6c6f92b7447[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 14 10:57:32 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 14/10/2020
+
+[33mcommit 291a39de30c3eb64aa8d688d3a9fde0f687e1b2f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 14 10:56:13 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos a 14/10/2020
+
+[33mcommit e73bf8d4d07f0e8e7414103f6225a27bf965264f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 13 22:01:00 2020 +0200
+
+    Añade datos actualizados a 13/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 2cc87805359d61059cf3bf646775470c76676e0b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 13 20:48:54 2020 +0200
+
+    Añade los mapas de nivel de alerta por concellos
+    
+    Este commit añade los ficheros csv que están descargables de los
+    mapas por concellos a través de datawrapper. Se añade un script
+    (download_today_maps.sh) que descarga al directorio actual los
+    mapas.
+
+[33mcommit cb35bf9d70c12c2148758248fe864f9ea0e75814[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 13 20:39:56 2020 +0200
+
+    Corrige la visualización de la fecha de última modificación
+
+[33mcommit 4d11f6cfa192197e6f0baa9beb1953632a407f27[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 13 11:57:42 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 13/10/2020
+
+[33mcommit a55fb1d23e7781c26c12728beda63213f058e208[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 13 11:56:52 2020 +0200
+
+    Elimina lineas en blanco
+
+[33mcommit 64c4616b08e5fd814232ddacc7b6095a68a819eb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 13 10:19:12 2020 +0200
+
+    Incluye una fila más en la tabla de datos (PCR+ ult 24h)
+
+[33mcommit eefec5dcc37a19185c8eb093b174560e2de4a950[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 12 21:25:38 2020 +0200
+
+    Añade la nueva columna con los confirmados por PCR en las últimas 24h
+    
+    Con la publicación de la nueva web del SERGAS el 8/10/2020, se dispone
+    de una nueva serie: casos diagnosticados por PCR en las últimas 24h.
+    
+    Esta nueva serie suele coincidir con la diferencia en el acumulado de
+    casos de un día respecto al anterior. Sin embargo, hay ocasiones donde
+    el acumulado se incrementa por la detección de casos cuya confirmación
+    por PCR fue anterior a 24h o que dicha confirmación no fue por PCR,
+    sino por otros métodos, como anticuerpos, que detectan infección ya
+    curada, por lo que estos casos cuando se detectan y tras PCR negativa,
+    suman sólo en el acumulado y en casos curados, por lo que se incrementa
+    el acumulado pero no aparecerían en nuevos casos por PCR en las últimas 24h.
+
+[33mcommit d9b08c1ef83f8ca2fc1c6637473a660c1ac63060[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 12 11:14:25 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 12/10/2020
+
+[33mcommit 417f0d3b8658a6ce0efbab0e8c6d2b207b30cc84[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 12 11:13:45 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 11/10/2020
+
+[33mcommit d4abfa5df205dfcbbb4e2c63eef24809937793d1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 12 11:12:57 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 10/10/2020
+
+[33mcommit 6b866724306ddaeb5f9c9ebc1a31f237b3c2c3e4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 12 11:11:59 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 09/10/2020
+
+[33mcommit ffbea7e7bc94cff2dbf2dfcf3bbe1a95a5da37d6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 12 10:31:38 2020 +0200
+
+    Añade información cruda de la nueva Web del SERGAS a 08/10/2020
+
+[33mcommit 462415c1115b713dc997176a74a57de6b23b9e30[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 12 10:06:06 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 11/10/2020
+
+[33mcommit 24cd7660498334412ef77049377d2e89e764e472[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 12 10:02:48 2020 +0200
+
+    Añade datos actualizados a 12/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit bfa50728ed2310cb3663f200fc89a81a05376501[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Oct 11 10:20:13 2020 +0200
+
+    Añade datos actualizados a 11/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 3bfac32dbff5d9f29d6eaf9fa03ff595604b2131[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 10 20:49:07 2020 +0200
+
+    Alinea más hacia la izquierda el semáforo
+
+[33mcommit 5c02d92ca95843a14a4f87dfd7096514bc4f8dc3[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 10 16:50:12 2020 +0200
+
+    Mueve semaforocovidgalicia a docs para servirla como web
+
+[33mcommit 2068e24584adc40127bd22bc075cafd9c2f891da[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 10 16:41:49 2020 +0200
+
+    Añade la Web del #SemaforoCOVIDGalicia
+
+[33mcommit 7676171806485f83c2ea83164d87084906c819c6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 10 16:37:07 2020 +0200
+
+    Actualiza serie historica de centros educativos a 10/10/2020
+
+[33mcommit ed1fea4186a8f9483f7a97a933efdd5af9e90b14[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 10 11:55:12 2020 +0200
+
+    Añade datos actualizados a 10/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit a2ce3e30916673994fb769539ff31dc6f365e565[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 9 23:52:09 2020 +0200
+
+    Añade datos actualizados a 09/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit a5fe726aefd69e645049ce477aca37f8cb5784ae[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 9 23:51:40 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 09/10/2020
+
+[33mcommit 728819c3a1a4122f302e53d5a93e4032cd217fb7[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 9 23:51:17 2020 +0200
+
+    Actualiza serie historica de centros educativos a 09/10/2020
+
+[33mcommit 4d9df43e754bc20ab61004bd1d67d4f7a33c2cdc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 8 15:49:12 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 9e361aadd71dc24ad4e0b0dfbeacfe28dd2ec043[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 8 15:48:43 2020 +0200
+
+    Actualiza serie historica de centros educativos a 08/10/2020
+
+[33mcommit 59662a726b131e271c4e4a3287c2e3bcb1109e31[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 8 15:48:22 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 08/10/2020
+
+[33mcommit 7ab2cd2687b89df9fc8726b8048406b45099a95a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 8 15:48:00 2020 +0200
+
+    Actualiza serie historica de centros educativos a 08/10/2020
+
+[33mcommit f5b8954cb24a7ea6d24d0d7206aff4e327d86a7b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 7 16:13:40 2020 +0200
+
+    Actualiza serie historica de centros educativos a 07/10/2020
+
+[33mcommit 980df3b14fa995daecaae84728f58fbe61bdf096[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 7 15:48:47 2020 +0200
+
+    Añade datos actualizados a 07/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit b6184b8ba4864cbfd16aa509adb9faf39ef16e31[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Oct 7 15:48:24 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 07/10/2020
+
+[33mcommit 6b95c3aaab6a4e71986381267007d94fba1b73a1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 6 16:18:05 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 06/10/2020
+
+[33mcommit ce57505630e3ea5c82ce16b117e7c6967e4ba903[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 6 16:15:46 2020 +0200
+
+    Actualiza serie historica de centros educativos a 06/10/2020
+
+[33mcommit 16e3a0aca354cd42534ccf6017b192a6be30506a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Oct 6 16:07:55 2020 +0200
+
+    Añade datos actualizados a 06/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit c708d1244d2511399ace906235215effe1236707[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 5 13:52:05 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 4d634f3d900e51cd0e04d991e239d2624d70a8a2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 5 13:50:52 2020 +0200
+
+    Añade datos actualizados a 05/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit db8b043d35bd0a4019b4bb37217f4755c4eaca98[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Oct 5 13:27:09 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 05/10/2020
+
+[33mcommit a38e32f745e304b44db85ffedb19c5e483d2f298[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Oct 4 16:02:50 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 04/10/2020
+
+[33mcommit ddc6407dd0739c1962b95ce25159d4c43b5eb3a8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Oct 4 16:00:16 2020 +0200
+
+    Añade datos actualizados a 04/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 28bc0244aff215f37d12b9700c20d546b02ff961[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 3 13:30:55 2020 +0200
+
+    Añade datos actualizados a 03/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit b8c6868bb789469d7c51884cec0e94b4225f3895[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 3 13:30:31 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 03/10/2020
+
+[33mcommit c2c71956245adfd887c7a52b7b220e8fea0adce2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Oct 3 13:30:11 2020 +0200
+
+    Actualiza serie historica de centros educativos a 03/10/2020
+
+[33mcommit c55ca8cc5aad22324465684c9277d14169efc235[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 2 16:59:15 2020 +0200
+
+    Añade un paciente en UCI en el Centro El Carmen
+    
+    Es el primero en UCI en El Carmen
+
+[33mcommit c306d0f9104f1d3948133b9dcd73e60a930225ff[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 2 15:48:36 2020 +0200
+
+    Actualiza serie historica de centros educativos a 02/10/2020
+
+[33mcommit c79423b316dc1f7dbf7a34f332c71587e63bb09a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 2 15:34:11 2020 +0200
+
+    Añade datos actualizados a 02/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 2a7c59b8fd6bc13b1ab041acd3f6fbef0fde7993[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Oct 2 15:33:43 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 02/10/2020
+    
+    Añade dos nuevas residencias al haber fallecidos alli por primera vez.
+
+[33mcommit e166fcbc7756323052a251475ea3909cd2805680[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 1 15:05:18 2020 +0200
+
+    Añade datos actualizados a 01/10/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 765200a0fddeb0ec7f573e0f3fa778d3a36ac196[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 1 15:04:11 2020 +0200
+
+    Actualiza serie historica de centros educativos a 01/10/2020
+
+[33mcommit 5aa3f97549bcf46027e1a7561beb5103d2fae05b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 1 15:03:38 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 01/10/2020
+
+[33mcommit c77421981abc7e6e1733ddcd98c7a2cff574c8ec[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Oct 1 14:50:16 2020 +0200
+
+    Elimina fichero de backup innecesario
+
+[33mcommit 87e3d9b0dfa48078409e3d29d5d6eae0cb47b5b1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 30 20:00:26 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit e2602f7ef4e73d0c9b231c0e3b321e4fe0e5cf5d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 30 19:59:57 2020 +0200
+
+    Actualiza serie historica de centros educativos a 30/09/2020
+
+[33mcommit f03ab7c0956d2506769491d15ea8d5f54100fb79[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 30 16:54:21 2020 +0200
+
+    Añade datos actualizados a 30/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit d1db42cf7b13fe6368183f30594a746d7c709a7d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 30 16:54:00 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 30/09/2020
+
+[33mcommit a3a8835bacc58c3875fe31d999914e3a94a4c57e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 29 21:47:22 2020 +0200
+
+    Explica el cambio de protocolo en registro de PCR
+    
+    A partir del 29/09/2020 el acumulado de PCR suma las PCR que se
+    han solicitado en el área sanitaria, independientemente de si se
+    han realizado en esa área o no.
+
+[33mcommit 70c4bc2b29aa92b8c823278a92eb2a81f19d2cc5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 29 15:39:16 2020 +0200
+
+    Añade datos actualizados a 29/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 51c3311c065a636a400541159d67c34b07411d05[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 29 15:38:53 2020 +0200
+
+    Actualiza serie historica de centros educativos a 29/09/2020
+
+[33mcommit fd5e18ea5dd57f1c095d929f441cd1a466d3e498[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 29 15:38:30 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 29/09/2020
+
+[33mcommit c66a8f27d37c91340bea79a0852d850cd134618a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Sep 28 13:23:32 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 28/09/2020
+    
+    Añade una nueva residencia a la lista de residencias con fallecidos:
+    Las Salinas en Ourense.
+
+[33mcommit 21a19c9b22c8850897bea3d49ae5a8f3e45def50[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Sep 28 13:18:26 2020 +0200
+
+    Añade datos actualizados a 28/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 5117b1b1e3a0b713bee796db41a44ae6b616b671[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Sep 27 14:26:26 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 27/09/2020
+
+[33mcommit c17f37cb4e11c7846679bda0ca9b90cdc839e5c1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Sep 27 14:25:54 2020 +0200
+
+    Añade datos actualizados a 27/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit a245b26c34dedaa152b8c06aedf0022bb5650e30[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Sep 26 18:36:26 2020 +0200
+
+    Actualiza serie historica de centros educativos a 26/09/2020
+
+[33mcommit 7afa2189e261c2fc6e29cb738c6695bf96c36ea9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Sep 26 18:21:06 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 26/09/2020
+
+[33mcommit c15f2b33c41bb5c3fb5bff0fc885165553a90ab6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Sep 26 18:17:56 2020 +0200
+
+    Añade datos actualizados a 26/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 652997f91dd781f548cbb99aadc667864371988d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Sep 25 10:43:57 2020 +0200
+
+    Añade datos actualizados a 24/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 93e30844a8a104a24ba17933f66f4cc53ae329e9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Sep 24 13:05:16 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 8d97647f9be4d696ce695a9a42b08b4021d06b9c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 23 15:26:12 2020 +0200
+
+    Añade datos actualizados a 23/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 0092d8941349df31ef90e9e6a228a2715dd011ab[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 23 15:25:52 2020 +0200
+
+    Actualiza serie historica de centros educativos a 23/09/2020
+
+[33mcommit 2eba4c797462918f06c7d2ab57ea25991bd153f9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 23 15:25:21 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 23/09/2020
+
+[33mcommit 41a656a4d589db1709e139f9f6a68d630aa7b746[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 22 15:55:31 2020 +0200
+
+    Cambia la terminación de linea de tipo WINDOWS a UNIX
+
+[33mcommit 1266b307db6f95406194a120e430586e35ca583e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 22 15:55:02 2020 +0200
+
+    Actualiza serie historica de centros educativos a 22/09/2020
+
+[33mcommit c1187dbc33eb6280f871d073786b9db509dd53a4[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 22 15:42:47 2020 +0200
+
+    Añade datos actualizados a 22/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit bdd6df25c11d7068ed4000dd3cb47a2eae318af3[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 22 15:42:34 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 22/09/2020
+
+[33mcommit 87a669d26e2323fcddc12241fdfdc4ae8beb4581[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Sep 21 14:47:52 2020 +0200
+
+    Añade datos actualizados a 21/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit b74c45e6a48066842c530290aa51273008d5940d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Sep 21 14:47:26 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 21/09/2020
+
+[33mcommit 5974b4517a6514eeedf58913b4304133852d1c57[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Sep 20 18:38:13 2020 +0200
+
+    Corrige serie histórica de centros educativos las añade al README.md
+    
+    Debido a un error, las áreas de Pontevedra y Vigo tenían sus centros
+    asignados al área incorrecta.
+
+[33mcommit 58aff0baa1872c6bbe1f40696c76c0d725a3635e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Sep 20 17:26:42 2020 +0200
+
+    Añade información sobre los centros educativos
+    
+    Añade serie histórica sobre la situación en los centros
+    educativos de la Xunta de Galicia, de todos los centros
+    donde hay un positivo al menos.
+
+[33mcommit 9120562dab7ea027ae3e2982015a9c38c0e27cc8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Sep 20 12:33:07 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 19/09/2020
+
+[33mcommit 9b5e690cb1736aaa06f98026bdf20dd896a88195[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Sep 20 12:26:25 2020 +0200
+
+    Añade datos actualizados a 20/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 9ab5b74026dc551a97d442269c2b666af012d6eb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Sep 19 13:33:01 2020 +0200
+
+    Añade datos actualizados a 19/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 879379750e1f4de57b9b167c95064149f2e02324[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Sep 18 16:01:43 2020 +0200
+
+    Añade datos actualizados a 18/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 899c923a2a0287226078feaf1e699c504ade209d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Sep 17 13:44:46 2020 +0200
+
+    Añade datos actualizados a 17/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit b47a9b4e97ca524482bfc2e8b49cf2e58719c359[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Sep 17 13:43:39 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 17/09/2020
+
+[33mcommit 18c66ab78a14c459b88d7bdb57ee1c60795f9576[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 16 12:27:18 2020 +0200
+
+    Añade datos actualizados a 16/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit c1973d7dc4161412c8f0cd9f7e1e15e18e9d2460[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 16 12:26:58 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 16/09/2020
+
+[33mcommit 06d0eaf36a4ed8ce6601f5c47ff49f76bdcf5940[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 15 13:52:36 2020 +0200
+
+    Añade datos actualizados a 15/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit e6f27c35b74d79f9b0cf7a94df8fbad10cab0c26[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 15 13:51:55 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 15/09/2020
+
+[33mcommit ed08df08fd5ec307f9b38660adc86a07bce1e631[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Sep 14 12:39:04 2020 +0200
+
+    Añade datos actualizados a 14/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 7d11ded2e61ba7d02ca9725c6d1e590491e752ae[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Sep 14 12:38:31 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 14/09/2020
+
+[33mcommit 6e7549fb044a7691582eb8a897c4f012938d689a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Sep 13 14:26:48 2020 +0200
+
+    Añade datos actualizados a 13/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 37dc5603285ca086f4ba3ada3a198627a06f53eb[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Sep 13 14:26:23 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 13/09/2020
+
+[33mcommit cb24cf6e5d6bfb40fe294a3e15d68b8333f7de9c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Sep 12 16:57:25 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 1dc003fb5bf16826109ea584a56693fd40c1cf23[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Sep 12 16:56:16 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 12/09/2020
+
+[33mcommit d2bfe8fbdaa1cf52f14e76b4ccafa7a7f80aa429[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Sep 12 16:53:36 2020 +0200
+
+    Añade datos actualizados a 12/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 22f6b68edcf8d7a1c528062af2e1b2d3ba5f22bc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Sep 11 16:32:45 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 11/09/2020
+
+[33mcommit 6fae447364958fb7ed675c6359ff9256fde03ffe[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Sep 11 16:30:54 2020 +0200
+
+    Añade datos actualizados a 11/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit f546f6e3734c58a68069edb96e861ea47f78f9e8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Sep 10 14:52:28 2020 +0200
+
+    Añade datos actualizados a 10/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit e57e299ea51eb04a83b204e381e41d54fd8f97f3[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Sep 10 14:48:10 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 10/09/2020
+
+[33mcommit 4885e0f1359afeda574e7db9039d42f5e8469e56[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 9 14:23:06 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 09/09/2020
+
+[33mcommit 9c4d9eae72b675721b5a023bac7832abbd539191[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 9 14:18:08 2020 +0200
+
+    Añade datos actualizados a 09/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 83d4fdad2d5c40ce56093d79cba5a2885425a219[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 8 23:31:11 2020 +0200
+
+    Corrige la fecha repetida del 07/09/2020 al 08/09/2020
+
+[33mcommit 2455a4b2a36c456bd0a06d150f996148687ef38c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 8 17:00:22 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 08/09/2020
+
+[33mcommit 82d09709eed37636c5ce6a1c64627452c6279573[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 8 16:56:00 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit c031042702cc153d4973efbac15f903350d9713f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 8 16:55:01 2020 +0200
+
+    Añade datos actualizados a 08/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit f7e416c062f9e7ccfb96c9fb7c100a464a02cdc5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Sep 7 16:09:44 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 07/09/2020
+
+[33mcommit 7e828829c5ef1b02e58312940f93b275ff480bc0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Sep 7 16:05:19 2020 +0200
+
+    Añade datos actualizados a 07/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit fff4cf9202ac5988f6657309d518999be3fce9c8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Sep 5 13:47:15 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 05/09/2020
+
+[33mcommit 458b8105e22fadad612f6d0f37f4a7d4551354e9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Sep 5 13:44:29 2020 +0200
+
+    Añade datos actualizados a 05/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 4cd9ac7bc874ca6cf8217d393427d0a11f76b2d7[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Sep 4 19:39:56 2020 +0200
+
+    Añade datos actualizados a 04/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 4176e8aa59770f6c47618ed166b9b2ae8760947d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Sep 3 14:31:30 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 03/09/2020
+
+[33mcommit 03a3bad07c078b476e2b00c650cb6b460630c047[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Sep 3 14:28:38 2020 +0200
+
+    Añade datos actualizados a 03/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 51811b86056cf8da0223f04a16b46d1b09a484ff[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 2 15:02:15 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 02/09/2020
+
+[33mcommit 2be542fc2a0133eb314994c00506b6048f6f9029[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 2 14:52:13 2020 +0200
+
+    Añade datos actualizados a 02/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit e2c07a8e9a81ecd51744e7babb60210af6cb92e5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 2 12:33:37 2020 +0200
+
+    Corrige la especificación del acumulado de casos
+    
+    El acumulado de casos sigue incluyendo tests de anticuerpos, por lo
+    que este acumulado no distingue PCR+ y anticuerpos.
+
+[33mcommit 9773f0fdcc46431a98dc9cd84e8f02093d2ac655[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Sep 2 12:29:20 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 9bba53ea6329a68f6f7b90cd99963592d8d50271[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Sep 1 14:15:50 2020 +0200
+
+    Añade datos actualizados a 01/09/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 8a4904baa7a4d0b949c4514b1889251c5bd76444[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Aug 31 14:08:37 2020 +0200
+
+    Añade datos actualizados a 31/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit b512b4bdf3074daa428343215941951f2d7f9f8b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Aug 29 12:23:09 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 29/08/2020
+
+[33mcommit 86b2d1d250fe3362f7cbfd742d9d2cda3b00ba6e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Aug 29 12:19:45 2020 +0200
+
+    Añade datos actualizados a 29/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 69653fb88249a5d3f4e8255e608ea66a87d92733[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Aug 28 18:24:26 2020 +0200
+
+    Actualiza serie historica de activos y fallecidos en centros residenciales
+    a 28/08/2020
+
+[33mcommit 31073def0ddd0e33b1f792a2f7e7df8d7ff22f72[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Aug 28 12:11:27 2020 +0200
+
+    Añade datos actualizados a 28/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 3a9fdb8ca677257c98dd2104c06af961ac8c7c43[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Aug 27 10:53:38 2020 +0200
+
+    Añade datos actualizados a 27/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 5e1c7ea2b9d0e066c785f0d1c34444bacde16596[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Aug 26 08:14:28 2020 +0200
+
+    Añade datos actualizados a 26/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 98b4f5fa9f79cbcde0fc73781caa5bfc56326f76[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Aug 25 10:23:50 2020 +0200
+
+    Añade datos actualizados a 25/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 2b2c9d1d9a13cfcb3c961da8ce02e49c1b60c634[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Aug 24 08:02:00 2020 +0200
+
+    Añade datos actualizados a 24/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 1cac9e1c181ad02cf56efa4cbd2f29fe6285aa2e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Aug 23 09:28:01 2020 +0200
+
+    Añade datos actualizados a 23/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 2c4731c1121dbb1016e61591499b3addaa919d5b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Aug 21 08:42:39 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 8bcf5238e86e9e9650d79bb13414a0fd7e169689[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Aug 21 08:41:30 2020 +0200
+
+    Añade datos actualizados a 21/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 576fb709dc3deb70a4c7b47e20be9b6527205a1d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Aug 19 09:24:47 2020 +0200
+
+    Añade datos actualizados a 19/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 20251715d08c2ff240e746d71d6c06366729dc6a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Aug 18 09:06:25 2020 +0200
+
+    Añade datos actualizados a 18/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit b71ecf4ab1b36cf6fafaa74746f127986236cc62[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Aug 18 08:07:25 2020 +0200
+
+    Añade datos al Área Sanitaria de Vigo previos al 04/06/2020
+    
+    Gracias a la aportacion de Ana Blasco, del Faro de Vigo, se
+    incorporan datos de altas, hospitalizados y UCI al área
+    sanitaria de Vigo, con fecha anterior al 04/06/2020, que faltan
+    por ahora en todas las áreas sanitarias.
+
+[33mcommit c0b9a9780e97a5f3de96a0457f4f0fe1464c3d83[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Aug 17 08:53:50 2020 +0200
+
+    Añade datos actualizados a 17/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit d1280a0ad661ea4d267b443ba8d836bd8dea46ab[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Aug 15 20:51:01 2020 +0200
+
+    Añade datos actualizados a 15/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit ecda8259062f142ec9ddca8e7e7d8df7ca5f5b6b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Aug 14 08:17:04 2020 +0200
+
+    Añade datos actualizados a 14/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit f5eec5520f46eee06a090e98eca461a85683e5fe[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Aug 13 09:03:16 2020 +0200
+
+    Añade datos actualizados a 13/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 64ae8bd048c93a8cad8a50d6aa570ee83319721b[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Aug 12 12:30:48 2020 +0200
+
+    Añade datos actualizados a 12/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit a8ef649fa575ea029c4e193839a8390ea7cc3bc9[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Aug 11 15:31:49 2020 +0200
+
+    Corrige la columna de hospitalizados
+    
+    La columna de hospitalizados debe incluir también los pacientes
+    de UCI. Este cambio modifica aquellos datos donde no se habían
+    contabilidazo.
+
+[33mcommit 700464d5fc9a15a29a37f277ce63068f0c6cf184[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Aug 11 10:58:50 2020 +0200
+
+    Añade datos actualizados a 11/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 3a046df17198d19f2f800916c90062d71ee64ed5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Aug 11 01:29:05 2020 +0200
+
+    Añade datos actualizados a 10/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit ee2e92769aa8a47ee0be79b462e56fdf62891944[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Aug 9 11:00:13 2020 +0200
+
+    Añade datos actualizados a 09/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit e71cd5369c7d2945f855cd56c1575bce771ea5dc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Aug 8 16:02:13 2020 +0200
+
+    Añade datos actualizados a 08/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 9fe881eae97faf3687c9d752a45a4571cdfce54d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Aug 7 18:36:38 2020 +0200
+
+    Añade datos actualizados a 07/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 0cc6855691d8027cd5ded50e24004ef7a1adc270[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Aug 6 17:05:35 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 32eef0d148e0adfc04888f71db64023f4ddfefd1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Aug 6 17:05:00 2020 +0200
+
+    Añade datos actualizados a 06/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 7d0887bee95e0c907ffbe04bdf690550b8f7b83e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Aug 4 17:08:51 2020 +0200
+
+    Añade datos actualizados a 04/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit a369432bd9c26d0bbd9351af572d459a8454baad[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Aug 3 17:20:35 2020 +0200
+
+    Añade datos actualizados a 03/08/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit cf981c5f530411c71839665db957bf9beffa2d22[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Aug 2 20:06:11 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 1eb59047f2d71377ae15941e4de5ca6bd9e1719e[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Aug 2 20:05:04 2020 +0200
+
+    Añade datos actualizados a 31/07/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 7bb2dbfa306c8c37d09f256fe11e703db0a9bca2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jul 29 10:23:14 2020 +0200
+
+    Añade datos actualizados a 27/07/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 1c93fe66a8427eef733316a291886cc80346daa0[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jul 24 18:07:50 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 8875f1d10b720c93e51775acbeb64b567d5215e8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jul 24 18:07:10 2020 +0200
+
+    Añade datos actualizados a 24/07/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 939d05d7a18f658aeb812b2ba92595b4be4fe4ec[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Jul 18 15:57:14 2020 +0200
+
+    Añade datos actualizados a 18/07/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit f37a3124cbee2fae039cd734f04f2a2719945124[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jul 16 13:30:13 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 6adce6964cdcdaa91a38466f302408f6ee9fb218[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jul 16 13:29:42 2020 +0200
+
+    Añade datos actualizados a 16/07/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 813ac7dbd24012127097b5c07fd41f600f6b12d6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Jul 12 19:14:24 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 254cebf20bee34a5c15f87d5e69d7ed0ac7bfccf[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Jul 12 19:13:29 2020 +0200
+
+    Añade datos actualizados a 12/07/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit b2c253d4ca9ac9a797b35c9c3ee0dbf64f055c84[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jul 8 21:32:46 2020 +0200
+
+    Añade datos actualizados a 07/07/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 7ee59180f06915efe54e58159cbf10b4de85d374[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jul 6 22:35:02 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit e9352bb4a9fdba86293e9cff895d0e0c906c1b7d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jul 6 22:32:49 2020 +0200
+
+    Añade datos actualizados a 05/07/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 456547f6e0cda035ea7f4188b0db97440617e46f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Thu Jul 2 10:15:36 2020 +0200
+
+    Añade datos actualizados a 02/07/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit ccf922229164ba5dcff5f1a466adcc8726f863cf[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jun 29 22:20:43 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit 5831f8c270d3d731749f70f78692e1da6ab4be03[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jun 29 22:19:47 2020 +0200
+
+    Añade datos actualizados a 28/06/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 6d29236f784800659c9d73928fb96e0a9d03a9e8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun Jun 28 10:48:37 2020 +0200
+
+    Añade serie historica de activos y fallecidos en centros residenciales
+
+[33mcommit 2d54c478659cf80234c768ee55f3092ff8b4dedf[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jun 26 16:49:34 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit cbd73e5046a783cbcccbc08e7608e5b9e552d816[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jun 26 16:47:29 2020 +0200
+
+    Añade datos actualizados a 24/06/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 3b0aa5936afeb7a396c7adc708e73e94b594405a[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jun 23 22:49:17 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+
+[33mcommit eeb43c1848e334c6306adfb2daca5da500be4ad1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jun 23 22:47:58 2020 +0200
+
+    Añade datos actualizados a 22/06/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit fc8ce937fdbb8074539218b18deb33c4b55aa90c[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sat Jun 20 12:02:28 2020 +0200
+
+    Añade datos actualizados a 20/06/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit a259bac76bdddb6a4db4a53df7a511491b8bb7ec[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jun 17 17:53:23 2020 +0200
+
+    Actualiza serie de casos ISCIII RENAVE
+    
+    Se aprecia que muchos casos pasaron de prueba de tipo desconocido
+    a PCR.
+
+[33mcommit 641db6039b48ccec555cf29a442fc1e6c7af62de[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jun 17 17:18:56 2020 +0200
+
+    Formatea el script
+
+[33mcommit b4e0639f6539333642a7748b6fc46453b8043044[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jun 17 17:15:41 2020 +0200
+
+    Corrige descripcion de la fuente ISCIII
+
+[33mcommit b944c75b96039b643bd7bb5b11701601ffad667d[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jun 17 11:51:36 2020 +0200
+
+    Añade descripcion del campo fecha en datos ISCIII RENAVE
+
+[33mcommit a9d206f554f92290299d5fa09bcf6e6b5381af95[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jun 17 08:24:02 2020 +0200
+
+    Corrige el título de los datos del ISCIII
+    
+    No sólo son PCR, sino que se indican todas las pruebas diagnósticas.
+
+[33mcommit 8be06871cedf88abe1a6c0db901465e7eb6ddfcc[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jun 16 22:08:26 2020 +0200
+
+    Añade las series de casos por inicio de síntomas que publica el ISCIII
+    
+    Las series del ISCIII incluyen el número de casos a nivel provincial
+    por inicio de síntomas o, en su defecto, por fecha de diagnóstico menos
+    6 días. Se dividen los casos según su tipo de prueba diagnóstica.
+    
+    Se añade un script para actualizar los ficheros de forma automática,
+    puesto que las series se sobreescriben día a día en el ISCIII, sobre todo
+    en las últimas fechas, puesto que no continen todos los casos que inician
+    síntomas ese día y que serán detectados en el futuro.
+
+[33mcommit fcffb2621a72ba18c4eb18000ccefcc6255efd75[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jun 16 21:46:00 2020 +0200
+
+    Añade datos actualizados a 16/06/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 6f21518f3ec92b9bb7b600ec769f828f3874313f[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri Jun 12 21:14:56 2020 +0200
+
+    Añade datos actualizados a 12/06/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 0d1a20153399cba2d9d947e68b1b32deab3290a1[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue Jun 9 22:26:54 2020 +0200
+
+    Añade datos actualizados a 09/06/2020
+    
+    Actualiza los ficheros de galicia.csv y de las 7 áreas sanitarias
+
+[33mcommit 7a8b76b12ac679ffe7fc62604c4ab0f1882ff653[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jun 8 08:12:16 2020 +0200
+
+    Incluye fichero con municipios y Áreas Sanitarias
+
+[33mcommit fdb1fa36f1e171f23a59f9a27793f10341a56880[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jun 8 08:03:17 2020 +0200
+
+    Añade nuevas series históricas para el resto de Áreas
+    
+    Añade ficheros para todas las Áreas Sanitarias. Se incluye
+    información completa a partir de 04/06/2020.
+
+[33mcommit a24db311428005dac8f34c54069385b7eba4c649[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jun 8 07:38:43 2020 +0200
+
+    Añade datos actualizados a 07/06/2020
+    
+    Actualiza los ficheros de galicia.csv, ourense.csv y ourense.ext.csv
+
+[33mcommit 7c86ba82a46868023492056eedfd47a2150695b5[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed Jun 3 13:21:56 2020 +0200
+
+    Añade datos actualizados a 03/06/2020
+    
+    Actualiza los ficheros de galicia.csv, ourense.csv y ourense.ext.csv
+
+[33mcommit ddc598ded29d3e5cf3c476421eaee9b37d5f11a7[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon Jun 1 12:49:46 2020 +0200
+
+    Añade datos actualizados a 01/06/2020 y corrige un dato del 30/05/2020
+    
+    Se corrige el número de hospitalizados del CHUO del 30/05/2020
+    
+    Se mejora la explicación de la columna de casos acumulados en galicia.csv
+
+[33mcommit 85152b8b7918a489b959ba5d6f7f8009156347c8[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Sun May 31 01:42:52 2020 +0200
+
+    Añade datos actualizados a 30/05/2020 y extiende datos en Ourense
+    
+    Actualiza los ficheros de galicia.csv, ourense.csv y añade
+    ourense.ext.csv con datos de hospitalizados, domicilios, UCI y
+    PCRs realizadas en Ourense.
+    
+    También actualiza el README.md explicando más detalladamente las
+    columnas de los ficheros.
+
+[33mcommit 7bb06a36737fb95926649c7d109b73ce1c6d2bf2[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Fri May 29 12:58:43 2020 +0200
+
+    Añade datos actualizados a 29/05/2020
+    
+    Actualiza los ficheros de galicia.csv y ourense.csv
+    
+    También actualiza el README.md para indicar si los casos
+    de ourense son con PCR positiva
+
+[33mcommit 81450178193744639d6a1051d26616a535e008c6[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Wed May 27 11:58:17 2020 +0200
+
+    Añade datos actualizados a 27/05/2020
+    
+    Actualiza los ficheros de galicia.csv y ourense.csv
+
+[33mcommit 6d093ee481890840f8dc024242c331eb4b1def11[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Tue May 26 13:19:13 2020 +0200
+
+    Añade datos actualizados a 26/05/2020
+    
+    Actualiza los ficheros de galicia.csv y ourense.csv
+
+[33mcommit 4b355e40d291a067f6e79c357a69146a3e8e7717[m
+Author: lipido <dgpena@uvigo.es>
+Date:   Mon May 25 13:07:57 2020 +0200
+
+    Commit inicial
+    
+    Añade los ficheros de Galicia y Ourense básicos hasta el 24 de Mayo
+    de 2020.
