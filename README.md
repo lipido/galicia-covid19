@@ -36,73 +36,87 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Ourense.uci_COSAGA`: Pacientes en UCI en la clínica el hospital CO.SA.GA (privado).
     - `Ourense.uci_Carmen`: Pacientes en UCI en la clínica El Carmen (privado).
     - `Ourense.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en Ourense. Algunas pruebas PCR a pacientes de Ourense se hicieron en Vigo y no están contabilizadas aquí (*).
-    - `Ourense.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria de Ourense.
-- `lugo.csv`. Serie histórica básica del área sanitaria de Lugo, Cervo e Monforte de Lemos. Las columnas son:
-    - `lugo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
-    - `lugo.altas.acum`: Altas totales hasta la fecha. 
-    - `lugo.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
-    - `lugo.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
+    - `Ourense.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria. Este dato deja de darse el 28 de Mayo de 2021.
+    - `Ourense.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
+    - `Ourense.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
+- `lugo.csv`. Serie histórica básica del área sanitaria de Lugo, A Mariña e Monforte de Lemos. Las columnas son:
+    - `Lugo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Lugo.altas.acum`: Altas totales hasta la fecha. 
+    - `Lugo.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `Lugo.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `lugo.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Lugo, Cervo e Monforte de Lemos. Las columnas son. Las columnas son:
     - `Lugo.domicilio`: Casos activos con seguimiento a domicilio.
     - `Lugo.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
     - `Lugo.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
     - `Lugo.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
-    - `Lugo.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria de Lugo.
+    - `Lugo.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria. Este dato deja de darse el 28 de Mayo de 2021.
+    - `Lugo.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
+    - `Lugo.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
 - `vigo.csv`. Serie histórica básica del área sanitaria de Vigo. Las columnas son:
-    - `vigo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
-    - `vigo.altas.acum`: Altas totales hasta la fecha. 
-    - `vigo.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
-    - `vigo.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
+    - `Vigo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Vigo.altas.acum`: Altas totales hasta la fecha. 
+    - `Vigo.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `Vigo.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `vigo.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Vigo. Las columnas son. Las columnas son:
-    - `vigo.domicilio`: Casos activos con seguimiento a domicilio.
-    - `vigo.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
-    - `vigo.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `vigo.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
-    - `vigo.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria de Vigo.
+    - `Vigo.domicilio`: Casos activos con seguimiento a domicilio.
+    - `Vigo.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
+    - `Vigo.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
+    - `Vigo.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
+    - `Vigo.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria de Vigo. Este dato deja de darse el 28 de Mayo de 2021.
+    - `Vigo.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
+    - `Vigo.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
 - `pontevedra.csv`. Serie histórica básica del área sanitaria de Pontevedra e O Salnés. Las columnas son:
-    - `pontevedra.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
-    - `pontevedra.altas.acum`: Altas totales hasta la fecha. 
-    - `pontevedra.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
-    - `pontevedra.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
+    - `Pontevedra.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Pontevedra.altas.acum`: Altas totales hasta la fecha. 
+    - `Pontevedra.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `Pontevedra.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `pontevedra.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Pontevedra e O Salnés. Las columnas son. Las columnas son:
-    - `pontevedra.domicilio`: Casos activos con seguimiento a domicilio.
-    - `pontevedra.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
-    - `pontevedra.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `pontevedra.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
-    - `pontevedra.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria de Pontevedra.
-- `santiago.csv`. Serie histórica básica del área sanitaria de Santiago de Compostela. Las columnas son:
-    - `santiago.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
-    - `santiago.altas.acum`: Altas totales hasta la fecha. 
-    - `santiago.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
-    - `santiago.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
-- `santiago.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Santiago de Compostela. Las columnas son. Las columnas son:
-    - `santiago.domicilio`: Casos activos con seguimiento a domicilio.
-    - `santiago.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
-    - `santiago.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `santiago.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
-    - `santiago.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria de Santiago.
-- `coruna.csv`. Serie histórica básica del área sanitaria de A Coruña. Las columnas son:
-    - `coruna.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
-    - `coruna.altas.acum`: Altas totales hasta la fecha. 
-    - `coruna.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
-    - `coruna.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
-- `coruna.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de A Coruña. Las columnas son. Las columnas son:
-    - `coruna.domicilio`: Casos activos con seguimiento a domicilio.
-    - `coruna.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
-    - `coruna.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `coruna.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
-    - `coruna.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria de A Coruña.
+    - `Pontevedra.domicilio`: Casos activos con seguimiento a domicilio.
+    - `Pontevedra.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
+    - `Pontevedra.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
+    - `Pontevedra.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
+    - `Pontevedra.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria. Este dato deja de darse el 28 de Mayo de 2021.
+    - `Pontevedra.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
+    - `Pontevedra.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
+- `santiago.csv`. Serie histórica básica del área sanitaria de Santiago de Compostela e Barbanza. Las columnas son:
+    - `Santiago.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Santiago.altas.acum`: Altas totales hasta la fecha. 
+    - `Santiago.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `Santiago.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
+- `santiago.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Santiago de Compostela e Barbanza. Las columnas son. Las columnas son:
+    - `Santiago.domicilio`: Casos activos con seguimiento a domicilio.
+    - `Santiago.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
+    - `Santiago.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
+    - `Santiago.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
+    - `Santiago.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria de Santiago. Este dato deja de darse el 28 de Mayo de 2021.
+    - `Santiago.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
+    - `Santiago.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
+- `coruna.csv`. Serie histórica básica del área sanitaria de A Coruña e Cee. Las columnas son:
+    - `A_Coruña.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `A_Coruña.altas.acum`: Altas totales hasta la fecha. 
+    - `A_Coruña.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `A_Coruña.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
+- `coruna.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de A Coruña e Cee. Las columnas son. Las columnas son:
+    - `A_Coruña.domicilio`: Casos activos con seguimiento a domicilio.
+    - `A_Coruña.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
+    - `A_Coruña.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
+    - `A_Coruña.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
+    - `A_Coruña.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria. Este dato deja de darse el 28 de Mayo de 2021.
+    - `A_Coruña.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
+    - `A_Coruña.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
 - `ferrol.csv`. Serie histórica básica del área sanitaria de Ferrol. Las columnas son:
-    - `ferrol.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
-    - `ferrol.altas.acum`: Altas totales hasta la fecha. 
-    - `ferrol.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
-    - `ferrol.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.    
+    - `Ferrol.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Ferrol.altas.acum`: Altas totales hasta la fecha. 
+    - `Ferrol.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
+    - `Ferrol.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.    
 - `ferrol.ext.csv`. Serie histórica con datos extendidos para el área sanitaria de Ferrol. Las columnas son. Las columnas son:
-    - `ferrol.domicilio`: Casos activos con seguimiento a domicilio.
-    - `ferrol.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
-    - `ferrol.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
-    - `ferrol.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
-    - `ferrol.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria de Ferrol.
+    - `Ferrol.domicilio`: Casos activos con seguimiento a domicilio.
+    - `Ferrol.hospitalizados`: Hospitalizados totales (UCI + planta) en los hospitales del Área Sanitaria.
+    - `Ferrol.uci`: Pacientes en UCI en los hospitales del Área Sanitaria.
+    - `Ferrol.PCR.acum`: Total de pruebas PCR hechas hasta la fecha en el Área Sanitaria (*).
+    - `Ferrol.serologicas.acum`: Total de pruebas serológicas hechas hasta la fecha en el área sanitaria. Este dato deja de darse el 28 de Mayo de 2021.
+    - `Ferrol.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
+    - `Ferrol.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
     
 
 Por otra parte se incluye un fichero que contiene la correspondencia entre municipios y áreas sanitarias. Las columnas son:
