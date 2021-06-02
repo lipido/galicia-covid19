@@ -70014,3 +70014,252 @@ Fecha,area_sanitaria,concello,tipo_centro,nombre_centro,positivos,aulas_cerradas
 2021-06-01,Vigo,VIGO,IES,Rosais 2,9,0,no
 2021-06-01,Vigo,VIGO,IES,San Tomé de Freixeiro,1,0,no
 2021-06-01,Vigo,VIGO,IES,Valadares,1,0,no
+2021-06-02,Coruña,CAMBRE,E.I.,Cambre - O Temple,1,0,no
+2021-06-02,Coruña,CARBALLO,E.I.,Carballo - A Braña,1,1,no
+2021-06-02,Coruña,CULLEREDO,E.I.,Culleredo - Fonte da Balsa,1,0,no
+2021-06-02,Coruña,A CORUÑA,CEIP,Alborada,3,0,no
+2021-06-02,Coruña,A CORUÑA,CEIP,Cidade Vella,1,0,no
+2021-06-02,Coruña,A CORUÑA,CEIP,Ramón de la Sagra,1,0,no
+2021-06-02,Coruña,A CORUÑA,CEIP,Sanjurjo de Carricarte,1,0,no
+2021-06-02,Coruña,A CORUÑA,CIFP,Someso,2,0,no
+2021-06-02,Coruña,A CORUÑA,CPR,Plurilingüe Compañía de María,2,0,no
+2021-06-02,Coruña,A CORUÑA,CPR,Plurilingüe Cristo Rey,3,0,no
+2021-06-02,Coruña,A CORUÑA,CPR,Plurilingüe Esclavas Sagrado Corazón de Jesús,1,0,no
+2021-06-02,Coruña,A CORUÑA,CPR,Plurilingüe Fogar de Santa Margarida,2,0,no
+2021-06-02,Coruña,A CORUÑA,CPR,Plurilingüe Hijas de Jesús,9,0,no
+2021-06-02,Coruña,A CORUÑA,CPR,Plurilingüe Liceo La Paz,5,0,no
+2021-06-02,Coruña,A CORUÑA,CPR,Plurilingüe Santa María del Mar,1,0,no
+2021-06-02,Coruña,A CORUÑA,CPR,Plurilingüe Santo Domingo,1,0,no
+2021-06-02,Coruña,A CORUÑA,IES,Fernando Wirtz Suárez,1,0,no
+2021-06-02,Coruña,A CORUÑA,IES,Monte das Moas,1,0,no
+2021-06-02,Coruña,A CORUÑA,IES,Ramón Menéndez Pidal,1,0,no
+2021-06-02,Coruña,ARTEIXO,CEIP,San Xosé Obreiro,2,0,no
+2021-06-02,Coruña,ARTEIXO,IES,Manuel Murguía,2,0,no
+2021-06-02,Coruña,CARBALLO,IES,Alfredo Brañas,1,0,no
+2021-06-02,Coruña,CARBALLO,IES,Monte Neme,1,0,no
+2021-06-02,Coruña,CEE,CEIP,Plurilingüe Eugenio López,2,0,no
+2021-06-02,Coruña,CEE,IES,Fernando Blanco,1,0,no
+2021-06-02,Coruña,CORISTANCO,CRA,de Coristanco - Santa Comba,1,0,no
+2021-06-02,Coruña,CULLEREDO,CPR,Plurilingüe Andaina,1,0,no
+2021-06-02,Coruña,CULLEREDO,CPR,Plurilingüe Montespiño,1,0,no
+2021-06-02,Coruña,CULLEREDO,IES,Eduardo Blanco Amor,1,0,no
+2021-06-02,Coruña,CULLEREDO,IES,Universidade Laboral,1,0,no
+2021-06-02,Coruña,MALPICA DE BERGANTIÑOS,CEIP,Joaquín Rodríguez Otero,1,0,no
+2021-06-02,Coruña,OLEIROS,CEIP,Plurilingüe Isidro Parga Pondal,1,0,no
+2021-06-02,Coruña,OLEIROS,CEIP,Ramón María del Valle-Inclán,1,0,no
+2021-06-02,Ferrol,SAN SADURNIÑO,E.I.M.,A Rolada,1,0,no
+2021-06-02,Ferrol,ARES,CPI,As Mirandas,4,0,no
+2021-06-02,Ferrol,FERROL,CEIP,Cruceiro de Canido,1,0,no
+2021-06-02,Ferrol,FERROL,CPR,Plurilingüe Cristo Rey,1,0,no
+2021-06-02,Ferrol,FERROL,IES,Canido,1,0,no
+2021-06-02,Ferrol,MUGARDOS,CEIP,Plurilingüe Unión Mugardesa,1,0,no
+2021-06-02,Ferrol,NARÓN,CEIP,de Piñeiros,1,0,no
+2021-06-02,Ferrol,NARÓN,CPI,do Feal,2,0,no
+2021-06-02,Ferrol,NARÓN,CPR,Santiago Apóstol,1,0,no
+2021-06-02,Ferrol,NARÓN,IES,As Telleiras,2,0,no
+2021-06-02,Ferrol,PONTEDEUME,CPR,Plurilingüe San José,1,0,no
+2021-06-02,Ferrol,SAN SADURNIÑO,CPI,de San Sadurniño,1,0,no
+2021-06-02,Santiago,OROSO,E.I.,Oroso,1,1,no
+2021-06-02,Santiago,SANTIAGO,E.I.,Santa Susana,2,0,no
+2021-06-02,Santiago,TEO,E.I.M.,Os Tilos,1,1,no
+2021-06-02,Santiago,A POBRA DO CARAMIÑAL,CEP,Salustiano Rey Eiras,1,0,no
+2021-06-02,Santiago,A POBRA DO CARAMIÑAL,IES,da Pobra do Caramiñal,1,0,no
+2021-06-02,Santiago,AMES,CEP,Plurilingüe de Ventín,1,0,no
+2021-06-02,Santiago,AMES,EEI,do Milladoiro,1,0,no
+2021-06-02,Santiago,BOIRO,CEIP,Santa Baia,1,0,no
+2021-06-02,Santiago,BOIRO,CEIP,Santa María do Castro,1,0,no
+2021-06-02,Santiago,BOIRO,IES,Espiñeira,1,0,no
+2021-06-02,Santiago,BOIRO,IES,Plurilingüe A Cachada,2,0,no
+2021-06-02,Santiago,BOQUEIXÓN,CPI,Plurilingüe Antonio Orza Couto,1,0,no
+2021-06-02,Santiago,LOUSAME,CPI,Plurilingüe Cernadas de Castro,2,0,no
+2021-06-02,Santiago,NEGREIRA,IES,Xulián Magariños,1,0,no
+2021-06-02,Santiago,NOIA,CPR,Plurilingüe María Assumpta,2,0,no
+2021-06-02,Santiago,ORDES,CEIP,Campomaior,3,0,no
+2021-06-02,Santiago,ORDES,IES,Ordes,3,0,no
+2021-06-02,Santiago,ORDES,IES,Plurilingüe Maruxa Mallo,1,0,no
+2021-06-02,Santiago,OROSO,CEIP,Plurilingüe de Sigüeiro,2,0,no
+2021-06-02,Santiago,PADRÓN,IES,Camilo José Cela,1,0,no
+2021-06-02,Santiago,PORTO DO SON,IES,de Porto do Son,2,0,no
+2021-06-02,Santiago,RIANXO,CEIP,Alfonso D. Rodríguez Castelao,1,0,no
+2021-06-02,Santiago,RIBEIRA,CEIP,Plurilingüe de Frións,1,0,no
+2021-06-02,Santiago,RIBEIRA,CPR,Plurilingüe Galaxia,5,0,no
+2021-06-02,Santiago,RIBEIRA,CPR,Plurilingüe Sagrado Corazón de Jesús,1,0,no
+2021-06-02,Santiago,RIBEIRA,IES,Nº 1,1,0,no
+2021-06-02,Santiago,ROIS,CPI,Plurilingüe dos Dices,1,0,no
+2021-06-02,Santiago,SANTIAGO DE COMPOSTELA,CEIP,Plurilingüe Monte dos Postes,2,0,no
+2021-06-02,Santiago,SANTIAGO DE COMPOSTELA,CIFP,Compostela,1,0,no
+2021-06-02,Santiago,SANTIAGO DE COMPOSTELA,CIFP,Politécnico de Santiago,2,0,no
+2021-06-02,Santiago,SANTIAGO DE COMPOSTELA,CPR,Dolores Ramos - Manuel Peleteiro,1,0,no
+2021-06-02,Santiago,SANTIAGO DE COMPOSTELA,CPR,Plurilingüe Compañía de María,2,0,no
+2021-06-02,Santiago,SANTIAGO DE COMPOSTELA,CPR,Plurilingüe San José de Cluny,1,0,no
+2021-06-02,Santiago,SANTIAGO DE COMPOSTELA,CPR,San Jorge,1,0,no
+2021-06-02,Santiago,SANTIAGO DE COMPOSTELA,IES,Arcebispo Xelmírez II,2,0,no
+2021-06-02,Santiago,SILLEDA,CPR,Plurilingüe María Inmaculada,2,0,no
+2021-06-02,Lugo,BURELA,IES,Perdouro,1,0,no
+2021-06-02,Lugo,CERVO,CEIP,Península da Paz,1,0,no
+2021-06-02,Lugo,FOZ,CPR,Plurilingüe Nuestra Señora del Pilar,1,0,no
+2021-06-02,Lugo,GUITIRIZ,CEIP,Plurilingüe Lagostelle,1,0,no
+2021-06-02,Lugo,LUGO,CEIP,Luís Pimentel,2,0,no
+2021-06-02,Lugo,LUGO,CEIP,Rosalía de Castro,2,0,no
+2021-06-02,Lugo,LUGO,CPR,Fingoi,1,0,no
+2021-06-02,Lugo,LUGO,CPR,Galén,4,0,no
+2021-06-02,Lugo,LUGO,CPR,Plurilingüe La Inmaculada,1,0,no
+2021-06-02,Lugo,LUGO,IES,Ánxel Fole,1,0,no
+2021-06-02,Lugo,LUGO,IES,Leiras Pulpeiro,1,0,no
+2021-06-02,Lugo,LUGO,IES,Lucus Augusti,2,0,no
+2021-06-02,Lugo,LUGO,IES,Nosa Sra. dos Ollos Grandes,1,0,no
+2021-06-02,Lugo,LUGO,IES,Sanxillao,1,0,no
+2021-06-02,Lugo,MONDOÑEDO,IES,Plurilingüe San Rosendo,1,0,no
+2021-06-02,Lugo,MONFORTE DE LEMOS,CEE,Infanta Elena,1,0,no
+2021-06-02,Lugo,MONFORTE DE LEMOS,CPR,Padres Escolapios,4,0,no
+2021-06-02,Lugo,MONFORTE DE LEMOS,CPR,Plurilingüe Fundación Educativa Torre de Lemos,2,0,no
+2021-06-02,Lugo,MONFORTE DE LEMOS,IES,A Pinguela,2,0,no
+2021-06-02,Lugo,MONTERROSO,IES,de Monterroso,1,0,no
+2021-06-02,Lugo,RIBADEO,CEIP,Gregorio Sanz,3,0,no
+2021-06-02,Lugo,RIBADEO,IES,de Ribadeo Dionisio Gamallo,2,0,no
+2021-06-02,Lugo,SARRIA,IES,Gregorio Fernández,1,0,no
+2021-06-02,Lugo,TABOADA,CPI,San Tomé do Carballo,1,0,no
+2021-06-02,Lugo,VILALBA,CEIP,Manuel Mato Vizoso,2,0,no
+2021-06-02,Lugo,VILALBA,IES,Santiago Basanta Silva,7,0,no
+2021-06-02,Lugo,VIVEIRO,CEIP,de Celeiro,10,0,no
+2021-06-02,Lugo,VIVEIRO,CPR,Plurilingüe Landro,1,0,no
+2021-06-02,Lugo,VIVEIRO,IES,María Sarmiento,3,0,no
+2021-06-02,Lugo,VIVEIRO,IES,Vilar Ponte,1,0,no
+2021-06-02,Lugo,XOVE,CEIP,Plurilingüe Pedro Caselles Rollán,1,0,no
+2021-06-02,Lugo,XOVE,IES,Illa de Sarón,1,0,no
+2021-06-02,Ourense,A RÚA,CEIP,Manuel Respino,1,0,no
+2021-06-02,Ourense,A RÚA,IES,Cosme López Rodríguez,1,0,no
+2021-06-02,Ourense,COLES,CPI,Antonio Faílde,1,0,no
+2021-06-02,Ourense,O BARCO DE VALDEORRAS,CEIP,Plurilingüe Condesa de Fenosa,1,0,no
+2021-06-02,Ourense,O BARCO DE VALDEORRAS,CEIP,Plurilingüe Julio Gurriarán Canalejas,1,0,no
+2021-06-02,Ourense,O BARCO DE VALDEORRAS,CPR,Plurilingüe Divina Pastora,1,0,no
+2021-06-02,Ourense,O CARBALLIÑO,CEIP,Plurilingüe Calvo Sotelo,1,0,no
+2021-06-02,Ourense,O CARBALLIÑO,IES,Manuel Chamoso Lamas,2,0,no
+2021-06-02,Ourense,OURENSE,CEIP,Virxe de Covadonga,1,0,no
+2021-06-02,Ourense,OURENSE,CIFP,A Carballeira-Marcos Valcárcel,1,0,no
+2021-06-02,Ourense,OURENSE,CMUS,Profesional de Ourense,2,0,no
+2021-06-02,Ourense,OURENSE,CPR,Plurilingüe Divino Maestro,1,0,no
+2021-06-02,Ourense,OURENSE,CPR,Plurilingüe San José,3,0,no
+2021-06-02,Ourense,OURENSE,CPR,Plurilingüe San Pío X,1,0,no
+2021-06-02,Ourense,OURENSE,CPR,Plurilingüe Santa Teresa de Jesús,1,0,no
+2021-06-02,Ourense,OURENSE,EASD,Antonio Faílde,1,0,no
+2021-06-02,Ourense,OURENSE,EPAPU,de Ourense,1,0,no
+2021-06-02,Ourense,OURENSE,IES,Eduardo Blanco Amor,2,0,no
+2021-06-02,Ourense,OURENSE,IES,O Couto,1,0,no
+2021-06-02,Ourense,OURENSE,IES,Xesús Ferro Couselo,1,0,no
+2021-06-02,Ourense,RIBADAVIA,IES,O Ribeiro,1,0,no
+2021-06-02,Ourense,SAN CRISTOVO DE CEA,CPI,Virxe da Saleta,1,0,no
+2021-06-02,Pontevedra,BUEU,CEIP,Plurilingüe Montemogos,4,0,no
+2021-06-02,Pontevedra,BUEU,CPR,Plurilingüe Virgen Milagrosa,1,0,no
+2021-06-02,Pontevedra,BUEU,IES,Illa de Ons,1,0,no
+2021-06-02,Pontevedra,CALDAS DE REIS,CPI,Plurilingüe Alfonso VII,2,0,no
+2021-06-02,Pontevedra,MARÍN,CPR,Plurilingüe La Inmaculada,1,0,no
+2021-06-02,Pontevedra,MARÍN,IES,Mestre Landín,1,0,no
+2021-06-02,Pontevedra,MORAÑA,CPI,Plurilingüe Santa Lucía,2,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,CEIP,de Vilaverde-Mourente,2,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,CEIP,Manuel Vidal Portela,1,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,CEIP,Santo André de Xeve,3,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,CEP,Marcos da Portela,1,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,CFEA,de Lourizán,2,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,CIFP,A Xunqueira,1,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,CIFP,Carlos Oroza,2,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,CPR,Plurilingüe Calasancio,3,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,CPR,Plurilingüe Ntra. Sra. de los Dolores,1,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,EPAPU,Río Lérez,1,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,IES,A Xunqueira II,1,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,IES,Frei Martín Sarmiento,1,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,IES,Montecelo,1,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,IES,Sánchez Cantón,2,0,no
+2021-06-02,Pontevedra,PONTEVEDRA,IES,Valle-Inclán,1,0,no
+2021-06-02,Pontevedra,SOUTOMAIOR,CEIP,Manuel Padín Truiteiro,3,0,no
+2021-06-02,Pontevedra,SOUTOMAIOR,IES,de Soutomaior,1,0,no
+2021-06-02,Pontevedra,VILAGARCÍA DE AROUSA,CEIP,Arealonga,6,0,no
+2021-06-02,Pontevedra,VILAGARCÍA DE AROUSA,CEIP,de Vilaxoán,2,0,no
+2021-06-02,Pontevedra,VILAGARCÍA DE AROUSA,CPR,Plurilingüe Sagrada Familia,1,0,no
+2021-06-02,Pontevedra,VILAGARCÍA DE AROUSA,CPR,Plurilingüe San Francisco,1,0,no
+2021-06-02,Pontevedra,VILAGARCÍA DE AROUSA,IES,Armando Cotarelo Valledor,1,0,no
+2021-06-02,Pontevedra,VILAGARCÍA DE AROUSA,IES,Castro Alobre,1,0,no
+2021-06-02,Pontevedra,VILAGARCÍA DE AROUSA,IES,Fermín Bouza Brey,1,0,no
+2021-06-02,Pontevedra,VILANOVA DE AROUSA,CEIP,de Sestelo-Baión,1,0,no
+2021-06-02,Pontevedra,VILANOVA DE AROUSA,CEIP,Plurilingüe Xulio Camba,1,0,no
+2021-06-02,Vigo,CANGAS,E.I.,Cangas - O Hío,1,0,no
+2021-06-02,Vigo,VIGO,E.I,A Camelia,1,1,no
+2021-06-02,Vigo,VIGO,E.I.,Rúa Palencia Vigo,5,1,no
+2021-06-02,Vigo,MOAÑA,E.I.,Cocoricó,1,0,no
+2021-06-02,Vigo,MOAÑA,E.I.,Dalila Reibón,5,3,no
+2021-06-02,Vigo,MOAÑA,E.I.,Moaña,3,0,no
+2021-06-02,Vigo,A GUARDA,CMUS,Elemental da Guarda,1,0,no
+2021-06-02,Vigo,A GUARDA,IES,A Sangriña,1,0,no
+2021-06-02,Vigo,AS NEVES,IES,Pazo da Mercé,1,0,no
+2021-06-02,Vigo,BAIONA,IES,Primeiro de Marzo,1,0,no
+2021-06-02,Vigo,CANGAS,CEIP,Plurilingüe de San Roque de Darbo,1,0,no
+2021-06-02,Vigo,CANGAS,CPR,Plurilingüe Casa de la Virgen,2,0,no
+2021-06-02,Vigo,CANGAS,IES,María Soliño,1,0,no
+2021-06-02,Vigo,GONDOMAR,IES,Plurilingüe Terra de Turonio,2,0,no
+2021-06-02,Vigo,MOAÑA,CEIP,A Guía,2,0,no
+2021-06-02,Vigo,MOAÑA,CEIP,Plurilingüe de Reibón,1,0,no
+2021-06-02,Vigo,MOAÑA,IES,Plurilingüe A Paralaia,1,0,no
+2021-06-02,Vigo,MOS,CEIP,de Atín-Cela,1,0,no
+2021-06-02,Vigo,MOS,CEIP,Mestre Martínez Alonso,5,0,no
+2021-06-02,Vigo,MOS,CEIP,Plurilingüe Pena de Francia,2,0,no
+2021-06-02,Vigo,MOS,IES,de Mos,33,4,no
+2021-06-02,Vigo,O PORRIÑO,CEIP,Plurilingüe Xosé Fernández López,1,0,no
+2021-06-02,Vigo,O PORRIÑO,IES,Ribeira do Louro,1,0,no
+2021-06-02,Vigo,PONTEAREAS,CEIP,Nosa Señora dos Remedios,1,0,no
+2021-06-02,Vigo,PONTEAREAS,CEIP,Plurilingüe Mestre Ramiro Sabell Mosquera,2,0,no
+2021-06-02,Vigo,PONTEAREAS,CIFP,A Granxa,2,0,no
+2021-06-02,Vigo,PONTEAREAS,CPR,Plurilingüe Santiago Apóstol,2,0,no
+2021-06-02,Vigo,PONTEAREAS,IES,do Barral,1,0,no
+2021-06-02,Vigo,PONTEAREAS,IES,Pedra da Auga,1,0,no
+2021-06-02,Vigo,REDONDELA,CMUS,Profesional de Redondela,2,0,no
+2021-06-02,Vigo,REDONDELA,IES,de Chapela,1,0,no
+2021-06-02,Vigo,REDONDELA,IES,Illa de San Simón,1,0,no
+2021-06-02,Vigo,SALCEDA DE CASELAS,CEP,Altamira,1,0,no
+2021-06-02,Vigo,SALVATERRA DE MIÑO,CEIP,Plurilingüe Infante Felipe de Borbón,1,0,no
+2021-06-02,Vigo,TOMIÑO,IES,Antón Alonso Ríos,1,0,no
+2021-06-02,Vigo,VIGO,CEE,Saladino Cortizo,1,0,no
+2021-06-02,Vigo,VIGO,CEIP,de Chans-Bembrive,1,1,no
+2021-06-02,Vigo,VIGO,CEIP,de Coutada-Beade,1,0,no
+2021-06-02,Vigo,VIGO,CEIP,Josefa Alonso de Alonso,2,0,no
+2021-06-02,Vigo,VIGO,CEIP,O Sello,1,0,no
+2021-06-02,Vigo,VIGO,CEIP,Plurilingüe A Doblada,3,0,no
+2021-06-02,Vigo,VIGO,CEIP,Plurilingüe Párroco Don Camilo,5,0,no
+2021-06-02,Vigo,VIGO,CEIP,Seis do Nadal,4,0,no
+2021-06-02,Vigo,VIGO,CEIP,Vicente Risco,2,1,no
+2021-06-02,Vigo,VIGO,CEP,Plurilingüe Igrexa-Valadares,5,1,no
+2021-06-02,Vigo,VIGO,CEP,Plurilingüe Santa Tegra-Teis,1,0,no
+2021-06-02,Vigo,VIGO,CIFP,Manuel Antonio,6,0,no
+2021-06-02,Vigo,VIGO,CIFP,Valentín Paz Andrade,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Aloya,1,0,no
+2021-06-02,Vigo,VIGO,CPR,CEBEM,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Colegio Hogar Afundación,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Daniel Castelao,2,0,no
+2021-06-02,Vigo,VIGO,CPR,Fillas de María Inmaculada,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Mendiño,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Amor de Dios,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Andersen Augalonga,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Atlántida,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Bouza Brey,2,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Compañía de María,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Divino Salvador,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Don Bosco,3,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe El Pilar,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe María Inmaculada,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Mariano,2,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Niño Jesús de Praga,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Padre Míguez,6,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Possumus,2,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe Rosalía de Castro,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe San Blas - Vista Alegre,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe San José de Cluny,1,0,no
+2021-06-02,Vigo,VIGO,CPR,Plurilingüe San José de la Guía,2,0,no
+2021-06-02,Vigo,VIGO,EEI,Vila Laura,1,0,no
+2021-06-02,Vigo,VIGO,EOI,de Vigo,2,0,no
+2021-06-02,Vigo,VIGO,IES,A Guía,1,0,no
+2021-06-02,Vigo,VIGO,IES,Carlos Casares,2,0,no
+2021-06-02,Vigo,VIGO,IES,de Teis,1,0,no
+2021-06-02,Vigo,VIGO,IES,do Castro,2,0,no
+2021-06-02,Vigo,VIGO,IES,Ricardo Mella,2,0,no
+2021-06-02,Vigo,VIGO,IES,Rosais 2,9,0,no
+2021-06-02,Vigo,VIGO,IES,San Tomé de Freixeiro,1,0,no
+2021-06-02,Vigo,VIGO,IES,Valadares,1,0,no
