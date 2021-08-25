@@ -16,8 +16,9 @@ while [ "$(grep "REFRESH" /tmp/mapa-covid.html | wc -l)" -ne "0" ]; do
   wget -O /tmp/mapa-covid.html "${new_url}"
 done
 
+wget -O ${DATE}_mapa-concellos-incidencia-7dias-14dias.csv ${new_url}dataset.csv
 
 
-cat /tmp/mapa-covid.html | grep '\\"data\\"'| sed -e 's/.*data\\":\\"\(.*\)\\",\\"chart\\".*/\1/g' | sed -e 's/\\n/\n/g' | sed -e 's/\\r/\r/g' | tr -d '\r' |tr -d '\' | grep -v "^\",$" | sed -e 's/u00D1/Ñ/g' | sed -e 's/u2264/≤/g' | sed -e 's/u00E1/á/g' | sed -e 's/u00FA/ú/g' > ${DATE}_mapa-concellos-incidencia-7dias-14dias.csv
+#cat /tmp/mapa-covid.html | grep '\\"data\\"'| sed -e 's/.*data\\":\\"\(.*\)\\",\\"chart\\".*/\1/g' | sed -e 's/\\n/\n/g' | sed -e 's/\\r/\r/g' | tr -d '\r' |tr -d '\' | grep -v "^\",$" | sed -e 's/u00D1/Ñ/g' | sed -e 's/u2264/≤/g' | sed -e 's/u00E1/á/g' | sed -e 's/u00FA/ú/g' > ${DATE}_mapa-concellos-incidencia-7dias-14dias.csv
 #cat /tmp/mapa-covid.html | grep chartData| sed -e 's/.*chartData\\":\\"\(.*\)\\",\\".*isPreview.*/\1/g' | sed -e 's/\\n/\n/g' | sed -e 's/\\r/\r/g' | tr -d '\r' |tr -d '\' | grep -v "^\",$" | sed -e 's/u00D1/Ñ/g' | sed -e 's/u2264/≤/g' | sed -e 's/u00E1/á/g' | sed -e 's/u00FA/ú/g'> ${DATE}_mapa-concellos-incidencia-7dias-14dias.csv
 
