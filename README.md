@@ -16,12 +16,12 @@ Series históricas del SERGAS
 Las series históricas proporcionadas por el SERGAS. Los ficheros son:
 
 - `galicia.csv`. Serie histórica básica de Galicia (casos totales, activos, altas y fallecimientos). Las columnas son:
-    - `Galicia.casos.acum`: Casos totales hasta la fecha. La Consellería de Sanidade publica los casos activos y no los casos totales como tal. Esta columna es la resultante de sumarle los fallecidos y las altas al dato de activos de la Consellería. Por tanto, los casos activos serían `Galicia.casos.acum` - `Galicia.altas.acum` - `Galicia.fallecidos.acum`.
+    - `Galicia.casos.acum`: Casos totales hasta la fecha. La Consellería de Sanidade publica los casos activos y no los casos totales como tal. Esta columna es la resultante de sumarle los fallecidos y las altas al dato de activos de la Consellería. Por tanto, los casos activos serían `Galicia.casos.acum` - `Galicia.altas.acum` - `Galicia.fallecidos.acum`. La mayoría son PCR+, pero no todos. Desde 9/1/2022 se incluyen también los positivos con test casero de antígeno.
     - `Galicia.altas.acum`: Altas totales hasta la fecha.
     - `Galicia.fallecidos.acum`: Fallecidos totales hasta la fecha.
     - `Galicia.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
 - `ourense.csv`. Serie histórica básica del área sanitaria de Ourense, Verín e O Barco de Valdeorras. Las columnas son:
-    - `Ourense.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Ourense.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos. Desde 9/1/2022 se incluyen también los positivos con test casero de antígeno.
     - `Ourense.altas.acum`: Altas totales hasta la fecha. 
     - `Ourense.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
     - `Ourense.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
@@ -40,7 +40,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Ourense.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
     - `Ourense.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
 - `lugo.csv`. Serie histórica básica del área sanitaria de Lugo, A Mariña e Monforte de Lemos. Las columnas son:
-    - `Lugo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Lugo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos. Desde 9/1/2022 se incluyen también los positivos con test casero de antígeno.
     - `Lugo.altas.acum`: Altas totales hasta la fecha. 
     - `Lugo.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
     - `Lugo.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
@@ -53,7 +53,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Lugo.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
     - `Lugo.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
 - `vigo.csv`. Serie histórica básica del área sanitaria de Vigo. Las columnas son:
-    - `Vigo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Vigo.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos. Desde 9/1/2022 se incluyen también los positivos con test casero de antígeno.
     - `Vigo.altas.acum`: Altas totales hasta la fecha. 
     - `Vigo.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
     - `Vigo.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
@@ -66,7 +66,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Vigo.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
     - `Vigo.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
 - `pontevedra.csv`. Serie histórica básica del área sanitaria de Pontevedra e O Salnés. Las columnas son:
-    - `Pontevedra.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Pontevedra.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos. Desde 9/1/2022 se incluyen también los positivos con test casero de antígeno.
     - `Pontevedra.altas.acum`: Altas totales hasta la fecha. 
     - `Pontevedra.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
     - `Pontevedra.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
@@ -79,7 +79,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Pontevedra.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
     - `Pontevedra.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
 - `santiago.csv`. Serie histórica básica del área sanitaria de Santiago de Compostela e Barbanza. Las columnas son:
-    - `Santiago.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Santiago.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos. Desde 9/1/2022 se incluyen también los positivos con test casero de antígeno.
     - `Santiago.altas.acum`: Altas totales hasta la fecha. 
     - `Santiago.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
     - `Santiago.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
@@ -92,7 +92,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `Santiago.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
     - `Santiago.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
 - `coruna.csv`. Serie histórica básica del área sanitaria de A Coruña e Cee. Las columnas son:
-    - `A_Coruña.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `A_Coruña.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos. Desde 9/1/2022 se incluyen también los positivos con test casero de antígeno.
     - `A_Coruña.altas.acum`: Altas totales hasta la fecha. 
     - `A_Coruña.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
     - `A_Coruña.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.
@@ -105,7 +105,7 @@ Las series históricas proporcionadas por el SERGAS. Los ficheros son:
     - `A_Coruña.antigeno.acum`: Total de pruebas de antígeno hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
     - `A_Coruña.no_pdia.acum`: Total de pruebas que no se consideran PDIA (Pruebas Diagnósticas de Infección Activa, como lo sería PCR o antígeno) hechas hasta la fecha en el área sanitaria. Este dato se da a partir del 28 de Mayo de 2021.
 - `ferrol.csv`. Serie histórica básica del área sanitaria de Ferrol. Las columnas son:
-    - `Ferrol.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos.
+    - `Ferrol.casos.acum`: Casos totales hasta la fecha. Los casos son tanto con PCR positiva, como anticuerpos. La mayoría son PCR+, pero no todos. Desde 9/1/2022 se incluyen también los positivos con test casero de antígeno.
     - `Ferrol.altas.acum`: Altas totales hasta la fecha. 
     - `Ferrol.fallecidos.acum`: Fallecidos totales hasta la fecha. Hasta el 8 de abril no se inluían fallecidos en residencias.
     - `Ferrol.confirmados_pcr_24h`: Nuevos casos confirmados por PCR en las últimas 24h. Disponible desde 8/10/2020.    
