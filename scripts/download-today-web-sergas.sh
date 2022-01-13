@@ -29,7 +29,7 @@ declare -A fallecidos
 declare -A pcr
 declare -A no_pdia
 declare -A antigeno
-declare -A confirmados_pcr_24h
+declare -A casos_abiertos_24h
 declare -A planta
 declare -A uci
 declare -A hospitalizados
@@ -43,7 +43,7 @@ for FICHERO_AREA in "${!areas[@]}"; do
   # Print the VALUE attached to that KEY
   linea_area=$(cat /tmp/datos_sergas.csv | grep ${areas[$FICHERO_AREA]})
   
-  variables=(casos confirmados_pcr_24h altas fallecidos pcr planta uci activos no_pdia antigeno)
+  variables=(casos casos_abiertos_24h altas fallecidos pcr planta uci activos no_pdia antigeno)
   columnas=(3 4 6 11 9 7 8 5 10 12)
   for ((i = 0; i < ${#variables[@]}; ++i)); do
     # bash arrays are 0-indexed
@@ -91,7 +91,7 @@ function imprimeArea {
   echo -ne ${altas[$area]}'\t'
   echo -ne ${fallecidos[$area]}'\t'
   echo -ne ${activos[$area]}'\t'
-  echo -ne ${confirmados_pcr_24h[$area]}'\t'
+  echo -ne '\t' #nos saltamos los casos pcr 24h, ya que no se reporta esta informacion desde el 13/01/2022
   echo -ne ${domicilio[$area]}'\t'
   echo -ne ${hospitalizados[$area]}'\t'
   echo -ne ${uci[$area]}'\t'
@@ -120,7 +120,7 @@ echo -ne ${casos[$area]}'\t'
 echo -ne ${altas[$area]}'\t'
 echo -ne ${fallecidos[$area]}'\t'
 echo -ne ${activos[$area]}'\t'
-echo -ne ${confirmados_pcr_24h[$area]}'\t'
+echo -ne '\t' #nos saltamos los casos pcr 24h, ya que no se reporta esta informacion desde el 13/01/2022
 echo -ne ${domicilio[$area]}'\t'
 echo -ne ${hospitales_ourense_hospitalizados["chuo"]}'\t'
 echo -ne ${hospitales_ourense_hospitalizados["carmen"]}'\t'

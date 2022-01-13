@@ -14,9 +14,9 @@ fi
 DATA_DATE=$(date --date "$PUBDATE -1 days" "+%Y-%m-%d")
 
 if [ -z $NOAPPEND ]; then
-  wget -O - "https://coronavirus.sergas.gal/infodatos/${DATA_DATE}_COVID19_Web_CifrasTotais_PDIA.csv" | tail -n +2  | tr -d '\r' | grep -v "^$" >> CifrasTotais_PDIA.csv 
+  wget -O - "https://coronavirus.sergas.gal/infodatos/${DATA_DATE}_COVID19_Web_CifrasTotais_PDIA.csv" | tail -n +2  | tr -d '\r' | grep -v "^$" >> CifrasTotais_PDIA_Autotest.csv 
 else
-  wget -O - "https://coronavirus.sergas.gal/infodatos/${DATA_DATE}_COVID19_Web_CifrasTotais_PDIA.csv" | tr -d '\r' | grep -v "^$" > CifrasTotais_PDIA.csv 
+  wget -O - "https://coronavirus.sergas.gal/infodatos/${DATA_DATE}_COVID19_Web_CifrasTotais_PDIA.csv" | tr -d '\r' | grep -v "^$" > CifrasTotais_PDIA_Autotest.csv 
 fi
 
 if [ -z $NOAPPEND ]; then
@@ -30,7 +30,7 @@ wget -O - "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_Acti
 
 
 # serie
-wget -O - "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_InfectadosPorFecha_PDIA.csv" | tr -d '\r' | grep -v "^$" > InfectadosPorFecha_PDIA.csv
+wget -O - "https://coronavirus.sergas.es/infodatos/${DATA_DATE}_COVID19_Web_InfectadosPorFecha_PDIA_Autotest.csv" | tr -d '\r' | grep -v "^$" > InfectadosPorFecha_PDIA_Autotest.csv
 
 
 # acumulado
