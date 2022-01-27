@@ -9,11 +9,10 @@ MAP_ID=$(wget -O - https://coronavirus.sergas.es/datos/libs/hot-config/hot-confi
 wget -O /tmp/mapa-covid.html https://datawrapper.dwcdn.net/${MAP_ID}/1/
 
 
-
 while [ "$(grep "REFRESH" /tmp/mapa-covid.html | wc -l)" -ne "0" ]; do
-  new_url=$(cat /tmp/mapa-covid.html | sed -e 's/.*url=\(.*\)".*/\1/g' | tr -d '\r' | tr -d '\n')
+  new_url=$(cat /tmp/mapa-covid.html | grep "REFRESH" | sed -e 's/.*url=\(.*\)".*/\1/g' | tr -d '\r' | tr -d '\n')
   echo "following to: ${new_url}"
-  wget -O /tmp/mapa-covid.html "${new_url}"
+  wget -O /tmp/mapa-covid.html "${new_url}"  
 done
 
 wget -O ${DATE}_mapa-concellos-incidencia-7dias-14dias.csv ${new_url}dataset.csv
