@@ -22,6 +22,9 @@
     #logo {
       vertical-align: middle;
     }
+    @media print {
+      .pagebreak { page-break-before: always; }
+    }
   </style>
 </head>
 <body>
@@ -47,7 +50,7 @@ Fecha de última actualización:
 <h2>Tabla de datos</h2>
 <iframe width="1035" style="border:0" seamless scrolling="no" frameborder="0" height="630" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYlXAOyoaIUaKYns9HLI_Gzm7lU4jTNE-xD9oNG72cam2wgXoN-GjHF6VPprfdE3FxYX6pa8EwphJ6/pubhtml?gid=291698673&amp;single=true&amp;widget=false&amp;headers=false&amp;range=AX14:BF39&amp;chrome=false"></iframe>
 
-
+<div class="pagebreak"></div>
 <h2 id="incidencia">Incidencia y evolución</h2>
 <!-- casos -->
 <!--<iframe width="1014" height="449" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYlXAOyoaIUaKYns9HLI_Gzm7lU4jTNE-xD9oNG72cam2wgXoN-GjHF6VPprfdE3FxYX6pa8EwphJ6/pubchart?oid=1850843625&amp;format=interactive"></iframe>
@@ -57,7 +60,7 @@ Fecha de última actualización:
 
 <!-- MM 7dias de nuevos casos por tipo de prueba -->
 <iframe width="1012" height="456" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYlXAOyoaIUaKYns9HLI_Gzm7lU4jTNE-xD9oNG72cam2wgXoN-GjHF6VPprfdE3FxYX6pa8EwphJ6/pubchart?oid=167813540&amp;format=interactive"></iframe>
-
+<div class="pagebreak"></div>
 <!-- IA14 por áreas -->
 <iframe width="1014" height="456" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYlXAOyoaIUaKYns9HLI_Gzm7lU4jTNE-xD9oNG72cam2wgXoN-GjHF6VPprfdE3FxYX6pa8EwphJ6/pubchart?oid=1122891636&amp;format=interactive"></iframe>
 
@@ -66,7 +69,7 @@ Fecha de última actualización:
 
 
 
-<h2 id="pcr">PCRs</h2>
+<h2 id="pcr" class="pagebreak">PCRs</h2>
 
 <!-- Pruebas PCR y positividad Galicia -->
 <iframe width="1012" height="385" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYlXAOyoaIUaKYns9HLI_Gzm7lU4jTNE-xD9oNG72cam2wgXoN-GjHF6VPprfdE3FxYX6pa8EwphJ6/pubchart?oid=1551182130&amp;format=interactive"></iframe>
@@ -74,7 +77,7 @@ Fecha de última actualización:
 <!-- PCRs totales por área sanitaria -->
 <iframe width="1012" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYlXAOyoaIUaKYns9HLI_Gzm7lU4jTNE-xD9oNG72cam2wgXoN-GjHF6VPprfdE3FxYX6pa8EwphJ6/pubchart?oid=396271968&amp;format=interactive"></iframe>
 
-<h2 id="carga-asistencial">Carga asistencial</h2>
+<h2 id="carga-asistencial" class="pagebreak">Carga asistencial</h2>
 <!-- activos -->
 <iframe width="1009" height="413" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYlXAOyoaIUaKYns9HLI_Gzm7lU4jTNE-xD9oNG72cam2wgXoN-GjHF6VPprfdE3FxYX6pa8EwphJ6/pubchart?oid=1356025342&amp;format=interactive"></iframe>
 
@@ -87,7 +90,7 @@ Fecha de última actualización:
 <!-- Porcentaje hospitalizados -->
 <iframe width="1009" height="456" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYlXAOyoaIUaKYns9HLI_Gzm7lU4jTNE-xD9oNG72cam2wgXoN-GjHF6VPprfdE3FxYX6pa8EwphJ6/pubchart?oid=1490275457&amp;format=interactive"></iframe>
 
-<h2 id="mapas">Mapas por concellos</h2>
+<h2 id="mapas" class="pagebreak">Mapas por concellos</h2>
 <h3>Mapa oficial del SERGAS</h3>
 <h4>Novos casos diagnosticados por PDIA (Probas Diagnósticas de Infección Activa) nos últimos 7 e 14 días</h4>
 <iframe title="Mapa de casos" aria-label="Mapa" id="datawrapper-chart-cases-map" scrolling="no" style="border: none;" src="https://datawrapper.dwcdn.net/jKpTc/?cache=1605953082704" height="576" width="640" frameborder="0"></iframe>
