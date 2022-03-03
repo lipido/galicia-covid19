@@ -1,6 +1,6 @@
 #!/bin/bash
 
-today_data=$(./download-today-web-sergas.sh)
+today_data=$(./download-today-web-sergas.sh $1)
 OUTPUT_DIR=../
 
 
